@@ -1,0 +1,4 @@
+qseqid	qstart	qend	qlen	sseqid	sstart	send	slen	evalue	length	pident	gaps	gapopen	stitle
+HOLGGCEK_00143	1	864	864	ARGMiner~~~pbp1a~~~ZP_00155442~~~beta_lactam	1	864	864	0.0	864	100	0	0	ARGMiner~~~pbp1a~~~ZP_00155442~~~beta_lactam unknown
+HOLGGCEK_01105	1	464	464	ARGMiner~~~hmrM~~~WP_014550864.1~~~multidrug	1	464	464	0.0	464	100	0	0	ARGMiner~~~hmrM~~~WP_014550864.1~~~multidrug unknown
+HOLGGCEK_01374	20	224	224	ARGMiner~~~CRP~~~WP_000242761.1~~~macrolide;fluoroquinolone;penam	6	210	210	8.86e-118	205	78.0	0	0	ARGMiner~~~CRP~~~WP_000242761.1~~~macrolide;fluoroquinolone;penam unknown

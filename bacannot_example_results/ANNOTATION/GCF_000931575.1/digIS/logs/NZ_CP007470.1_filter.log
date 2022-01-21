@@ -1,0 +1,6 @@
+1: IS1595, 30, 70, NZ_CP007470.1, 92267, 92383, -, 0.9, 7.0, 0.0022 filtered because of the low e-value
+4: IS3_IS3, 61, 84, NZ_CP007470.1, 443122, 443193, +, 0.93, 3.8, 0.023 filtered because of the low e-value
+6: IS3_IS51, 61, 84, NZ_CP007470.1, 443122, 443193, +, 0.93, 3.9, 0.02 filtered because of the low e-value
+3:5 [159] IS3_IS150, 55, 106, NZ_CP007470.1, 1622899, 1623057, +, 0.91, 49.6, 1.2e-16 merged with overlapping element: IS3_IS3, 53, 107, NZ_CP007470.1, 1622890, 1623057, +, 0.89, 34.8, 5e-12
+3:7 [168] IS3_IS3-IS3_IS150, 53, 107, NZ_CP007470.1, 1622890, 1623057, +, 0.9089285714285713, 49.6, 1.2e-16 merged with overlapping element: IS3_IS51, 50, 107, NZ_CP007470.1, 1622881, 1623057, +, 0.9, 28.0, 6.5e-10
+2: IS3_IS150, 60, 83, NZ_CP007470.1, 443122, 443193, +, 0.94, 13.9, 1.5e-05 filtered because of the length

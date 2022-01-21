@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         phmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /work/digIS/data/models/fasta/outliers.fasta
+# Target file:     digIS/pep/NC_016809.1.pep
+# Option settings: phmmer --domtblout digIS/hmmer/NC_016809.1_phmmer.hmmer3 --noali --domT 0.0 --cpu 4 /work/digIS/data/models/fasta/outliers.fasta digIS/pep/NC_016809.1.pep 
+# Current dir:     /work1/falmeida/bacannot_tests/dataset/h_influenzae/work/86/9d9e5d4e3653d779d5e9d5ca3c8794
+# Date:            Fri Jan 21 06:34:20 2022
+# [ok]

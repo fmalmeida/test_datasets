@@ -1,0 +1,32 @@
+2022-01-21 06:28:03 INFO     Welcome to PhiSpy.py version 4.2.19
+2022-01-21 06:28:03 INFO     Starting PhiSpy.py with the following arguments
+Namespace(infile='GCF_000767075.1.gbk', output_dir='PhiSpy', make_training_data=None, training_set='data/trainSet_genericAll.txt', list=False, file_prefix='', evaluate=False, number=5, min_contig_size=5000, window_size=30, nonprophage_genegaps=10, phage_genes=1, metrics=['orf_length_med', 'shannon_slope', 'at_skew', 'gc_skew', 'max_direction'], randomforest_trees=500, expand_slope=False, kmers_type='all', phmms=None, include_annotations=True, ignore_annotations=False, color=True, threads=6, output_choice=127, include_all_repeats=False, keep_dropped_predictions=False, extra_dna=2000, min_repeat_len=10, log='PhiSpy/phispy.log', quiet=False, keep=False, logger=<Logger PhiSpy (Level 5)>)
+2022-01-21 06:28:03 INFO     Processing 1 contigs
+2022-01-21 06:28:03 INFO     Making Testing Set...
+2022-01-21 06:28:10 INFO     Start Classification Algorithm...
+2022-01-21 06:28:10 INFO     Using training set in data/trainSet_genericAll.txt
+2022-01-21 06:28:12 INFO     Using the following metric(s): {'gc_skew', 'orf_length_med', 'at_skew', 'max_direction', 'shannon_slope'}.
+2022-01-21 06:28:12 INFO     Running the random forest classifier with 500 trees and 6 threads
+2022-01-21 06:34:57 INFO     Rank threshold calculated as 0.5434328571428572
+2022-01-21 06:34:57 INFO     As the training flag is zero, down-weighting unknown functions
+2022-01-21 06:34:57 INFO     Evaluating...
+2022-01-21 06:34:57 INFO     Checking prophages we might have found
+2022-01-21 06:34:57 INFO     Potential prophages (sorted highest to lowest)
+2022-01-21 06:34:57 INFO     Contig	Start	Stop	Number of potential genes	Status
+2022-01-21 06:34:57 INFO     NZ_CP009610.1	642241	691601	65	Kept
+2022-01-21 06:34:57 INFO     NZ_CP009610.1	1286089	1303831	7	Kept
+2022-01-21 06:34:57 INFO     NZ_CP009610.1	1418338	1424487	3	Dropped. Region too small (Not enough genes)
+2022-01-21 06:34:57 INFO     NZ_CP009610.1	1194064	1196145	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:34:57 INFO     NZ_CP009610.1	749013	749906	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:34:57 INFO     NZ_CP009610.1	363148	364035	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:34:57 INFO     PROPHAGE: 1 Contig: NZ_CP009610.1 Start: 642241 Stop: 691601
+2022-01-21 06:34:57 INFO     PROPHAGE: 2 Contig: NZ_CP009610.1 Start: 1286089 Stop: 1303831
+2022-01-21 06:34:58 INFO     Creating output files
+2022-01-21 06:34:58 INFO     Writing prophage.tbl output file
+2022-01-21 06:34:58 INFO     Writing GFF3 output file
+2022-01-21 06:34:58 INFO     Writing prophage.tsv output file
+2022-01-21 06:34:58 INFO     Writing prophage_information.tsv output file
+2022-01-21 06:34:58 INFO     Writing bacterial and phage DNA as fasta
+2022-01-21 06:34:58 INFO     Writing GenBank output file
+2022-01-21 06:34:58 INFO     Writing prophage_coordinates output file
+2022-01-21 06:34:58 INFO     Done!!! Output is in PhiSpy and the log is in PhiSpy/phispy.log

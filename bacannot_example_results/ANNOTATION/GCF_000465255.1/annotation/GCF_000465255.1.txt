@@ -1,0 +1,8 @@
+organism:   GCF_000465255.1 
+contigs: 1
+bases: 1856176
+CDS: 1736
+rRNA: 20
+repeat_region: 1
+tRNA: 58
+tmRNA: 1

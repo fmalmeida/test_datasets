@@ -1,0 +1,47 @@
+2022-01-21 06:36:37 INFO     Welcome to PhiSpy.py version 4.2.19
+2022-01-21 06:36:37 INFO     Starting PhiSpy.py with the following arguments
+Namespace(infile='GCF_000200475.1.gbk', output_dir='PhiSpy', make_training_data=None, training_set='data/trainSet_genericAll.txt', list=False, file_prefix='', evaluate=False, number=5, min_contig_size=5000, window_size=30, nonprophage_genegaps=10, phage_genes=1, metrics=['orf_length_med', 'shannon_slope', 'at_skew', 'gc_skew', 'max_direction'], randomforest_trees=500, expand_slope=False, kmers_type='all', phmms=None, include_annotations=True, ignore_annotations=False, color=True, threads=6, output_choice=127, include_all_repeats=False, keep_dropped_predictions=False, extra_dna=2000, min_repeat_len=10, log='PhiSpy/phispy.log', quiet=False, keep=False, logger=<Logger PhiSpy (Level 5)>)
+2022-01-21 06:36:38 INFO     Processing 1 contigs
+2022-01-21 06:36:38 INFO     Making Testing Set...
+2022-01-21 06:36:46 INFO     Start Classification Algorithm...
+2022-01-21 06:36:46 INFO     Using training set in data/trainSet_genericAll.txt
+2022-01-21 06:36:49 INFO     Using the following metric(s): {'gc_skew', 'shannon_slope', 'at_skew', 'orf_length_med', 'max_direction'}.
+2022-01-21 06:36:49 INFO     Running the random forest classifier with 500 trees and 6 threads
+2022-01-21 06:45:20 INFO     Rank threshold calculated as 0.395321739130435
+2022-01-21 06:45:20 INFO     As the training flag is zero, down-weighting unknown functions
+2022-01-21 06:45:20 INFO     Evaluating...
+2022-01-21 06:45:20 INFO     Checking prophages we might have found
+2022-01-21 06:45:20 INFO     Potential prophages (sorted highest to lowest)
+2022-01-21 06:45:20 INFO     Contig	Start	Stop	Number of potential genes	Status
+2022-01-21 06:45:20 INFO     NC_014922.1	1378384	1414056	34	Kept
+2022-01-21 06:45:20 INFO     NC_014922.1	1953780	1971916	30	Kept
+2022-01-21 06:45:20 INFO     NC_014922.1	1666490	1683175	29	Kept
+2022-01-21 06:45:20 INFO     NC_014922.1	850414	874257	29	Kept
+2022-01-21 06:45:20 INFO     NC_014922.1	456881	479755	8	Kept
+2022-01-21 06:45:20 INFO     NC_014922.1	1693147	1694394	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	1645384	1645800	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	1371691	1372947	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	1256271	1258352	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	939440	940333	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	837624	838574	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	829271	830296	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	599274	600161	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	490580	491635	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     NC_014922.1	221975	222283	1	Dropped. Region too small (Not enough genes)
+2022-01-21 06:45:20 INFO     PROPHAGE: 1 Contig: NC_014922.1 Start: 456881 Stop: 479755
+2022-01-21 06:45:20 INFO     PROPHAGE: 2 Contig: NC_014922.1 Start: 850414 Stop: 874257
+2022-01-21 06:45:20 INFO     There were 2 repeats with the same length as the best. One chosen somewhat randomly!
+2022-01-21 06:45:20 INFO     PROPHAGE: 3 Contig: NC_014922.1 Start: 1378384 Stop: 1414056
+2022-01-21 06:45:21 INFO     PROPHAGE: 4 Contig: NC_014922.1 Start: 1666490 Stop: 1683175
+2022-01-21 06:45:21 INFO     There were 5 repeats with the same length as the best. One chosen somewhat randomly!
+2022-01-21 06:45:21 INFO     PROPHAGE: 5 Contig: NC_014922.1 Start: 1953780 Stop: 1971916
+2022-01-21 06:45:21 INFO     There were 2 repeats with the same length as the best. One chosen somewhat randomly!
+2022-01-21 06:45:21 INFO     Creating output files
+2022-01-21 06:45:21 INFO     Writing prophage.tbl output file
+2022-01-21 06:45:21 INFO     Writing GFF3 output file
+2022-01-21 06:45:21 INFO     Writing prophage.tsv output file
+2022-01-21 06:45:21 INFO     Writing prophage_information.tsv output file
+2022-01-21 06:45:21 INFO     Writing bacterial and phage DNA as fasta
+2022-01-21 06:45:21 INFO     Writing GenBank output file
+2022-01-21 06:45:21 INFO     Writing prophage_coordinates output file
+2022-01-21 06:45:21 INFO     Done!!! Output is in PhiSpy and the log is in PhiSpy/phispy.log

@@ -1,0 +1,2 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaTEM-1B	100.00	861/861	100.0	1..861	NC_007146.2	128729..129589	Beta-lactam resistance Alternate name; RblaTEM-1	AY458016

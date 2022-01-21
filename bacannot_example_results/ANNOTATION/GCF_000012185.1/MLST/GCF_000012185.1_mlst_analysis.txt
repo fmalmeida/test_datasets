@@ -1,0 +1,1 @@
+GCF_000012185.1.fna	hinfluenzae	33	adk(1)	atpG(10)	frdB(1)	fucK(1)	mdh(1)	pgi(6)	recA(5)

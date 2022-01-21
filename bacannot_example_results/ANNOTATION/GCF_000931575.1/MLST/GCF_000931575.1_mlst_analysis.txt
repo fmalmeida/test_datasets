@@ -1,0 +1,1 @@
+GCF_000931575.1.fna	hinfluenzae	1	adk(1)	atpG(1)	frdB(1)	fucK(14)	mdh(15)	pgi(1)	recA(5)

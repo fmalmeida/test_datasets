@@ -1,0 +1,19 @@
+2022-01-21 06:26:50,071 - INFO - MAIN - version 1.6
+2022-01-21 06:26:50,072 - INFO - MAIN - command line: /opt/conda/bin/platon --db db/ --output platon --threads 6 GCF_000165575.1.fna
+2022-01-21 06:26:50,072 - INFO - CONFIG - threads=6
+2022-01-21 06:26:50,072 - INFO - CONFIG - verbose=False
+2022-01-21 06:26:50,072 - INFO - CONFIG - database detected: type=parameter, path=/work1/falmeida/bacannot_tests/dataset/h_influenzae/work/18/05132e0d35a700f312a0db36750e75/db
+2022-01-21 06:26:50,072 - INFO - CONFIG - genome-path=/work1/falmeida/bacannot_tests/dataset/h_influenzae/work/58/0b4e6ceddf3c2e2dd518dab6a1e179/annotation/GCF_000165575.1.fna
+2022-01-21 06:26:50,073 - INFO - CONFIG - tmp-path=/tmp/tmpu3evweyo
+2022-01-21 06:26:50,073 - INFO - CONFIG - output-path=/work1/falmeida/bacannot_tests/dataset/h_influenzae/work/18/05132e0d35a700f312a0db36750e75/platon
+2022-01-21 06:26:50,073 - INFO - CONFIG - mode=accuracy
+2022-01-21 06:26:50,085 - INFO - CONFIG - characterize=False
+2022-01-21 06:26:50,108 - INFO - UTILS - dependency check: tool=prodigal, version=v2.6.3
+2022-01-21 06:26:50,117 - INFO - UTILS - dependency check: tool=diamond, version=v2.0.11
+2022-01-21 06:26:50,856 - INFO - UTILS - dependency check: tool=blastn, version=v2.12.0
+2022-01-21 06:26:50,861 - INFO - UTILS - dependency check: tool=hmmsearch, version=v3.3.2
+2022-01-21 06:26:50,967 - INFO - UTILS - dependency check: tool=nucmer, version=v4.0.0
+2022-01-21 06:26:51,199 - INFO - UTILS - dependency check: tool=cmscan, version=v1.1.4
+2022-01-21 06:26:51,247 - INFO - MAIN - exclude contig: too long: id=NC_017452.1, length=1819370
+2022-01-21 06:26:51,250 - INFO - MAIN - length contig filter: # input=1, # discarded=1, # remaining=0
+2022-01-21 06:26:51,250 - WARNING - MAIN - no potential plasmid contigs!

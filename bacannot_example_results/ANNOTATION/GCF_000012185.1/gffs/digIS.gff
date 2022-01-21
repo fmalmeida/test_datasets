@@ -1,0 +1,7 @@
+##gff-version 3
+NC_007146.2	digIS	transposable_element	1536109	1536823	0.92	-	.	ID=NC_007146.2_00_is;level=is;qID=IS1595;qstart=45;qend=147;score=102.2;evalue=1e-32;ORF_sim=0.4861111111111111;IS_sim=0.8372739916550765;GenBank_class=is_related
+NC_007146.2	digIS	transposable_element	1146616	1146852	0.89	-	.	ID=NC_007146.2_01_orf;level=orf;qID=IS1595;qstart=31;qend=98;score=48.3;evalue=4.3e-16;ORF_sim=0.2361111111111111;IS_sim=0.2141863699582754;GenBank_class=no
+NC_007146.2	digIS	transposable_element	652051	652479	0.96	-	.	ID=NC_007146.2_02_orf;level=orf;qID=IS3_IS150;qstart=32;qend=106;score=69.2;evalue=9.5e-23;ORF_sim=0.16891891891891891;IS_sim=0.07325501036627505;GenBank_class=no
+NC_007146.2	digIS	transposable_element	580272	580673	0.91	+	.	ID=NC_007146.2_03_is;level=is;qID=IS3_IS150-IS3_IS51-IS3_IS3;qstart=50;qend=107;score=49.6;evalue=1.2e-16;ORF_sim=0.1762820512820513;IS_sim=0.2075070821529745;GenBank_class=no
+NC_007146.2	digIS	transposable_element	653894	654244	0.96	-	.	ID=NC_007146.2_04_orf;level=orf;qID=IS3_IS150-IS3_IS3;qstart=71;qend=107;score=29.7;evalue=1.9e-10;ORF_sim=0.17419354838709677;IS_sim=0.0;GenBank_class=no
+NC_007146.2	digIS	transposable_element	124921	128683	1.0	-	.	ID=NC_007146.2_05_is;level=is;qID=Tn3;qstart=1;qend=216;score=264.5;evalue=2.3e-82;ORF_sim=0.991008991008991;IS_sim=0.7340339531123686;GenBank_class=is_related

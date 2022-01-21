@@ -1,0 +1,1 @@
+GCF_000197875.1.fna	hinfluenzae	65	adk(24)	atpG(26)	frdB(24)	fucK(21)	mdh(36)	pgi(33)	recA(21)

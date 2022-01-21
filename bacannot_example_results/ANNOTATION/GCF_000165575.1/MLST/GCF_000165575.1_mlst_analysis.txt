@@ -1,0 +1,1 @@
+GCF_000165575.1.fna	hinfluenzae	1622	adk(11)	atpG(2)	frdB(15)	fucK(8)	mdh(74)	pgi(61)	recA(3)

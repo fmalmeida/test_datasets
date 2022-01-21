@@ -1,0 +1,14 @@
+drug_class,gene,GCF_000165575.1
+acridine dye,hmrM*,2
+aminoglycoside antibiotic,Klebsiella pneumoniae KpnH*,1
+carbapenem,Klebsiella pneumoniae KpnH*,1
+cephalosporin,Klebsiella pneumoniae KpnH*,1
+disinfecting agents and intercalating dyes,hmrM*,2
+elfamycin antibiotic,Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin,1
+fluoroquinolone antibiotic,Klebsiella pneumoniae KpnH*,1
+fluoroquinolone antibiotic,hmrM*,2
+macrolide antibiotic,Klebsiella pneumoniae KpnH*,1
+penam,Klebsiella pneumoniae KpnH*,1
+penem,Klebsiella pneumoniae KpnH*,1
+peptide antibiotic,Klebsiella pneumoniae KpnH*,1
+peptide antibiotic,LpsA,1

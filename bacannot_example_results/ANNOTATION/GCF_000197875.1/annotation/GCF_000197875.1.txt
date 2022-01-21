@@ -1,0 +1,7 @@
+organism:   GCF_000197875.1 
+contigs: 1
+bases: 1985832
+CDS: 1942
+rRNA: 19
+tRNA: 58
+tmRNA: 1

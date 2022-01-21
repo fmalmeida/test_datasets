@@ -1,0 +1,7 @@
+##gff-version 3
+NZ_CP007470.1	PhiSpy	prophage_region	354543	372238	.	. 	.	ID=pp1
+NZ_CP007470.1	PhiSpy	attL	356618	356631	.	. 	.	ID=pp1
+NZ_CP007470.1	PhiSpy	attR	369647	369660	.	. 	.	ID=pp1
+NZ_CP007470.1	PhiSpy	prophage_region	1459321	1494124	.	. 	.	ID=pp2
+NZ_CP007470.1	PhiSpy	attL	1459682	1459695	.	. 	.	ID=pp2
+NZ_CP007470.1	PhiSpy	attR	1492247	1492260	.	. 	.	ID=pp2

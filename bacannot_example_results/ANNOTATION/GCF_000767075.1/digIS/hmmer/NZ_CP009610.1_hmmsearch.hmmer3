@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP009610.1_1      -          616965 IS1595               -            147   2.2e-42  133.6   0.2   1   1   3.6e-43   2.2e-42  133.6   0.2     1   147 493594 493727 493594 493727 0.96 -
+NZ_CP009610.1_6      -          616965 IS3_IS150            -            106     4e-17   51.1   1.1   1   1     4e-17   1.2e-16   49.6   0.3    55   106 439711 439763 439701 439763 0.91 -
+NZ_CP009610.1_4      -          616965 IS3_IS150            -            106   6.5e-06   15.1   0.3   1   1     5e-06   1.5e-05   13.9   0.3    60    83 211912 211935 211911 211937 0.94 -
+NZ_CP009610.1_6      -          616965 IS3_IS3              -            107   1.3e-12   36.8   0.5   1   1   8.4e-13     5e-12   34.8   0.1    53   107 439708 439763 439699 439763 0.89 -
+NZ_CP009610.1_6      -          616965 IS3_IS51             -            107   3.1e-10   29.0   0.0   1   1   1.1e-10   6.6e-10   27.9   0.0    50   107 439705 439763 439699 439763 0.90 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /work/digIS/data/models/hmm/hmm_all_subfams.hmm
+# Target file:     digIS/pep/NZ_CP009610.1.pep
+# Option settings: hmmsearch --domtblout digIS/hmmer/NZ_CP009610.1_hmmsearch.hmmer3 --noali --domT 0.0 --cpu 4 /work/digIS/data/models/hmm/hmm_all_subfams.hmm digIS/pep/NZ_CP009610.1.pep 
+# Current dir:     /work1/falmeida/bacannot_tests/dataset/h_influenzae/work/ae/6845109734ac545bcb22a893cc605c
+# Date:            Fri Jan 21 06:27:52 2022
+# [ok]

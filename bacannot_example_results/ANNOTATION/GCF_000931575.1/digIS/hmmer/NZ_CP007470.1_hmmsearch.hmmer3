@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP007470.1_5      -          615419 IS1595               -            147   3.3e-45  142.7   0.6   1   2   3.6e-43   2.1e-42  133.6   0.2     1   147 555801 555934 555801 555934 0.96 -
+NZ_CP007470.1_5      -          615419 IS1595               -            147   3.3e-45  142.7   0.6   2   2   0.00036    0.0022    7.0   0.0    30    70 584626 584664 584622 584668 0.90 -
+NZ_CP007470.1_1      -          615419 IS3_IS150            -            106   8.6e-21   62.9   3.9   1   2   2.5e-06   1.5e-05   13.9   0.3    60    83 147708 147731 147707 147733 0.94 -
+NZ_CP007470.1_1      -          615419 IS3_IS150            -            106   8.6e-21   62.9   3.9   2   2     2e-17   1.2e-16   49.6   0.3    55   106 540967 541019 540957 541019 0.91 -
+NZ_CP007470.1_1      -          615419 IS3_IS3              -            107   9.7e-14   40.3   1.0   1   2    0.0038     0.023    3.8   0.1    61    84 147708 147731 147707 147733 0.93 -
+NZ_CP007470.1_1      -          615419 IS3_IS3              -            107   9.7e-14   40.3   1.0   2   2   8.3e-13     5e-12   34.8   0.1    53   107 540964 541019 540955 541019 0.89 -
+NZ_CP007470.1_1      -          615419 IS3_IS51             -            107   1.1e-11   33.7   0.6   1   2    0.0034      0.02    3.9   0.1    61    84 147708 147731 147707 147733 0.93 -
+NZ_CP007470.1_1      -          615419 IS3_IS51             -            107   1.1e-11   33.7   0.6   2   2   1.1e-10   6.5e-10   28.0   0.0    50   107 540961 541019 540955 541019 0.90 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /work/digIS/data/models/hmm/hmm_all_subfams.hmm
+# Target file:     digIS/pep/NZ_CP007470.1.pep
+# Option settings: hmmsearch --domtblout digIS/hmmer/NZ_CP007470.1_hmmsearch.hmmer3 --noali --domT 0.0 --cpu 4 /work/digIS/data/models/hmm/hmm_all_subfams.hmm digIS/pep/NZ_CP007470.1.pep 
+# Current dir:     /work1/falmeida/bacannot_tests/dataset/h_influenzae/work/45/d8cb996c047486e5f562effcb7f55a
+# Date:            Fri Jan 21 06:28:36 2022
+# [ok]

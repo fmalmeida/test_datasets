@@ -1,0 +1,5 @@
+qseqid	qstart	qend	qlen	sseqid	sstart	send	slen	evalue	length	pident	gaps	gapopen	stitle
+IIBCLGFB_00133	1	286	286	ARGMiner~~~TEM-1~~~CAD09800.1~~~beta_lactam	1	286	286	7.45e-208	286	100	0	0	ARGMiner~~~TEM-1~~~CAD09800.1~~~beta_lactam unknown
+IIBCLGFB_00539	1	864	864	ARGMiner~~~pbp1a~~~YP_248152~~~beta_lactam	1	864	864	0.0	864	100	0	0	ARGMiner~~~pbp1a~~~YP_248152~~~beta_lactam unknown
+IIBCLGFB_01086	20	224	224	ARGMiner~~~CRP~~~WP_000242761.1~~~macrolide;fluoroquinolone;penam	6	210	210	8.86e-118	205	78.0	0	0	ARGMiner~~~CRP~~~WP_000242761.1~~~macrolide;fluoroquinolone;penam unknown
+IIBCLGFB_01352	1	464	464	ARGMiner~~~hmrM~~~WP_014550864.1~~~multidrug	1	464	464	8.94e-315	464	96.8	0	0	ARGMiner~~~hmrM~~~WP_014550864.1~~~multidrug unknown

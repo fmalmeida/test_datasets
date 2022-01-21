@@ -1,0 +1,10 @@
+##gff-version 3
+NC_017451.1	PhiSpy	prophage_region	531285	556669	.	. 	.	ID=pp1
+NC_017451.1	PhiSpy	attL	531102	531116	.	. 	.	ID=pp1
+NC_017451.1	PhiSpy	attR	554709	554723	.	. 	.	ID=pp1
+NC_017451.1	PhiSpy	prophage_region	984177	1003443	.	. 	.	ID=pp2
+NC_017451.1	PhiSpy	attL	983498	983514	.	. 	.	ID=pp2
+NC_017451.1	PhiSpy	attR	1002383	1002399	.	. 	.	ID=pp2
+NC_017451.1	PhiSpy	prophage_region	1743856	1775480	.	. 	.	ID=pp3
+NC_017451.1	PhiSpy	attL	1743222	1743310	.	. 	.	ID=pp3
+NC_017451.1	PhiSpy	attR	1775409	1775497	.	. 	.	ID=pp3

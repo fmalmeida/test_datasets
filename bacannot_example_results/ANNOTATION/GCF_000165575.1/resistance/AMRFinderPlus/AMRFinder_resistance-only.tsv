@@ -1,0 +1,2 @@
+Name	Protein identifier	Gene symbol	Sequence name	Scope	Element type	Element subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference sequence	% Identity to reference sequence	Alignment length	Accession of closest sequence	Name of closest sequence	HMM id	HMM description
+GCF_000165575.1	HOLGGCEK_01105	hmrM	sodium-coupled multidrug efflux MATE transporter HmrM	plus	AMR	AMR	EFFLUX	EFFLUX	EXACTP	464	464	100.00	100.00	464	ADO96486.1	sodium-coupled multidrug efflux MATE transporter HmrM	NA	NA

@@ -1,0 +1,2021 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OMBLIMKG_00001	CDS	1020	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+OMBLIMKG_00002	CDS	1800		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+OMBLIMKG_00003	CDS	786		3.1.3.-	COG0561	Putative phosphatase
+OMBLIMKG_00004	CDS	465	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+OMBLIMKG_00005	CDS	813	fdhD		COG1526	Sulfur carrier protein FdhD
+OMBLIMKG_00006	CDS	612	fdnG_1	1.17.5.3	COG0243	Formate dehydrogenase, nitrate-inducible, major subunit
+OMBLIMKG_00007	CDS	2691	fdnG_2	1.17.5.3	COG0243	Formate dehydrogenase, nitrate-inducible, major subunit
+OMBLIMKG_00008	CDS	237	fdhE_1		COG3058	Protein FdhE
+OMBLIMKG_00009	CDS	513	fdhE_2		COG3058	Protein FdhE
+OMBLIMKG_00010	CDS	441	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+OMBLIMKG_00011	CDS	405	holD	2.7.7.7	COG3050	DNA polymerase III subunit psi
+OMBLIMKG_00012	CDS	993	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+OMBLIMKG_00013	CDS	909	era		COG1159	GTPase Era
+OMBLIMKG_00014	CDS	684	rnc	3.1.26.3	COG0571	Ribonuclease 3
+OMBLIMKG_00015	CDS	1050	lepB	3.4.21.89	COG0681	Signal peptidase I
+OMBLIMKG_00016	CDS	1797	lepA	3.6.5.-	COG0481	Elongation factor 4
+OMBLIMKG_00017	CDS	606				hypothetical protein
+OMBLIMKG_00018	CDS	696	yadV_1			putative fimbrial chaperone YadV
+OMBLIMKG_00019	CDS	2496	htrE_1		COG3188	Outer membrane usher protein HtrE
+OMBLIMKG_00020	CDS	1125				F17d-G fimbrial adhesin
+OMBLIMKG_00021	CDS	384	grcA		COG3445	Autonomous glycyl radical cofactor
+OMBLIMKG_00022	CDS	660	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+OMBLIMKG_00023	CDS	1425	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+OMBLIMKG_00024	CDS	1440	ybhI		COG0471	Inner membrane protein YbhI
+OMBLIMKG_00025	CDS	1398	citG	2.4.2.52		2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+OMBLIMKG_00026	CDS	1503	citF	4.1.3.6	COG3051	Citrate lyase alpha chain
+OMBLIMKG_00027	CDS	876	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+OMBLIMKG_00028	CDS	288	citD		COG3052	Citrate lyase acyl carrier protein
+OMBLIMKG_00029	CDS	1008	citC	6.2.1.22	COG3053	[Citrate [pro-3S]-lyase] ligase
+OMBLIMKG_00030	CDS	963	lipA	2.8.1.8	COG0320	Lipoyl synthase
+OMBLIMKG_00031	CDS	639	lipB	2.3.1.181	COG0321	Octanoyltransferase
+OMBLIMKG_00032	CDS	279				hypothetical protein
+OMBLIMKG_00033	CDS	1182	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+OMBLIMKG_00034	CDS	864	rlpA	4.2.2.-	COG0797	Endolytic peptidoglycan transglycosylase RlpA
+OMBLIMKG_00035	CDS	1116	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+OMBLIMKG_00036	CDS	1956	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+OMBLIMKG_00037	CDS	468	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+OMBLIMKG_00038	CDS	309	rsfS		COG0799	Ribosomal silencing factor RsfS
+OMBLIMKG_00039	CDS	1656	aspT			Aspartate/alanine antiporter
+OMBLIMKG_00040	CDS	1779	bacA_1		COG4178	Vitamin B12 transport ATP-binding protein BacA
+OMBLIMKG_00041	CDS	1056	mreB		COG1077	Cell shape-determining protein MreB
+OMBLIMKG_00042	CDS	1056	mreC		COG1792	Cell shape-determining protein MreC
+OMBLIMKG_00043	CDS	489	mreD		COG2891	Rod shape-determining protein MreD
+OMBLIMKG_00044	CDS	777				hyp_HI0040: family protein
+OMBLIMKG_00045	CDS	804	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+OMBLIMKG_00046	CDS	675	rluA_1	5.4.99.28	COG0564	Dual-specificity RNA pseudouridine synthase RluA
+OMBLIMKG_00047	CDS	1065				hypothetical protein
+OMBLIMKG_00048	CDS	663	yccA		COG0670	Modulator of FtsH protease YccA
+OMBLIMKG_00049	tRNA	90				tRNA-Ser(tga)
+OMBLIMKG_00050	CDS	555	ytfJ		COG3054	putative protein YtfJ
+OMBLIMKG_00051	CDS	351				phnA: putative alkylphosphonate utilization operon protein PhnA
+OMBLIMKG_00052	CDS	714				hypothetical protein
+OMBLIMKG_00053	CDS	1830	uvrC		COG0322	UvrABC system protein C
+OMBLIMKG_00054	CDS	765	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+OMBLIMKG_00055	CDS	999	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+OMBLIMKG_00056	CDS	1764	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+OMBLIMKG_00057	CDS	2367				ComEC_Rec2: DNA internalization-related competence protein ComEC/Rec2
+OMBLIMKG_00058	CDS	438	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+OMBLIMKG_00059	CDS	1359	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+OMBLIMKG_00060	CDS	483	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+OMBLIMKG_00061	CDS	477	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+OMBLIMKG_00062	CDS	1299				spore_cwlD: N-acetylmuramoyl-L-alanine amidase CwlD
+OMBLIMKG_00063	CDS	1890	mutL		COG0323	DNA mismatch repair protein MutL
+OMBLIMKG_00064	CDS	936	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+OMBLIMKG_00065	CDS	2946	glnE		COG1391	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+OMBLIMKG_00066	CDS	1677	recN		COG0497	DNA repair protein RecN
+OMBLIMKG_00067	CDS	891	nadK	2.7.1.23	COG0061	NAD kinase
+OMBLIMKG_00068	CDS	597	grpE		COG0576	Protein GrpE
+OMBLIMKG_00069	CDS	345			COG1708	putative protein
+OMBLIMKG_00070	CDS	441				putative protein
+OMBLIMKG_00071	CDS	2124	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+OMBLIMKG_00072	CDS	861	tesB	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+OMBLIMKG_00073	CDS	1380	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+OMBLIMKG_00074	CDS	510	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+OMBLIMKG_00075	CDS	789	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+OMBLIMKG_00076	CDS	258				hypothetical protein
+OMBLIMKG_00077	CDS	273				hypothetical protein
+OMBLIMKG_00078	CDS	324	trxA			Thioredoxin
+OMBLIMKG_00079	CDS	996	ldhA	1.1.1.28	COG1052	D-lactate dehydrogenase
+OMBLIMKG_00080	CDS	1110	metI	2.5.1.-	COG0626	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+OMBLIMKG_00081	tRNA	76				tRNA-Gly(gcc)
+OMBLIMKG_00082	tRNA	74				tRNA-Cys(gca)
+OMBLIMKG_00083	tRNA	87				tRNA-Leu(taa)
+OMBLIMKG_00084	tRNA	76				tRNA-Lys(ttt)
+OMBLIMKG_00085	CDS	1602				hypothetical protein
+OMBLIMKG_00086	CDS	561				hypothetical protein
+OMBLIMKG_00087	CDS	768				hypothetical protein
+OMBLIMKG_00088	CDS	270				hypothetical protein
+OMBLIMKG_00089	CDS	615				hypothetical protein
+OMBLIMKG_00090	CDS	279	higB	3.1.-.-		Endoribonuclease HigB
+OMBLIMKG_00091	CDS	318				antidote_HigA: addiction module antidote protein, HigA family
+OMBLIMKG_00092	CDS	2682				hypothetical protein
+OMBLIMKG_00093	CDS	525				hypothetical protein
+OMBLIMKG_00094	CDS	1170				hypothetical protein
+OMBLIMKG_00095	CDS	336				hypothetical protein
+OMBLIMKG_00096	CDS	2277				hypothetical protein
+OMBLIMKG_00097	CDS	309				hypothetical protein
+OMBLIMKG_00098	CDS	333				hypothetical protein
+OMBLIMKG_00099	CDS	561				hypothetical protein
+OMBLIMKG_00100	CDS	237				hypothetical protein
+OMBLIMKG_00101	CDS	453				hypothetical protein
+OMBLIMKG_00102	CDS	1131				hypothetical protein
+OMBLIMKG_00103	CDS	129				hypothetical protein
+OMBLIMKG_00104	CDS	714				tail_comp_S: phage virion morphogenesis protein
+OMBLIMKG_00105	CDS	483				hypothetical protein
+OMBLIMKG_00106	CDS	453				hypothetical protein
+OMBLIMKG_00107	CDS	819				hypothetical protein
+OMBLIMKG_00108	CDS	1011				major_capsid_P2: phage major capsid protein, P2 family
+OMBLIMKG_00109	CDS	888				hypothetical protein
+OMBLIMKG_00110	CDS	1671				hypothetical protein
+OMBLIMKG_00111	CDS	138				hypothetical protein
+OMBLIMKG_00112	CDS	1035				portal_PBSX: phage portal protein, PBSX family
+OMBLIMKG_00113	CDS	408				hypothetical protein
+OMBLIMKG_00114	CDS	180				hypothetical protein
+OMBLIMKG_00115	CDS	519				phage_N6A_met: phage N-6-adenine-methyltransferase
+OMBLIMKG_00116	CDS	306				hypothetical protein
+OMBLIMKG_00117	CDS	2340				hypothetical protein
+OMBLIMKG_00118	CDS	336				hypothetical protein
+OMBLIMKG_00119	CDS	504				hypothetical protein
+OMBLIMKG_00120	CDS	240				hypothetical protein
+OMBLIMKG_00121	CDS	192				hypothetical protein
+OMBLIMKG_00122	CDS	375				hypothetical protein
+OMBLIMKG_00123	CDS	174				hypothetical protein
+OMBLIMKG_00124	CDS	243				hypothetical protein
+OMBLIMKG_00125	CDS	204	yidD_1		COG0759	Putative membrane protein insertion efficiency factor
+OMBLIMKG_00126	CDS	228				hypothetical protein
+OMBLIMKG_00127	CDS	294				hypothetical protein
+OMBLIMKG_00128	CDS	1014	xerC_1			Tyrosine recombinase XerC
+OMBLIMKG_00129	tRNA	76				tRNA-Lys(ttt)
+OMBLIMKG_00130	CDS	1278	thrC	4.2.3.1	COG0498	Threonine synthase
+OMBLIMKG_00131	CDS	945	thrB	2.7.1.39		Homoserine kinase
+OMBLIMKG_00132	CDS	2448	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+OMBLIMKG_00133	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+OMBLIMKG_00134	CDS	756	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OMBLIMKG_00135	CDS	615				hypothetical protein
+OMBLIMKG_00136	CDS	1557				hypothetical protein
+OMBLIMKG_00137	CDS	999	fbpA		COG1840	Iron-utilization periplasmic protein
+OMBLIMKG_00138	CDS	1521				PhnU2: putative 2-aminoethylphosphonate ABC transporter, permease protein
+OMBLIMKG_00139	CDS	1071	fbpC2_1	7.2.2.7	COG3842	Fe(3+) ions import ATP-binding protein FbpC 2
+OMBLIMKG_00140	CDS	681				hypothetical protein
+OMBLIMKG_00141	CDS	1134	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+OMBLIMKG_00142	CDS	345			COG1393	putative protein
+OMBLIMKG_00143	CDS	1881	htpG		COG0326	Chaperone protein HtpG
+OMBLIMKG_00144	CDS	756			COG0327	GTP cyclohydrolase 1 type 2 
+OMBLIMKG_00145	CDS	2373				hsdM: type I restriction-modification system, M subunit
+OMBLIMKG_00146	CDS	1464				hypothetical protein
+OMBLIMKG_00147	CDS	1251				hypothetical protein
+OMBLIMKG_00148	CDS	3027				hsdR: type I site-specific deoxyribonuclease, HsdR family
+OMBLIMKG_00149	CDS	1380	ffh		COG0541	Signal recognition particle protein
+OMBLIMKG_00150	CDS	1263				hypothetical protein
+OMBLIMKG_00151	CDS	771	yjjP		COG2966	Inner membrane protein YjjP
+OMBLIMKG_00152	CDS	480				hypothetical protein
+OMBLIMKG_00153	CDS	342				hypothetical protein
+OMBLIMKG_00154	CDS	1290	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+OMBLIMKG_00155	CDS	630	gst	2.5.1.18	COG0625	Glutathione S-transferase GST-4.5
+OMBLIMKG_00156	CDS	2238	tdhA		COG1629	TonB-dependent heme receptor A
+OMBLIMKG_00157	rRNA	111				5S ribosomal RNA
+OMBLIMKG_00158	rRNA	3006				23S ribosomal RNA
+OMBLIMKG_00159	tRNA	76				tRNA-Ala(tgc)
+OMBLIMKG_00160	tRNA	77				tRNA-Ile(gat)
+OMBLIMKG_00161	rRNA	1536				16S ribosomal RNA
+OMBLIMKG_00162	CDS	909	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+OMBLIMKG_00163	CDS	1467	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+OMBLIMKG_00164	CDS	1572	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+OMBLIMKG_00165	CDS	891	rarD_1		COG2962	Protein RarD
+OMBLIMKG_00166	CDS	462	decR		COG1522	DNA-binding transcriptional activator DecR
+OMBLIMKG_00167	CDS	1203	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+OMBLIMKG_00168	CDS	1344	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+OMBLIMKG_00169	CDS	468			COG2731	putative protein
+OMBLIMKG_00170	CDS	642				hypothetical protein
+OMBLIMKG_00171	CDS	2130	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+OMBLIMKG_00172	CDS	945	nlpI		COG4785	Lipoprotein NlpI 
+OMBLIMKG_00173	CDS	1842	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+OMBLIMKG_00174	CDS	1449	mltF	4.2.2.-	COG4623	Membrane-bound lytic murein transglycosylase F
+OMBLIMKG_00175	CDS	153				hypothetical protein
+OMBLIMKG_00176	CDS	297				hypothetical protein
+OMBLIMKG_00177	CDS	246				hypothetical protein
+OMBLIMKG_00178	CDS	351	yfgD		COG1393	putative protein YfgD
+OMBLIMKG_00179	CDS	1050				spore_ytvI: sporulation integral membrane protein YtvI
+OMBLIMKG_00180	CDS	975	secF		COG0341	Protein translocase subunit SecF
+OMBLIMKG_00181	CDS	1851	secD		COG0342	Protein translocase subunit SecD
+OMBLIMKG_00182	CDS	294	yajC		COG1862	Sec translocon accessory complex subunit YajC
+OMBLIMKG_00183	CDS	222				hypothetical protein
+OMBLIMKG_00184	CDS	519				hypothetical protein
+OMBLIMKG_00185	CDS	501				hypothetical protein
+OMBLIMKG_00186	CDS	3189				hypothetical protein
+OMBLIMKG_00187	CDS	1149	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+OMBLIMKG_00188	CDS	1092	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OMBLIMKG_00189	CDS	447				putative protein
+OMBLIMKG_00190	CDS	1611	hap_1	3.4.21.-		Adhesion and penetration protein autotransporter
+OMBLIMKG_00191	CDS	1935	hap_2	3.4.21.-		Adhesion and penetration protein autotransporter
+OMBLIMKG_00192	CDS	300	hap_3	3.4.21.-		Adhesion and penetration protein autotransporter
+OMBLIMKG_00193	CDS	2832	uvrA		COG0178	UvrABC system protein A
+OMBLIMKG_00194	CDS	507	ssb_1			Single-stranded DNA-binding protein
+OMBLIMKG_00195	CDS	783				hypothetical protein
+OMBLIMKG_00196	CDS	444	tolR_1			Tol-Pal system protein TolR
+OMBLIMKG_00197	CDS	453	tolQ_1			Tol-Pal system protein TolQ
+OMBLIMKG_00198	CDS	468	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+OMBLIMKG_00199	CDS	897	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+OMBLIMKG_00200	CDS	648			COG3317	Outer membrane protein assembly factor BamC 
+OMBLIMKG_00201	CDS	324	yfiA		COG1544	Ribosome-associated factor Y
+OMBLIMKG_00202	tRNA	90				tRNA-Ser(gga)
+OMBLIMKG_00203	CDS	951				hypothetical protein
+OMBLIMKG_00204	CDS	588		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+OMBLIMKG_00205	CDS	726	kdkA	2.7.1.166	COG0515	3-deoxy-D-manno-octulosonic acid kinase
+OMBLIMKG_00206	CDS	1044				heptsyl_trn_I: lipopolysaccharide heptosyltransferase I
+OMBLIMKG_00207	CDS	2166	hxuC		COG1629	Heme/hemopexin utilization protein C
+OMBLIMKG_00208	CDS	1698	hxuB		COG2831	Heme/hemopexin transporter protein HuxB
+OMBLIMKG_00209	CDS	2784	hxuA		COG3210	Heme/hemopexin-binding protein
+OMBLIMKG_00210	CDS	357	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+OMBLIMKG_00211	CDS	600	plsY	2.3.1.15	COG0344	putative glycerol-3-phosphate acyltransferase
+OMBLIMKG_00212	CDS	1704	narQ	2.7.13.3		Nitrate/nitrite sensor protein NarQ
+OMBLIMKG_00213	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+OMBLIMKG_00214	CDS	846	rpoH		COG0568	RNA polymerase sigma factor RpoH
+OMBLIMKG_00215	CDS	933	dusC	1.3.1.-	COG0042	tRNA-dihydrouridine(16) synthase
+OMBLIMKG_00216	CDS	867	djlA		COG1076	Co-chaperone protein DjlA
+OMBLIMKG_00217	CDS	642	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OMBLIMKG_00218	CDS	717	rph	2.7.7.56		Ribonuclease PH
+OMBLIMKG_00219	tRNA	76				tRNA-Ala(ggc)
+OMBLIMKG_00220	CDS	1443	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+OMBLIMKG_00221	tRNA	76				tRNA-Val(tac)
+OMBLIMKG_00222	tRNA	76				tRNA-Val(tac)
+OMBLIMKG_00223	tRNA	76				tRNA-Val(tac)
+OMBLIMKG_00224	tRNA	76				tRNA-Val(tac)
+OMBLIMKG_00225	CDS	1656				hypothetical protein
+OMBLIMKG_00226	CDS	810				hypothetical protein
+OMBLIMKG_00227	CDS	483				hypothetical protein
+OMBLIMKG_00228	CDS	663				hypothetical protein
+OMBLIMKG_00229	CDS	759	udp	2.4.2.3	COG2820	Uridine phosphorylase
+OMBLIMKG_00230	CDS	1317	yhjE_1			Inner membrane metabolite transport protein YhjE
+OMBLIMKG_00231	CDS	744	menH	4.2.99.20	COG0596	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+OMBLIMKG_00232	CDS	1707	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+OMBLIMKG_00233	CDS	1272	menF_1	5.4.4.2	COG1169	Isochorismate synthase MenF
+OMBLIMKG_00234	CDS	1215	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+OMBLIMKG_00235	CDS	1257	mtr			Tryptophan-specific transport protein
+OMBLIMKG_00236	CDS	1368	sdaA	4.3.1.17	COG1760	L-serine dehydratase 1
+OMBLIMKG_00237	CDS	1239	sdaC		COG0814	Serine transporter
+OMBLIMKG_00238	CDS	2169	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+OMBLIMKG_00239	CDS	207			COG2608	putative protein
+OMBLIMKG_00240	CDS	207			COG2608	putative protein
+OMBLIMKG_00241	CDS	207			COG2608	putative protein
+OMBLIMKG_00242	CDS	387	hmrR			HTH-type transcriptional regulator HmrR
+OMBLIMKG_00243	CDS	318	metJ		COG3060	Met repressor
+OMBLIMKG_00244	CDS	1263	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+OMBLIMKG_00245	CDS	693				hypothetical protein
+OMBLIMKG_00246	CDS	1218	gspF		COG1459	Putative type II secretion system protein F
+OMBLIMKG_00247	CDS	1395	epsE		COG2804	Type II secretion system protein E
+OMBLIMKG_00248	CDS	450				hypothetical protein
+OMBLIMKG_00249	CDS	561	ampD	3.5.1.28	COG3023	1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD
+OMBLIMKG_00250	CDS	900	corC		COG4535	Magnesium and cobalt efflux protein CorC
+OMBLIMKG_00251	CDS	1530	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+OMBLIMKG_00252	CDS	738	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+OMBLIMKG_00253	CDS	561				hypothetical protein
+OMBLIMKG_00254	CDS	420	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+OMBLIMKG_00255	CDS	909	rdgC		COG2974	Recombination-associated protein RdgC
+OMBLIMKG_00256	CDS	816	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+OMBLIMKG_00257	CDS	1167	hcaT			putative 3-phenylpropionic acid transporter
+OMBLIMKG_00258	CDS	894	xerD		COG4974	Tyrosine recombinase XerD
+OMBLIMKG_00259	CDS	288				hypothetical protein
+OMBLIMKG_00260	CDS	1008	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+OMBLIMKG_00261	CDS	615	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+OMBLIMKG_00262	CDS	573	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+OMBLIMKG_00263	CDS	741			COG0217	putative transcriptional regulatory protein
+OMBLIMKG_00264	CDS	477	nudB	3.6.1.67	COG0494	Dihydroneopterin triphosphate diphosphatase
+OMBLIMKG_00265	CDS	1767	aspS	6.1.1.12	COG0173	Aspartate--tRNA ligase
+OMBLIMKG_00266	CDS	519				hypothetical protein
+OMBLIMKG_00267	CDS	726	cmoA	2.1.3.-	COG0500	Carboxy-S-adenosyl-L-methionine synthase
+OMBLIMKG_00268	CDS	408	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+OMBLIMKG_00269	CDS	690	rnt	3.1.13.-	COG0847	Ribonuclease T
+OMBLIMKG_00270	CDS	1353				hypothetical protein
+OMBLIMKG_00271	CDS	591				hypothetical protein
+OMBLIMKG_00272	tRNA	90				tRNA-Ser(tga)
+OMBLIMKG_00273	CDS	567	efp		COG0231	Elongation factor P
+OMBLIMKG_00274	CDS	1017	epmB	5.4.3.-	COG1509	L-lysine 2,3-aminomutase
+OMBLIMKG_00275	CDS	1293	oapA		COG3061	Opacity-associated protein OapA
+OMBLIMKG_00276	CDS	405				hypothetical protein
+OMBLIMKG_00277	CDS	711	recO		COG1381	DNA repair protein RecO
+OMBLIMKG_00278	CDS	624	hifA_1			Major fimbrial subunit
+OMBLIMKG_00279	CDS	696	yadV_2			putative fimbrial chaperone YadV
+OMBLIMKG_00280	CDS	2520	htrE_2		COG3188	Outer membrane usher protein HtrE
+OMBLIMKG_00281	CDS	1119				F17a-G fimbrial adhesin
+OMBLIMKG_00282	CDS	105				hypothetical protein
+OMBLIMKG_00283	CDS	270				hypothetical protein
+OMBLIMKG_00284	CDS	1317	rlmD	2.1.1.190	COG2265	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+OMBLIMKG_00285	CDS	2232	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+OMBLIMKG_00286	CDS	357	dgkA	2.7.1.107	COG0818	Diacylglycerol kinase
+OMBLIMKG_00287	CDS	594	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+OMBLIMKG_00288	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II 1
+OMBLIMKG_00289	CDS	1047	tqsA		COG0628	AI-2 transport protein TqsA
+OMBLIMKG_00290	CDS	2193	priA	3.6.4.-	COG1198	Primosomal protein N'
+OMBLIMKG_00291	CDS	741	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+OMBLIMKG_00292	CDS	195			COG3171	putative protein
+OMBLIMKG_00293	CDS	531	napF_1		COG1145	Ferredoxin-type protein NapF
+OMBLIMKG_00294	CDS	282	napD		COG3062	Chaperone NapD
+OMBLIMKG_00295	CDS	2484	napA	1.9.6.1	COG0243	Periplasmic nitrate reductase
+OMBLIMKG_00296	CDS	834	napF_2			Ferredoxin-type protein NapF
+OMBLIMKG_00297	CDS	864	napH		COG0348	Ferredoxin-type protein NapH
+OMBLIMKG_00298	CDS	444	napB		COG3043	Periplasmic nitrate reductase, electron transfer subunit
+OMBLIMKG_00299	CDS	603	napC		COG3005	Cytochrome c-type protein NapC
+OMBLIMKG_00300	CDS	645	adk	2.7.4.3	COG0563	Adenylate kinase
+OMBLIMKG_00301	CDS	1278	ampG		COG0477	Anhydromuropeptide permease
+OMBLIMKG_00302	CDS	1017	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+OMBLIMKG_00303	CDS	969				hypothetical protein
+OMBLIMKG_00304	CDS	723	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+OMBLIMKG_00305	CDS	738	ribX			Riboflavin transport system permease protein RibX
+OMBLIMKG_00306	CDS	945			COG0715	Putative thiamine biosynthesis protein
+OMBLIMKG_00307	CDS	648	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+OMBLIMKG_00308	CDS	816	mntB_1			Manganese transport system membrane protein MntB
+OMBLIMKG_00309	CDS	849	mntB_2			Manganese transport system membrane protein MntB
+OMBLIMKG_00310	CDS	921	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OMBLIMKG_00311	CDS	882			COG0803	putative periplasmic iron-binding protein
+OMBLIMKG_00312	CDS	879				hypothetical protein
+OMBLIMKG_00313	CDS	1152	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+OMBLIMKG_00314	CDS	540				type_IV_pilW: type IV pilus biogenesis/stability protein PilW
+OMBLIMKG_00315	CDS	912	rodZ		COG1426	Cytoskeleton protein RodZ
+OMBLIMKG_00316	CDS	1107	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+OMBLIMKG_00317	CDS	1272	hisS_1	6.1.1.21	COG0124	Histidine--tRNA ligase
+OMBLIMKG_00318	CDS	615				hypothetical protein
+OMBLIMKG_00319	CDS	195	iscX		COG2975	Protein IscX
+OMBLIMKG_00320	CDS	342	fdx		COG0633	2Fe-2S ferredoxin
+OMBLIMKG_00321	CDS	1860	hscA		COG0443	Chaperone protein HscA
+OMBLIMKG_00322	CDS	687				hypothetical protein
+OMBLIMKG_00323	CDS	525	hscB		COG1076	Co-chaperone protein HscB 
+OMBLIMKG_00324	CDS	324	iscA		COG0316	Iron-binding protein IscA
+OMBLIMKG_00325	CDS	381	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+OMBLIMKG_00326	CDS	1215	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+OMBLIMKG_00327	CDS	453	iscR		COG1959	HTH-type transcriptional regulator IscR
+OMBLIMKG_00328	CDS	726		2.1.1.-	COG0565	putative tRNA/rRNA methyltransferase
+OMBLIMKG_00329	CDS	459				hypothetical protein
+OMBLIMKG_00330	CDS	603				hypothetical protein
+OMBLIMKG_00331	CDS	2370				hypothetical protein
+OMBLIMKG_00332	CDS	615				hypothetical protein
+OMBLIMKG_00333	CDS	1437				hypothetical protein
+OMBLIMKG_00334	CDS	366				hypothetical protein
+OMBLIMKG_00335	CDS	672				hypothetical protein
+OMBLIMKG_00336	CDS	963				hypothetical protein
+OMBLIMKG_00337	CDS	315				hypothetical protein
+OMBLIMKG_00338	CDS	582				hypothetical protein
+OMBLIMKG_00339	CDS	597				hypothetical protein
+OMBLIMKG_00340	CDS	2418				tape_meas_nterm: tape measure domain protein
+OMBLIMKG_00341	CDS	153				hypothetical protein
+OMBLIMKG_00342	CDS	483				hypothetical protein
+OMBLIMKG_00343	CDS	426				hypothetical protein
+OMBLIMKG_00344	CDS	1074				hypothetical protein
+OMBLIMKG_00345	CDS	510				hypothetical protein
+OMBLIMKG_00346	CDS	360				hypothetical protein
+OMBLIMKG_00347	CDS	459				hypothetical protein
+OMBLIMKG_00348	CDS	351				hypothetical protein
+OMBLIMKG_00349	CDS	189				hypothetical protein
+OMBLIMKG_00350	CDS	948				hypothetical protein
+OMBLIMKG_00351	CDS	420				hypothetical protein
+OMBLIMKG_00352	CDS	1074				hypothetical protein
+OMBLIMKG_00353	CDS	1260				phageSPP1_gp7: phage head morphogenesis protein, SPP1 gp7 family
+OMBLIMKG_00354	CDS	1317				phge_rel_HI1409: phage-associated protein
+OMBLIMKG_00355	CDS	1350			COG1783	putative protein
+OMBLIMKG_00356	CDS	369				hypothetical protein
+OMBLIMKG_00357	CDS	222				hypothetical protein
+OMBLIMKG_00358	CDS	1359				hypothetical protein
+OMBLIMKG_00359	CDS	390				hypothetical protein
+OMBLIMKG_00360	CDS	405				hypothetical protein
+OMBLIMKG_00361	CDS	327				hypothetical protein
+OMBLIMKG_00362	CDS	162				hypothetical protein
+OMBLIMKG_00363	CDS	969				hypothetical protein
+OMBLIMKG_00364	CDS	207				hypothetical protein
+OMBLIMKG_00365	CDS	453				hypothetical protein
+OMBLIMKG_00366	CDS	234				hypothetical protein
+OMBLIMKG_00367	CDS	831				hypothetical protein
+OMBLIMKG_00368	CDS	642				hypothetical protein
+OMBLIMKG_00369	CDS	225				hypothetical protein
+OMBLIMKG_00370	CDS	417				hypothetical protein
+OMBLIMKG_00371	CDS	588				hypothetical protein
+OMBLIMKG_00372	CDS	366				hypothetical protein
+OMBLIMKG_00373	CDS	519				hypothetical protein
+OMBLIMKG_00374	CDS	891				hypothetical protein
+OMBLIMKG_00375	CDS	186				hypothetical protein
+OMBLIMKG_00376	CDS	312				hypothetical protein
+OMBLIMKG_00377	CDS	252				hypothetical protein
+OMBLIMKG_00378	CDS	1032				hypothetical protein
+OMBLIMKG_00379	CDS	738	dpnA	2.1.1.72		Modification methylase DpnIIB
+OMBLIMKG_00380	CDS	348				hypothetical protein
+OMBLIMKG_00381	CDS	294				hypothetical protein
+OMBLIMKG_00382	CDS	951				rect: recombinase, phage RecT family
+OMBLIMKG_00383	CDS	651				hypothetical protein
+OMBLIMKG_00384	CDS	435	ssb_2		COG0629	Single-stranded DNA-binding protein
+OMBLIMKG_00385	CDS	1077				hypothetical protein
+OMBLIMKG_00386	CDS	144				hypothetical protein
+OMBLIMKG_00387	CDS	570				hypothetical protein
+OMBLIMKG_00388	CDS	237				hypothetical protein
+OMBLIMKG_00389	CDS	360				hypothetical protein
+OMBLIMKG_00390	CDS	1275				dcm: DNA (cytosine-5-)-methyltransferase
+OMBLIMKG_00391	CDS	417				hypothetical protein
+OMBLIMKG_00392	CDS	534				hypothetical protein
+OMBLIMKG_00393	CDS	171				hypothetical protein
+OMBLIMKG_00394	CDS	270				hypothetical protein
+OMBLIMKG_00395	CDS	438				hypothetical protein
+OMBLIMKG_00396	CDS	1026	xerC_2			Tyrosine recombinase XerC
+OMBLIMKG_00397	tRNA	76				tRNA-Lys(ctt)
+OMBLIMKG_00398	tRNA	76				tRNA-Lys(ttt)
+OMBLIMKG_00399	tRNA	87				tRNA-Leu(taa)
+OMBLIMKG_00400	tRNA	76				tRNA-Gly(gcc)
+OMBLIMKG_00401	CDS	513	pgsA	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+OMBLIMKG_00402	CDS	1191	metC	4.4.1.13	COG0626	Cystathionine beta-lyase MetC
+OMBLIMKG_00403	CDS	1362	mpl	6.3.2.45	COG0773	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+OMBLIMKG_00404	CDS	507				hypothetical protein
+OMBLIMKG_00405	CDS	1008	znuA		COG4531	High-affinity zinc uptake system protein ZnuA
+OMBLIMKG_00406	CDS	771	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+OMBLIMKG_00407	CDS	1110	mltA	4.2.2.-	COG2821	Membrane-bound lytic murein transglycosylase A
+OMBLIMKG_00408	tRNA	77				tRNA-Met(cat)
+OMBLIMKG_00409	CDS	2136	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+OMBLIMKG_00410	tRNA	77				tRNA-Arg(ccg)
+OMBLIMKG_00411	tRNA	76				tRNA-His(gtg)
+OMBLIMKG_00412	tRNA	77				tRNA-Pro(tgg)
+OMBLIMKG_00413	rRNA	1536				16S ribosomal RNA
+OMBLIMKG_00414	tRNA	76				tRNA-Glu(ttc)
+OMBLIMKG_00415	rRNA	3006				23S ribosomal RNA
+OMBLIMKG_00416	rRNA	110				5S ribosomal RNA
+OMBLIMKG_00417	CDS	930	metR			HTH-type transcriptional regulator MetR
+OMBLIMKG_00418	CDS	735				azlC: azaleucine resistance protein AzlC
+OMBLIMKG_00419	CDS	330				hypothetical protein
+OMBLIMKG_00420	CDS	234				hypothetical protein
+OMBLIMKG_00421	CDS	1584	prfC		COG4108	Peptide chain release factor RF3
+OMBLIMKG_00422	CDS	789	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+OMBLIMKG_00423	CDS	1980	rnb	3.1.13.1	COG4776	Exoribonuclease 2
+OMBLIMKG_00424	CDS	873				hypothetical protein
+OMBLIMKG_00425	CDS	642	pxpB	3.5.2.9	COG2049	5-oxoprolinase subunit B
+OMBLIMKG_00426	CDS	930	pxpC	3.5.2.9	COG1984	5-oxoprolinase subunit C
+OMBLIMKG_00427	CDS	738	pxpA	3.5.2.9	COG1540	5-oxoprolinase subunit A
+OMBLIMKG_00428	CDS	1194	mntH			Divalent metal cation transporter MntH
+OMBLIMKG_00429	CDS	1335	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+OMBLIMKG_00430	CDS	873	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OMBLIMKG_00431	CDS	2349	mrcB		COG0744	Penicillin-binding protein 1B
+OMBLIMKG_00432	CDS	399				hypothetical protein
+OMBLIMKG_00433	CDS	345	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+OMBLIMKG_00434	CDS	807	map	3.4.11.18	COG0024	Methionine aminopeptidase
+OMBLIMKG_00435	CDS	2592	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+OMBLIMKG_00436	CDS	1068	wecA	2.7.8.33	COG0472	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+OMBLIMKG_00437	tRNA	76				tRNA-Gly(gcc)
+OMBLIMKG_00438	CDS	549	orn	3.1.-.-	COG1949	Oligoribonuclease
+OMBLIMKG_00439	CDS	1041	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+OMBLIMKG_00440	CDS	258	ptsH		COG1925	Phosphocarrier protein HPr
+OMBLIMKG_00441	CDS	1728	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+OMBLIMKG_00442	CDS	501	crr		COG2190	PTS system glucose-specific EIIA component
+OMBLIMKG_00443	CDS	366			COG3111	putative protein
+OMBLIMKG_00444	CDS	663	qseB			Transcriptional regulatory protein QseB
+OMBLIMKG_00445	CDS	1356	qseC	2.7.13.3		Sensor protein QseC
+OMBLIMKG_00446	CDS	276				hypothetical protein
+OMBLIMKG_00447	CDS	228				hypothetical protein
+OMBLIMKG_00448	CDS	846				hypothetical protein
+OMBLIMKG_00449	CDS	120				hypothetical protein
+OMBLIMKG_00450	CDS	501				hypothetical protein
+OMBLIMKG_00451	CDS	603				hypothetical protein
+OMBLIMKG_00452	CDS	1710				hypothetical protein
+OMBLIMKG_00453	CDS	570				hypothetical protein
+OMBLIMKG_00454	CDS	1107				hypothetical protein
+OMBLIMKG_00455	CDS	366				hypothetical protein
+OMBLIMKG_00456	CDS	609				phage_P2_V: phage baseplate assembly protein V
+OMBLIMKG_00457	CDS	1065				hypothetical protein
+OMBLIMKG_00458	CDS	231				hypothetical protein
+OMBLIMKG_00459	CDS	933				hypothetical protein
+OMBLIMKG_00460	CDS	2592				tape_meas_TP901: phage tail tape measure protein, TP901 family, core region
+OMBLIMKG_00461	CDS	315				hypothetical protein
+OMBLIMKG_00462	CDS	189				hypothetical protein
+OMBLIMKG_00463	CDS	285				hypothetical protein
+OMBLIMKG_00464	CDS	519				tail_tube: phage major tail tube protein
+OMBLIMKG_00465	CDS	1386				hypothetical protein
+OMBLIMKG_00466	CDS	498				hypothetical protein
+OMBLIMKG_00467	CDS	435				hypothetical protein
+OMBLIMKG_00468	CDS	318				hypothetical protein
+OMBLIMKG_00469	CDS	927				hypothetical protein
+OMBLIMKG_00470	CDS	1104				hypothetical protein
+OMBLIMKG_00471	CDS	501				tail_comp_S: phage virion morphogenesis protein
+OMBLIMKG_00472	CDS	198				hypothetical protein
+OMBLIMKG_00473	CDS	189				hypothetical protein
+OMBLIMKG_00474	CDS	1278				hypothetical protein
+OMBLIMKG_00475	CDS	1416				hypothetical protein
+OMBLIMKG_00476	CDS	1323				hypothetical protein
+OMBLIMKG_00477	CDS	549				hypothetical protein
+OMBLIMKG_00478	CDS	303				hypothetical protein
+OMBLIMKG_00479	CDS	309				hypothetical protein
+OMBLIMKG_00480	CDS	384				hypothetical protein
+OMBLIMKG_00481	CDS	231				hypothetical protein
+OMBLIMKG_00482	CDS	102				hypothetical protein
+OMBLIMKG_00483	CDS	144				hypothetical protein
+OMBLIMKG_00484	CDS	537				hypothetical protein
+OMBLIMKG_00485	CDS	420				hypothetical protein
+OMBLIMKG_00486	CDS	375				hypothetical protein
+OMBLIMKG_00487	CDS	489				hypothetical protein
+OMBLIMKG_00488	CDS	288				hypothetical protein
+OMBLIMKG_00489	CDS	231				hypothetical protein
+OMBLIMKG_00490	CDS	375				hypothetical protein
+OMBLIMKG_00491	CDS	219				hypothetical protein
+OMBLIMKG_00492	CDS	159				hypothetical protein
+OMBLIMKG_00493	CDS	198				hypothetical protein
+OMBLIMKG_00494	CDS	519				hypothetical protein
+OMBLIMKG_00495	CDS	204				hypothetical protein
+OMBLIMKG_00496	CDS	453				hypothetical protein
+OMBLIMKG_00497	CDS	417				hypothetical protein
+OMBLIMKG_00498	CDS	2010				hypothetical protein
+OMBLIMKG_00499	CDS	228				hypothetical protein
+OMBLIMKG_00500	CDS	501				hypothetical protein
+OMBLIMKG_00501	CDS	1788	betS			Glycine betaine/proline betaine transporter BetS
+OMBLIMKG_00502	CDS	1476	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+OMBLIMKG_00503	CDS	1095	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+OMBLIMKG_00504	CDS	1077	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+OMBLIMKG_00505	CDS	2271	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+OMBLIMKG_00506	CDS	744				hypothetical protein
+OMBLIMKG_00507	CDS	1206				hypothetical protein
+OMBLIMKG_00508	CDS	915	lst	2.4.99.-		CMP-N-acetylneuraminate:beta-galactoside alpha-2,3-sialyltransferase
+OMBLIMKG_00509	CDS	1062	pglH	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+OMBLIMKG_00510	CDS	774				hypothetical protein
+OMBLIMKG_00511	CDS	885				mycofact_glyco: mycofactocin system glycosyltransferase
+OMBLIMKG_00512	CDS	804	wbbD	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+OMBLIMKG_00513	CDS	141				hypothetical protein
+OMBLIMKG_00514	CDS	1134				hypothetical protein
+OMBLIMKG_00515	CDS	1557	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OMBLIMKG_00516	CDS	609				hypothetical protein
+OMBLIMKG_00517	CDS	471				hypothetical protein
+OMBLIMKG_00518	CDS	1137				hypothetical protein
+OMBLIMKG_00519	CDS	555	rfaB	2.4.1.-	COG0438	Lipopolysaccharide 1,6-galactosyltransferase
+OMBLIMKG_00520	CDS	645				hypothetical protein
+OMBLIMKG_00521	CDS	1143				hypothetical protein
+OMBLIMKG_00522	CDS	6558				hypothetical protein
+OMBLIMKG_00523	CDS	768	modE		COG2005	DNA-binding transcriptional dual regulator ModE
+OMBLIMKG_00524	CDS	765	modA		COG0725	Molybdate-binding protein ModA
+OMBLIMKG_00525	CDS	690	modB		COG4149	Molybdenum transport system permease protein ModB
+OMBLIMKG_00526	CDS	1056	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OMBLIMKG_00527	CDS	342				hypothetical protein
+OMBLIMKG_00528	CDS	612	hifA_2			Major fimbrial subunit
+OMBLIMKG_00529	CDS	708	yadV_3			putative fimbrial chaperone YadV
+OMBLIMKG_00530	CDS	2583	htrE_3		COG3188	Outer membrane usher protein HtrE
+OMBLIMKG_00531	CDS	624				hypothetical protein
+OMBLIMKG_00532	CDS	633				hypothetical protein
+OMBLIMKG_00533	CDS	1251				hypothetical protein
+OMBLIMKG_00534	CDS	330				hypothetical protein
+OMBLIMKG_00535	CDS	195				hypothetical protein
+OMBLIMKG_00536	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+OMBLIMKG_00537	CDS	708	rnfE	7.-.-.-	COG4660	Ion-translocating oxidoreductase complex subunit E
+OMBLIMKG_00538	CDS	624	rsxG	7.-.-.-	COG4659	Ion-translocating oxidoreductase complex subunit G
+OMBLIMKG_00539	CDS	1077	rsxD	7.-.-.-	COG4658	Ion-translocating oxidoreductase complex subunit D
+OMBLIMKG_00540	CDS	1953	rsxC	7.-.-.-	COG4656	Ion-translocating oxidoreductase complex subunit C
+OMBLIMKG_00541	CDS	582	rnfB	7.-.-.-	COG2878	Ion-translocating oxidoreductase complex subunit B
+OMBLIMKG_00542	CDS	579	rsxA	7.-.-.-	COG4657	Ion-translocating oxidoreductase complex subunit A
+OMBLIMKG_00543	CDS	855	ompA_1			Outer membrane protein A
+OMBLIMKG_00544	CDS	1062	sohB	3.4.21.-	COG0616	putative protease SohB
+OMBLIMKG_00545	CDS	666				hypothetical protein
+OMBLIMKG_00546	CDS	2193	yccS		COG1289	Inner membrane protein YccS
+OMBLIMKG_00547	CDS	543		3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+OMBLIMKG_00548	CDS	936	kpsF	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KpsF
+OMBLIMKG_00549	CDS	1014	moaA	4.1.99.22	COG2896	GTP 3',8-cyclase
+OMBLIMKG_00550	CDS	483	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+OMBLIMKG_00551	CDS	246	moaD		COG1977	Molybdopterin synthase sulfur carrier subunit
+OMBLIMKG_00552	CDS	453	moaE	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit
+OMBLIMKG_00553	CDS	2646			COG3008	putative protein
+OMBLIMKG_00554	CDS	1083	yebS		COG2995	Intermembrane transport protein YebS
+OMBLIMKG_00555	CDS	132				hypothetical protein
+OMBLIMKG_00556	CDS	639	proQ		COG3109	RNA chaperone ProQ
+OMBLIMKG_00557	CDS	2082	prc	3.4.21.102	COG0793	Tail-specific protease
+OMBLIMKG_00558	CDS	1470				hypothetical protein
+OMBLIMKG_00559	CDS	561				hypothetical protein
+OMBLIMKG_00560	CDS	756	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+OMBLIMKG_00561	CDS	639	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+OMBLIMKG_00562	CDS	2808	sucA	1.2.4.2	COG0567	2-oxoglutarate dehydrogenase E1 component
+OMBLIMKG_00563	CDS	1230	sucB	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+OMBLIMKG_00564	CDS	1131	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 1 subunit beta
+OMBLIMKG_00565	CDS	2271	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+OMBLIMKG_00566	CDS	582				hypothetical protein
+OMBLIMKG_00567	CDS	585	gmhA_1	5.3.1.28	COG0279	Phosphoheptose isomerase
+OMBLIMKG_00568	CDS	360				TIGR00252: family protein
+OMBLIMKG_00569	CDS	1728	lpoA		COG3107	Penicillin-binding protein activator LpoA
+OMBLIMKG_00570	CDS	852	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+OMBLIMKG_00571	CDS	1449	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+OMBLIMKG_00572	CDS	552	mepS	3.4.-.-	COG0791	Murein DD-endopeptidase MepS/Murein LD-carboxypeptidase
+OMBLIMKG_00573	CDS	1695	dld	1.1.5.12	COG0277	Quinone-dependent D-lactate dehydrogenase
+OMBLIMKG_00574	CDS	579	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+OMBLIMKG_00575	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+OMBLIMKG_00576	CDS	735	cmk_1	2.7.4.25	COG0283	Cytidylate kinase
+OMBLIMKG_00577	CDS	1650	rpsA		COG0539	30S ribosomal protein S1
+OMBLIMKG_00578	CDS	285	ihfB		COG0776	Integration host factor subunit beta
+OMBLIMKG_00579	CDS	294	lapA		COG3771	Lipopolysaccharide assembly protein A
+OMBLIMKG_00580	CDS	1191	lapB		COG2956	Lipopolysaccharide assembly protein B
+OMBLIMKG_00581	CDS	693	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+OMBLIMKG_00582	CDS	321	yciH		COG0023	putative protein YciH
+OMBLIMKG_00583	CDS	696	hda		COG0593	DnaA regulatory inactivator Hda
+OMBLIMKG_00584	CDS	1245	pyrP			Uracil permease
+OMBLIMKG_00585	CDS	627	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+OMBLIMKG_00586	CDS	2067	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+OMBLIMKG_00587	CDS	543	apt	2.4.2.7		Adenine phosphoribosyltransferase
+OMBLIMKG_00588	CDS	1425	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+OMBLIMKG_00589	CDS	1647	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+OMBLIMKG_00590	CDS	2661	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+OMBLIMKG_00591	CDS	459	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+OMBLIMKG_00592	CDS	1443	ydgA		COG5339	Protein YdgA
+OMBLIMKG_00593	CDS	1908	dnaK		COG0443	Chaperone protein DnaK
+OMBLIMKG_00594	CDS	1146	dnaJ		COG0484	Chaperone protein DnaJ
+OMBLIMKG_00595	CDS	1110	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+OMBLIMKG_00596	CDS	663				hypothetical protein
+OMBLIMKG_00597	CDS	801				hypothetical protein
+OMBLIMKG_00598	CDS	1197	bcr			Bicyclomycin resistance protein
+OMBLIMKG_00599	CDS	699	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+OMBLIMKG_00600	CDS	621				hypothetical protein
+OMBLIMKG_00601	CDS	2271	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+OMBLIMKG_00602	CDS	1944	mdoB	2.7.8.20		Phosphoglycerol transferase I
+OMBLIMKG_00603	CDS	2040	uvrB		COG0556	UvrABC system protein B
+OMBLIMKG_00604	tRNA	76				tRNA-Asn(gtt)
+OMBLIMKG_00605	CDS	4473				hypothetical protein
+OMBLIMKG_00606	CDS	1137				hypothetical protein
+OMBLIMKG_00607	CDS	576				IS1595 family transposase IS1016C2
+OMBLIMKG_00608	CDS	975				hypothetical protein
+OMBLIMKG_00609	CDS	621				hypothetical protein
+OMBLIMKG_00610	CDS	276				RelB_DinJ: addiction module antitoxin, RelB/DinJ family
+OMBLIMKG_00611	CDS	264	yafQ	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+OMBLIMKG_00612	CDS	1671	ettA		COG0488	Energy-dependent translational throttle protein EttA
+OMBLIMKG_00613	CDS	342				hypothetical protein
+OMBLIMKG_00614	CDS	1971	tmcA	2.3.1.193	COG1444	tRNA(Met) cytidine acetyltransferase TmcA
+OMBLIMKG_00615	CDS	174				hypothetical protein
+OMBLIMKG_00616	CDS	3441	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+OMBLIMKG_00617	CDS	1392	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+OMBLIMKG_00618	CDS	891	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+OMBLIMKG_00619	CDS	1305	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+OMBLIMKG_00620	CDS	669				hypothetical protein
+OMBLIMKG_00621	CDS	1077	metXA	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+OMBLIMKG_00622	CDS	2649	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+OMBLIMKG_00623	CDS	1764	ycaO		COG1944	Ribosomal protein S12 methylthiotransferase accessory factor YcaO
+OMBLIMKG_00624	CDS	477				hypothetical protein
+OMBLIMKG_00625	CDS	807				BchM-ChlM: magnesium protoporphyrin O-methyltransferase
+OMBLIMKG_00626	CDS	717	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloB
+OMBLIMKG_00627	CDS	861	tehB	2.1.1.-		putative S-adenosyl-L-methionine-dependent methyltransferase TehB
+OMBLIMKG_00628	CDS	2055	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+OMBLIMKG_00629	CDS	651	esiB			Secretory immunoglobulin A-binding protein EsiB
+OMBLIMKG_00630	CDS	366				hypothetical protein
+OMBLIMKG_00631	CDS	1113	apbC		COG0489	Iron-sulfur cluster carrier protein
+OMBLIMKG_00632	CDS	270				hypothetical protein
+OMBLIMKG_00633	CDS	354	chpB	3.1.-.-	COG2337	Endoribonuclease toxin ChpB
+OMBLIMKG_00634	CDS	198				hypothetical protein
+OMBLIMKG_00635	CDS	663		1.-.-.-	COG0778	Putative NAD(P)H nitroreductase
+OMBLIMKG_00636	CDS	675	neuA	2.7.7.43	COG1083	N-acylneuraminate cytidylyltransferase
+OMBLIMKG_00637	CDS	309	higA-2		COG2944	Antitoxin HigA-2
+OMBLIMKG_00638	CDS	2193				hypothetical protein
+OMBLIMKG_00639	CDS	393				hypothetical protein
+OMBLIMKG_00640	CDS	684				hypothetical protein
+OMBLIMKG_00641	CDS	204				hypothetical protein
+OMBLIMKG_00642	CDS	372				hypothetical protein
+OMBLIMKG_00643	CDS	963				hypothetical protein
+OMBLIMKG_00644	CDS	420				hypothetical protein
+OMBLIMKG_00645	CDS	294				hypothetical protein
+OMBLIMKG_00646	CDS	261				hypothetical protein
+OMBLIMKG_00647	CDS	249				hypothetical protein
+OMBLIMKG_00648	CDS	1023				hypothetical protein
+OMBLIMKG_00649	CDS	1257	intA_1		COG0582	Prophage integrase IntA
+OMBLIMKG_00650	tmRNA	366	ssrA			transfer-messenger RNA, SsrA
+OMBLIMKG_00651	tRNA	77				tRNA-Met(cat)
+OMBLIMKG_00652	CDS	456	rimP		COG0779	Ribosome maturation factor RimP
+OMBLIMKG_00653	CDS	1488	nusA		COG0195	Transcription termination/antitermination protein NusA
+OMBLIMKG_00654	CDS	2535	infB		COG0532	Translation initiation factor IF-2
+OMBLIMKG_00655	CDS	3168				hsdR: type I site-specific deoxyribonuclease, HsdR family
+OMBLIMKG_00656	CDS	1314				hypothetical protein
+OMBLIMKG_00657	CDS	1761				hsdM: type I restriction-modification system, M subunit
+OMBLIMKG_00658	CDS	387	rbfA		COG0858	Ribosome-binding factor A
+OMBLIMKG_00659	CDS	921	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+OMBLIMKG_00660	CDS	1125	tyrA		COG0287	T-protein
+OMBLIMKG_00661	CDS	840	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+OMBLIMKG_00662	CDS	786				hypothetical protein
+OMBLIMKG_00663	CDS	381	csdE_1		COG2166	Sulfur acceptor protein CsdE
+OMBLIMKG_00664	CDS	1200	csdA_1	2.8.1.7	COG0520	Cysteine desulfurase CsdA
+OMBLIMKG_00665	CDS	483				hypothetical protein
+OMBLIMKG_00666	CDS	423				hypothetical protein
+OMBLIMKG_00667	CDS	696	yohK		COG1346	Inner membrane protein YohK
+OMBLIMKG_00668	CDS	1356	dgt		COG0232	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+OMBLIMKG_00669	CDS	1944	uup_1		COG0488	ABC transporter ATP-binding protein uup
+OMBLIMKG_00670	CDS	1140	potD_1		COG0687	Spermidine/putrescine-binding periplasmic protein
+OMBLIMKG_00671	CDS	771	ydcV			Inner membrane ABC transporter permease protein YdcV
+OMBLIMKG_00672	CDS	861	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+OMBLIMKG_00673	CDS	1146	potA	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+OMBLIMKG_00674	CDS	1020	pepT	3.4.11.4	COG2195	Peptidase T
+OMBLIMKG_00675	CDS	483			COG0783	putative protein
+OMBLIMKG_00676	CDS	879	cdd	3.5.4.5	COG0295	Cytidine deaminase
+OMBLIMKG_00677	CDS	966	cmoB	2.5.1.-	COG0500	tRNA U34 carboxymethyltransferase
+OMBLIMKG_00678	CDS	1515	putP		COG0591	Sodium/proline symporter
+OMBLIMKG_00679	CDS	1476	rng	3.1.26.-	COG1530	Ribonuclease G
+OMBLIMKG_00680	CDS	261				hypothetical protein
+OMBLIMKG_00681	CDS	393	vapC2	3.1.-.-	COG1487	Ribonuclease VapC2
+OMBLIMKG_00682	CDS	111				hypothetical protein
+OMBLIMKG_00683	CDS	1197	bpaC			Autotransporter adhesin BpaC
+OMBLIMKG_00684	CDS	1668	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+OMBLIMKG_00685	CDS	432				hypothetical protein
+OMBLIMKG_00686	CDS	3456				hypothetical protein
+OMBLIMKG_00687	CDS	1638				hypothetical protein
+OMBLIMKG_00688	CDS	1848		2.4.1.-		UDP-glucose:protein N-beta-glucosyltransferase
+OMBLIMKG_00689	CDS	234				malQ: 4-alpha-glucanotransferase
+OMBLIMKG_00690	CDS	123	glgA	2.4.1.21	COG0297	Glycogen synthase
+OMBLIMKG_00691	CDS	342	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+OMBLIMKG_00692	CDS	1539	pntA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+OMBLIMKG_00693	CDS	1425	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+OMBLIMKG_00694	CDS	918	pgrR			HTH-type transcriptional regulator PgrR
+OMBLIMKG_00695	CDS	2607	topA_1	5.6.2.1	COG0550	DNA topoisomerase 1
+OMBLIMKG_00696	CDS	564	azoR	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase
+OMBLIMKG_00697	CDS	1932	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+OMBLIMKG_00698	CDS	807				hypothetical protein
+OMBLIMKG_00699	CDS	1362				hypothetical protein
+OMBLIMKG_00700	CDS	330	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+OMBLIMKG_00701	CDS	831	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+OMBLIMKG_00702	CDS	1335	mukF		COG3006	Chromosome partition protein MukF
+OMBLIMKG_00703	CDS	732	mukE		COG3095	Chromosome partition protein MukE
+OMBLIMKG_00704	CDS	4533	mukB		COG3096	Chromosome partition protein MukB
+OMBLIMKG_00705	CDS	1053	haeIIIM	2.1.1.37		Modification methylase HaeIII
+OMBLIMKG_00706	CDS	957				hypothetical protein
+OMBLIMKG_00707	CDS	876				hypothetical protein
+OMBLIMKG_00708	CDS	1422	sbcB	3.1.11.1	COG2925	Exodeoxyribonuclease I
+OMBLIMKG_00709	CDS	1278	phoR	2.7.13.3		Phosphate regulon sensor protein PhoR
+OMBLIMKG_00710	CDS	696	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+OMBLIMKG_00711	CDS	768	pstB	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB
+OMBLIMKG_00712	CDS	849	pstA		COG0581	Phosphate transport system permease protein PstA
+OMBLIMKG_00713	CDS	948	pstC		COG0573	Phosphate transport system permease protein PstC
+OMBLIMKG_00714	CDS	1020	pstS		COG0226	Phosphate-binding protein PstS
+OMBLIMKG_00715	CDS	489	ftnA_1	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+OMBLIMKG_00716	CDS	498	ftnA_2	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+OMBLIMKG_00717	CDS	882				hypothetical protein
+OMBLIMKG_00718	CDS	1557	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+OMBLIMKG_00719	CDS	582	trpG_1	4.1.3.27		Anthranilate synthase component 2
+OMBLIMKG_00720	CDS	387				putative protein.1
+OMBLIMKG_00721	CDS	1002	trpGD		COG0512	Bifunctional protein TrpGD
+OMBLIMKG_00722	CDS	1434	trpC		COG0134	Tryptophan biosynthesis protein TrpCF
+OMBLIMKG_00723	CDS	267	hybG		COG0298	Hydrogenase maturation factor HybG
+OMBLIMKG_00724	CDS	2865	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+OMBLIMKG_00725	CDS	321				hypothetical protein
+OMBLIMKG_00726	CDS	321				hypothetical protein
+OMBLIMKG_00727	CDS	423				hypothetical protein
+OMBLIMKG_00728	CDS	171				hypothetical protein
+OMBLIMKG_00729	CDS	495				hypothetical protein
+OMBLIMKG_00730	CDS	435	holC	2.7.7.7	COG2927	DNA polymerase III subunit chi
+OMBLIMKG_00731	CDS	1395	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+OMBLIMKG_00732	CDS	609				hypothetical protein
+OMBLIMKG_00733	CDS	825	yciV	3.1.13.-	COG0613	5'-3' exoribonuclease
+OMBLIMKG_00734	CDS	1020	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+OMBLIMKG_00735	tRNA	86				tRNA-Leu(caa)
+OMBLIMKG_00736	CDS	96				hypothetical protein
+OMBLIMKG_00737	CDS	774	fnr		COG0664	Anaerobic regulatory protein
+OMBLIMKG_00738	CDS	930	uspE		COG0589	Universal stress protein E 
+OMBLIMKG_00739	CDS	174				hypothetical protein
+OMBLIMKG_00740	CDS	711	mppO	1.14.11.40		Enduracididine beta-hydroxylase
+OMBLIMKG_00741	CDS	801	yfcA_1		COG0730	putative membrane transporter protein YfcA
+OMBLIMKG_00742	CDS	753	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+OMBLIMKG_00743	CDS	1194	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+OMBLIMKG_00744	CDS	810	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+OMBLIMKG_00745	CDS	2061	bcgIA	3.1.21.-		Restriction enzyme BgcI subunit alpha
+OMBLIMKG_00746	CDS	1098	bcgIB	3.1.21.-		Restriction enzyme BgcI subunit beta
+OMBLIMKG_00747	CDS	954	usg		COG0136	USG-1 protein
+OMBLIMKG_00748	CDS	477	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+OMBLIMKG_00749	CDS	219	cspD		COG1278	Cold shock-like protein CspD
+OMBLIMKG_00750	CDS	159				hypothetical protein
+OMBLIMKG_00751	CDS	720	truC	5.4.99.26	COG0564	tRNA pseudouridine synthase C
+OMBLIMKG_00752	CDS	321				hypothetical protein
+OMBLIMKG_00753	CDS	1458	thiI	2.8.1.4	COG0301	tRNA sulfurtransferase
+OMBLIMKG_00754	CDS	255	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+OMBLIMKG_00755	CDS	891	ispA	2.5.1.10	COG0142	Farnesyl diphosphate synthase
+OMBLIMKG_00756	CDS	1878	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+OMBLIMKG_00757	CDS	453	sspB		COG2969	Stringent starvation protein B 
+OMBLIMKG_00758	CDS	639	sspA		COG0625	Stringent starvation protein A 
+OMBLIMKG_00759	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+OMBLIMKG_00760	CDS	429	rplM		COG0102	50S ribosomal protein L13
+OMBLIMKG_00761	CDS	879	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+OMBLIMKG_00762	CDS	729	bioD1_1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+OMBLIMKG_00763	CDS	267	ycgL		COG3100	Protein YcgL
+OMBLIMKG_00764	CDS	657	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OMBLIMKG_00765	CDS	1215	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+OMBLIMKG_00766	CDS	732	moeB	2.7.7.80	COG0476	Molybdopterin-synthase adenylyltransferase
+OMBLIMKG_00767	CDS	324				hypothetical protein
+OMBLIMKG_00768	CDS	471			COG0526	putative protein
+OMBLIMKG_00769	CDS	642	dipZ		COG0785	Protein DipZ
+OMBLIMKG_00770	CDS	1062	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+OMBLIMKG_00771	CDS	507				hypothetical protein
+OMBLIMKG_00772	CDS	534			COG3637	putative protein
+OMBLIMKG_00773	CDS	384				hypothetical protein
+OMBLIMKG_00774	CDS	198				hypothetical protein
+OMBLIMKG_00775	CDS	546	ylaC			RNA polymerase sigma factor YlaC
+OMBLIMKG_00776	CDS	684				hypothetical protein
+OMBLIMKG_00777	CDS	1365	tdeA		COG1538	Toxin and drug export protein A
+OMBLIMKG_00778	CDS	543				hypothetical protein
+OMBLIMKG_00779	CDS	495	sixA	3.1.3.-	COG2062	Phosphohistidine phosphatase SixA
+OMBLIMKG_00780	CDS	1338	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+OMBLIMKG_00781	CDS	828	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+OMBLIMKG_00782	CDS	1908	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+OMBLIMKG_00783	CDS	630	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+OMBLIMKG_00784	CDS	300			COG1534	RNA-binding protein
+OMBLIMKG_00785	CDS	477	greA		COG0782	Transcription elongation factor GreA
+OMBLIMKG_00786	CDS	1428	dacB	3.4.16.4	COG2027	D-alanyl-D-alanine carboxypeptidase DacB
+OMBLIMKG_00787	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+OMBLIMKG_00788	CDS	138				hypothetical protein
+OMBLIMKG_00789	CDS	726				hypothetical protein
+OMBLIMKG_00790	CDS	534	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+OMBLIMKG_00791	CDS	1776				lon_rel: putative ATP-dependent protease
+OMBLIMKG_00792	CDS	447	matP		COG3120	Macrodomain Ter protein
+OMBLIMKG_00793	CDS	1923	recD	3.1.11.5	COG0507	RecBCD enzyme subunit RecD
+OMBLIMKG_00794	CDS	3606	recB	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+OMBLIMKG_00795	CDS	354	rplT		COG0292	50S ribosomal protein L20
+OMBLIMKG_00796	CDS	270				rpmI_bact: ribosomal protein bL35
+OMBLIMKG_00797	CDS	408	infC		COG0290	Translation initiation factor IF-3
+OMBLIMKG_00798	CDS	813	yeaD	5.1.3.15	COG0676	Putative glucose-6-phosphate 1-epimerase
+OMBLIMKG_00799	CDS	1665				chol_sulfatase: choline-sulfatase
+OMBLIMKG_00800	CDS	144				hypothetical protein
+OMBLIMKG_00801	CDS	486				hypothetical protein
+OMBLIMKG_00802	CDS	291	ihfA		COG0776	Integration host factor subunit alpha
+OMBLIMKG_00803	CDS	2388	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+OMBLIMKG_00804	CDS	990	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+OMBLIMKG_00805	CDS	741				hypothetical protein
+OMBLIMKG_00806	CDS	249	ascD	1.17.1.-		CDP-6-deoxy-L-threo-D-glycero-4-hexulose-3-dehydrase reductase
+OMBLIMKG_00807	CDS	813	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+OMBLIMKG_00808	CDS	630	rhtC		COG1280	Threonine efflux protein
+OMBLIMKG_00809	CDS	492	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+OMBLIMKG_00810	CDS	987	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+OMBLIMKG_00811	CDS	435	nusB		COG0781	Transcription antitermination protein NusB
+OMBLIMKG_00812	CDS	474	ribE	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+OMBLIMKG_00813	CDS	1404	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+OMBLIMKG_00814	CDS	690	can	4.2.1.1	COG0288	Carbonic anhydrase 2
+OMBLIMKG_00815	CDS	378				hypothetical protein
+OMBLIMKG_00816	CDS	423				hypothetical protein
+OMBLIMKG_00817	CDS	708				hypothetical protein
+OMBLIMKG_00818	CDS	273				hypothetical protein
+OMBLIMKG_00819	CDS	360				hypothetical protein
+OMBLIMKG_00820	CDS	561	uup_2		COG0488	ABC transporter ATP-binding protein uup
+OMBLIMKG_00821	CDS	309				ABC_ABC_ChvD: ATP-binding cassette protein, ChvD family
+OMBLIMKG_00822	CDS	927	csdA_2	2.8.1.7	COG0520	Cysteine desulfurase CsdA
+OMBLIMKG_00823	CDS	381	csdE_2		COG2166	Sulfur acceptor protein CsdE
+OMBLIMKG_00824	CDS	495				hypothetical protein
+OMBLIMKG_00825	CDS	528	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+OMBLIMKG_00826	CDS	1146	ftsH_2	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+OMBLIMKG_00827	CDS	879	cntO_1		COG1629	Metal-pseudopaline receptor CntO
+OMBLIMKG_00828	CDS	1038	cntO_2		COG1629	Metal-pseudopaline receptor CntO
+OMBLIMKG_00829	CDS	1770	bacA_2		COG4178	Vitamin B12 transport ATP-binding protein BacA
+OMBLIMKG_00830	CDS	762			COG1120	putative ABC transporter ATP-binding protein
+OMBLIMKG_00831	CDS	1014			COG0609	putative ABC transporter permease protein
+OMBLIMKG_00832	CDS	1056			COG0614	putative protein
+OMBLIMKG_00833	CDS	510	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+OMBLIMKG_00834	CDS	303				modD: modD protein
+OMBLIMKG_00835	CDS	600	fbpC2_2	7.2.2.7	COG3842	Fe(3+) ions import ATP-binding protein FbpC 2
+OMBLIMKG_00836	CDS	717				Mo_ABC_porter: NifC-like ABC-type porter
+OMBLIMKG_00837	CDS	738			COG0725	Putative binding protein
+OMBLIMKG_00838	CDS	1431	hldE		COG2870	Bifunctional protein HldE
+OMBLIMKG_00839	CDS	936	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+OMBLIMKG_00840	CDS	1899	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+OMBLIMKG_00841	CDS	2235	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+OMBLIMKG_00842	CDS	1215	gltS		COG0786	Sodium/glutamate symporter
+OMBLIMKG_00843	CDS	909	rimK	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+OMBLIMKG_00844	CDS	264	grxA		COG0695	Glutaredoxin 1
+OMBLIMKG_00845	CDS	1221	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1
+OMBLIMKG_00846	CDS	2013	mnmC		COG0665	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+OMBLIMKG_00847	CDS	1041	thiK_1	2.7.1.89		Thiamine kinase
+OMBLIMKG_00848	CDS	879				hypothetical protein
+OMBLIMKG_00849	CDS	702				Arch_glmU: UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+OMBLIMKG_00850	CDS	798				hypothetical protein
+OMBLIMKG_00851	CDS	1851	sppA	3.4.21.-	COG0616	Protease 4
+OMBLIMKG_00852	CDS	555	ydjA	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YdjA
+OMBLIMKG_00853	CDS	555	ycdY		COG3381	Chaperone protein YcdY
+OMBLIMKG_00854	CDS	609	kefG	1.6.5.2		Glutathione-regulated potassium-efflux system ancillary protein KefG
+OMBLIMKG_00855	CDS	1245	sstT		COG3633	Serine/threonine transporter SstT
+OMBLIMKG_00856	CDS	441				hypothetical protein
+OMBLIMKG_00857	CDS	1089	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+OMBLIMKG_00858	CDS	1251	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+OMBLIMKG_00859	CDS	684	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+OMBLIMKG_00860	CDS	642	bioD1_2	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+OMBLIMKG_00861	CDS	780	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+OMBLIMKG_00862	CDS	648			COG2830	putative protein
+OMBLIMKG_00863	CDS	1143	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+OMBLIMKG_00864	CDS	1293	bioA	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+OMBLIMKG_00865	CDS	1182	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+OMBLIMKG_00866	CDS	948		1.-.-.-	COG1052	Putative 2-hydroxyacid dehydrogenase
+OMBLIMKG_00867	CDS	855	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+OMBLIMKG_00868	CDS	804				hypothetical protein
+OMBLIMKG_00869	CDS	879	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+OMBLIMKG_00870	CDS	441				hypothetical protein
+OMBLIMKG_00871	CDS	1086	prfA		COG0216	Peptide chain release factor RF1
+OMBLIMKG_00872	CDS	552				hypothetical protein
+OMBLIMKG_00873	CDS	537	epmC	1.14.-.-	COG3101	Elongation factor P hydroxylase
+OMBLIMKG_00874	CDS	129				hypothetical protein
+OMBLIMKG_00875	CDS	804	thiK_2	2.7.1.89		Thiamine kinase
+OMBLIMKG_00876	CDS	879				hypothetical protein
+OMBLIMKG_00877	CDS	702				Arch_glmU: UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+OMBLIMKG_00878	CDS	798				hypothetical protein
+OMBLIMKG_00879	CDS	417				tail_comp_S: phage virion morphogenesis protein
+OMBLIMKG_00880	CDS	708				hypothetical protein
+OMBLIMKG_00881	CDS	222				hypothetical protein
+OMBLIMKG_00882	CDS	471				hypothetical protein
+OMBLIMKG_00883	CDS	159				hypothetical protein
+OMBLIMKG_00884	CDS	225				hypothetical protein
+OMBLIMKG_00885	CDS	171				hypothetical protein
+OMBLIMKG_00886	CDS	318				hypothetical protein
+OMBLIMKG_00887	CDS	492				hypothetical protein
+OMBLIMKG_00888	CDS	603				hypothetical protein
+OMBLIMKG_00889	CDS	2244				hypothetical protein
+OMBLIMKG_00890	CDS	576				hypothetical protein
+OMBLIMKG_00891	CDS	1143				hypothetical protein
+OMBLIMKG_00892	CDS	519				hypothetical protein
+OMBLIMKG_00893	CDS	354				hypothetical protein
+OMBLIMKG_00894	CDS	645				hypothetical protein
+OMBLIMKG_00895	CDS	873				hypothetical protein
+OMBLIMKG_00896	CDS	180				hypothetical protein
+OMBLIMKG_00897	CDS	321				hypothetical protein
+OMBLIMKG_00898	CDS	777				hypothetical protein
+OMBLIMKG_00899	CDS	2091				hypothetical protein
+OMBLIMKG_00900	CDS	411				hypothetical protein
+OMBLIMKG_00901	CDS	432				hypothetical protein
+OMBLIMKG_00902	CDS	159				hypothetical protein
+OMBLIMKG_00903	CDS	1509				hypothetical protein
+OMBLIMKG_00904	CDS	360				hypothetical protein
+OMBLIMKG_00905	CDS	372				hypothetical protein
+OMBLIMKG_00906	CDS	447				hypothetical protein
+OMBLIMKG_00907	CDS	363				hypothetical protein
+OMBLIMKG_00908	CDS	915				hypothetical protein
+OMBLIMKG_00909	CDS	441				hypothetical protein
+OMBLIMKG_00910	CDS	1101				hypothetical protein
+OMBLIMKG_00911	CDS	357				hypothetical protein
+OMBLIMKG_00912	CDS	1434				phageSPP1_gp7: phage head morphogenesis protein, SPP1 gp7 family
+OMBLIMKG_00913	CDS	1332				phge_rel_HI1409: phage-associated protein
+OMBLIMKG_00914	CDS	1344			COG1783	putative protein
+OMBLIMKG_00915	CDS	516				hypothetical protein
+OMBLIMKG_00916	CDS	348				hypothetical protein
+OMBLIMKG_00917	CDS	324				hypothetical protein
+OMBLIMKG_00918	CDS	603				hypothetical protein
+OMBLIMKG_00919	CDS	357				holin_lambda: phage holin, lambda family
+OMBLIMKG_00920	tRNA	74				tRNA-Trp(cca)
+OMBLIMKG_00921	CDS	174				hypothetical protein
+OMBLIMKG_00922	CDS	159				hypothetical protein
+OMBLIMKG_00923	CDS	138				hypothetical protein
+OMBLIMKG_00924	CDS	900				hypothetical protein
+OMBLIMKG_00925	CDS	183				hypothetical protein
+OMBLIMKG_00926	CDS	450				hypothetical protein
+OMBLIMKG_00927	CDS	183				hypothetical protein
+OMBLIMKG_00928	CDS	372				hypothetical protein
+OMBLIMKG_00929	CDS	543				hypothetical protein
+OMBLIMKG_00930	CDS	417				hypothetical protein
+OMBLIMKG_00931	CDS	225				hypothetical protein
+OMBLIMKG_00932	CDS	642				hypothetical protein
+OMBLIMKG_00933	CDS	339				hypothetical protein
+OMBLIMKG_00934	CDS	219				hypothetical protein
+OMBLIMKG_00935	CDS	669				hypothetical protein
+OMBLIMKG_00936	CDS	297				hypothetical protein
+OMBLIMKG_00937	CDS	249				hypothetical protein
+OMBLIMKG_00938	CDS	693	prtR		COG2932	HTH-type transcriptional regulator PrtR
+OMBLIMKG_00939	CDS	945				hypothetical protein
+OMBLIMKG_00940	CDS	282				hypothetical protein
+OMBLIMKG_00941	CDS	93				hypothetical protein
+OMBLIMKG_00942	CDS	639				hypothetical protein
+OMBLIMKG_00943	CDS	348				hypothetical protein
+OMBLIMKG_00944	CDS	294				hypothetical protein
+OMBLIMKG_00945	CDS	945	recT		COG3723	Protein RecT
+OMBLIMKG_00946	CDS	180				hypothetical protein
+OMBLIMKG_00947	CDS	102				hypothetical protein
+OMBLIMKG_00948	CDS	807				hypothetical protein
+OMBLIMKG_00949	CDS	513				hypothetical protein
+OMBLIMKG_00950	CDS	168				hypothetical protein
+OMBLIMKG_00951	CDS	684				hypothetical protein
+OMBLIMKG_00952	CDS	645				hypothetical protein
+OMBLIMKG_00953	CDS	435	ssb_3		COG0629	Single-stranded DNA-binding protein
+OMBLIMKG_00954	CDS	237				hypothetical protein
+OMBLIMKG_00955	CDS	351				hypothetical protein
+OMBLIMKG_00956	CDS	441	socA			Antitoxin SocA
+OMBLIMKG_00957	CDS	354				hypothetical protein
+OMBLIMKG_00958	CDS	852				hypothetical protein
+OMBLIMKG_00959	CDS	120				hypothetical protein
+OMBLIMKG_00960	CDS	201				hypothetical protein
+OMBLIMKG_00961	CDS	1248	intA_2		COG0582	Prophage integrase IntA
+OMBLIMKG_00962	tRNA	77				tRNA-Val(gac)
+OMBLIMKG_00963	CDS	1437	pykA	2.7.1.40	COG0469	Pyruvate kinase II
+OMBLIMKG_00964	CDS	1407	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+OMBLIMKG_00965	CDS	1083	alr	5.1.1.1		Alanine racemase, biosynthetic
+OMBLIMKG_00966	CDS	1650	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+OMBLIMKG_00967	CDS	966				PgaC_IcaA: poly-beta-1,6 N-acetyl-D-glucosamine synthase
+OMBLIMKG_00968	CDS	465	pcp		COG3133	Outer membrane lipoprotein pcp
+OMBLIMKG_00969	CDS	297				hypothetical protein
+OMBLIMKG_00970	CDS	570	yecM		COG3102	Protein YecM
+OMBLIMKG_00971	CDS	1734	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+OMBLIMKG_00972	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+OMBLIMKG_00973	CDS	1722	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+OMBLIMKG_00974	CDS	1521				antiport_nhaC: Na+/H+ antiporter NhaC
+OMBLIMKG_00975	CDS	405	hns			DNA-binding protein H-NS
+OMBLIMKG_00976	CDS	837	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+OMBLIMKG_00977	CDS	1299	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OMBLIMKG_00978	CDS	1341	rarA		COG2256	Replication-associated recombination protein A
+OMBLIMKG_00979	CDS	618	lolA		COG2834	Outer-membrane lipoprotein carrier protein
+OMBLIMKG_00980	CDS	2769				T7_EssCb_Firm: type VII secretion protein EssC
+OMBLIMKG_00981	CDS	480	lrp		COG1522	Leucine-responsive regulatory protein
+OMBLIMKG_00982	CDS	1377	radA	3.6.4.-	COG1066	DNA repair protein RadA
+OMBLIMKG_00983	CDS	1044				hypothetical protein
+OMBLIMKG_00984	CDS	717				hypothetical protein
+OMBLIMKG_00985	CDS	924				hypothetical protein
+OMBLIMKG_00986	CDS	288				hypothetical protein
+OMBLIMKG_00987	CDS	441				hypothetical protein
+OMBLIMKG_00988	CDS	681				hypothetical protein
+OMBLIMKG_00989	CDS	1263				hypothetical protein
+OMBLIMKG_00990	CDS	612				SH3_and_anchor: SH3 domain protein
+OMBLIMKG_00991	CDS	1251	cca		COG0617	Multifunctional CCA protein
+OMBLIMKG_00992	CDS	630	lolB		COG3017	Outer-membrane lipoprotein LolB
+OMBLIMKG_00993	CDS	954	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+OMBLIMKG_00994	CDS	948	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+OMBLIMKG_00995	CDS	1188	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+OMBLIMKG_00996	CDS	717	sfsA		COG1489	Sugar fermentation stimulation protein A
+OMBLIMKG_00997	CDS	1395	norM		COG0534	Multidrug resistance protein NorM
+OMBLIMKG_00998	CDS	615	ribC	2.5.1.9	COG0307	Riboflavin synthase
+OMBLIMKG_00999	CDS	2610	pepN	3.4.11.2	COG0308	Aminopeptidase N
+OMBLIMKG_01000	CDS	1293				hypothetical protein
+OMBLIMKG_01001	CDS	666				hypothetical protein
+OMBLIMKG_01002	CDS	2514	htrE_4		COG3188	Outer membrane usher protein HtrE
+OMBLIMKG_01003	CDS	699	yadV_4			putative fimbrial chaperone YadV
+OMBLIMKG_01004	CDS	636	hifA_3			Major fimbrial subunit
+OMBLIMKG_01005	CDS	495	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OMBLIMKG_01006	CDS	1089	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+OMBLIMKG_01007	CDS	1191	aspC	2.6.1.1	COG1448	Aspartate aminotransferase
+OMBLIMKG_01008	CDS	618	cbiO	3.6.3.-	COG1122	Cobalt import ATP-binding protein CbiO
+OMBLIMKG_01009	CDS	633				ECF_T_CbiQ: cobalt ECF transporter T component CbiQ
+OMBLIMKG_01010	CDS	621	cbiM			Cobalt transport protein CbiM
+OMBLIMKG_01011	CDS	486				hypothetical protein
+OMBLIMKG_01012	CDS	684			COG5266	putative protein
+OMBLIMKG_01013	CDS	408	merR1			Mercuric resistance operon regulatory protein
+OMBLIMKG_01014	CDS	543				hypothetical protein
+OMBLIMKG_01015	CDS	717				hypothetical protein
+OMBLIMKG_01016	CDS	351	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+OMBLIMKG_01017	CDS	405	yhcB		COG3105	Inner membrane protein YhcB
+OMBLIMKG_01018	CDS	606				hypothetical protein
+OMBLIMKG_01019	CDS	288	rplY		COG1825	50S ribosomal protein L25
+OMBLIMKG_01020	tRNA	75				tRNA-Gln(ttg)
+OMBLIMKG_01021	tRNA	75				tRNA-Gln(ttg)
+OMBLIMKG_01022	tRNA	85				tRNA-Leu(tag)
+OMBLIMKG_01023	tRNA	77				tRNA-Met(cat)
+OMBLIMKG_01024	CDS	366				asp_kinases: aspartate kinase
+OMBLIMKG_01025	CDS	1299	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+OMBLIMKG_01026	CDS	828	dapD	2.3.1.117		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+OMBLIMKG_01027	CDS	1011	purR		COG1609	HTH-type transcriptional repressor PurR
+OMBLIMKG_01028	CDS	2640	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+OMBLIMKG_01029	CDS	1413	ycjX		COG3106	putative protein YcjX
+OMBLIMKG_01030	CDS	1695	sapA		COG4166	Peptide transport periplasmic protein SapA
+OMBLIMKG_01031	CDS	966	sapB_1		COG4168	Putrescine export system permease protein SapB
+OMBLIMKG_01032	CDS	888	sapC		COG4171	Peptide transport system permease protein SapC
+OMBLIMKG_01033	CDS	1050	sapD		COG4170	Peptide transport system ATP-binding protein SapD
+OMBLIMKG_01034	CDS	813	sapF		COG4167	Peptide transport system ATP-binding protein SapF
+OMBLIMKG_01035	CDS	696				hypothetical protein
+OMBLIMKG_01036	CDS	810	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+OMBLIMKG_01037	CDS	1002	fbp	3.1.3.11	COG0158	Fructose-1,6-bisphosphatase class 1
+OMBLIMKG_01038	CDS	96	cmk_2	2.7.4.25		Cytidylate kinase
+OMBLIMKG_01039	CDS	1599	lldP		COG1620	L-lactate permease
+OMBLIMKG_01040	CDS	2844			COG1629	putative TonB-dependent receptor
+OMBLIMKG_01041	CDS	690	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+OMBLIMKG_01042	CDS	708				hypothetical protein
+OMBLIMKG_01043	CDS	1728	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+OMBLIMKG_01044	CDS	690	dsbC		COG1651	Thiol:disulfide interchange protein DsbC
+OMBLIMKG_01045	CDS	747	prfB		COG1186	Peptide chain release factor RF2
+OMBLIMKG_01046	CDS	1509	lysU	6.1.1.6	COG1190	Lysine--tRNA ligase, heat inducible
+OMBLIMKG_01047	CDS	936	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+OMBLIMKG_01048	CDS	456	argR			Arginine repressor
+OMBLIMKG_01049	CDS	891				Epimerase family protein
+OMBLIMKG_01050	CDS	906	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OMBLIMKG_01051	CDS	645	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OMBLIMKG_01052	CDS	492	cvpA		COG1286	Colicin V production protein
+OMBLIMKG_01053	CDS	444				hypothetical protein
+OMBLIMKG_01054	CDS	1206	ackA	2.7.2.1	COG0282	Acetate kinase
+OMBLIMKG_01055	CDS	2136	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+OMBLIMKG_01056	CDS	504				hypothetical protein
+OMBLIMKG_01057	CDS	945	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+OMBLIMKG_01058	CDS	972	cysB			HTH-type transcriptional regulator CysB
+OMBLIMKG_01059	CDS	1074	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+OMBLIMKG_01060	CDS	624	yciO		COG0009	putative protein YciO
+OMBLIMKG_01061	CDS	882	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+OMBLIMKG_01062	CDS	1170	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+OMBLIMKG_01063	CDS	1092	rlmM	2.1.1.186	COG2933	Ribosomal RNA large subunit methyltransferase M
+OMBLIMKG_01064	CDS	894	gcvA			Glycine cleavage system transcriptional activator
+OMBLIMKG_01065	CDS	1032	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OMBLIMKG_01066	CDS	144				hypothetical protein
+OMBLIMKG_01067	CDS	684	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+OMBLIMKG_01068	CDS	426	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+OMBLIMKG_01069	CDS	630	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+OMBLIMKG_01070	CDS	2184	uvrD	3.6.4.12	COG0210	DNA helicase II
+OMBLIMKG_01071	CDS	1002	dppB		COG0601	Dipeptide transport system permease protein DppB
+OMBLIMKG_01072	CDS	888	dppC		COG1173	Dipeptide transport system permease protein DppC
+OMBLIMKG_01073	CDS	993	dppD		COG0444	Dipeptide transport ATP-binding protein DppD
+OMBLIMKG_01074	CDS	984	ddpF		COG1124	putative D,D-dipeptide transport ATP-binding protein DdpF
+OMBLIMKG_01075	CDS	696	ligA_1	6.5.1.1		DNA ligase
+OMBLIMKG_01076	CDS	585	gmhA_2	5.3.1.28	COG0279	Phosphoheptose isomerase
+OMBLIMKG_01077	CDS	732	artP	3.6.3.-	COG4161	Arginine transport ATP-binding protein ArtP
+OMBLIMKG_01078	CDS	720	artI		COG0834	ABC transporter arginine-binding protein
+OMBLIMKG_01079	CDS	666	artQ		COG4215	Arginine ABC transporter permease protein ArtQ
+OMBLIMKG_01080	CDS	684	artM		COG4160	Arginine ABC transporter permease protein ArtM
+OMBLIMKG_01081	CDS	354				hypothetical protein
+OMBLIMKG_01082	CDS	2736				hypothetical protein
+OMBLIMKG_01083	CDS	513			COG3637	putative protein
+OMBLIMKG_01084	CDS	516	sprT			Protein SprT
+OMBLIMKG_01085	CDS	1155	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+OMBLIMKG_01086	CDS	582	trpG_2	4.1.3.27	COG0512	Anthranilate synthase component 2
+OMBLIMKG_01087	CDS	972	menF_2	5.4.4.2		Isochorismate synthase MenF
+OMBLIMKG_01088	CDS	567				hypothetical protein
+OMBLIMKG_01089	CDS	345				hypothetical protein
+OMBLIMKG_01090	CDS	1089	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+OMBLIMKG_01091	CDS	1101	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+OMBLIMKG_01092	CDS	324	grxD		COG0278	Glutaredoxin 4
+OMBLIMKG_01093	CDS	1047	ompA_2			Outer membrane protein P5
+OMBLIMKG_01094	CDS	3084			COG0247	putative protein
+OMBLIMKG_01095	CDS	402			COG2852	putative protein
+OMBLIMKG_01096	CDS	417		3.1.2.-	COG2050	Putative esterase
+OMBLIMKG_01097	CDS	972	hemH	4.99.1.1	COG0276	Ferrochelatase
+OMBLIMKG_01098	CDS	858				thioredoxin: thioredoxin
+OMBLIMKG_01099	CDS	957	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+OMBLIMKG_01100	CDS	1761	cydD_1		COG4988	ATP-binding/permease protein CydD
+OMBLIMKG_01101	CDS	1731			COG1132	putative ABC transporter ATP-binding/permease protein
+OMBLIMKG_01102	CDS	468	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+OMBLIMKG_01103	CDS	540	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+OMBLIMKG_01104	CDS	1293				hypothetical protein
+OMBLIMKG_01105	CDS	666				hypothetical protein
+OMBLIMKG_01106	CDS	2514	htrE_5		COG3188	Outer membrane usher protein HtrE
+OMBLIMKG_01107	CDS	699	yadV_5			putative fimbrial chaperone YadV
+OMBLIMKG_01108	CDS	636	hifA_4			Major fimbrial subunit
+OMBLIMKG_01109	CDS	1356	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+OMBLIMKG_01110	CDS	537				hypothetical protein
+OMBLIMKG_01111	CDS	609	lptC		COG3117	Lipopolysaccharide export system protein LptC
+OMBLIMKG_01112	CDS	519	lptA		COG1934	Lipopolysaccharide export system protein LptA
+OMBLIMKG_01113	CDS	726	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+OMBLIMKG_01114	CDS	495	ptsN		COG1762	Nitrogen regulatory protein
+OMBLIMKG_01115	CDS	858	rapZ		COG1660	RNase adapter protein RapZ
+OMBLIMKG_01116	CDS	1158	pheA		COG0077	Bifunctional chorismate mutase/prephenate dehydratase
+OMBLIMKG_01117	CDS	918	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+OMBLIMKG_01118	CDS	1266	ftsZ			Cell division protein FtsZ
+OMBLIMKG_01119	CDS	1278	ftsA		COG0849	Cell division protein FtsA
+OMBLIMKG_01120	CDS	765	ftsQ		COG1589	Cell division protein FtsQ
+OMBLIMKG_01121	CDS	921	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+OMBLIMKG_01122	CDS	1428	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+OMBLIMKG_01123	CDS	1056	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OMBLIMKG_01124	CDS	1185	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+OMBLIMKG_01125	CDS	1314	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+OMBLIMKG_01126	CDS	1083	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+OMBLIMKG_01127	CDS	1374	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+OMBLIMKG_01128	CDS	1467	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+OMBLIMKG_01129	CDS	1833	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+OMBLIMKG_01130	CDS	324	ftsL		COG3116	Cell division protein FtsL
+OMBLIMKG_01131	CDS	966	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+OMBLIMKG_01132	CDS	456	mraZ		COG2001	Transcriptional regulator MraZ
+OMBLIMKG_01133	CDS	1587	cstA		COG1966	Peptide transporter CstA
+OMBLIMKG_01134	CDS	954	talB	2.2.1.2	COG0176	Transaldolase B
+OMBLIMKG_01135	CDS	1626	oppA_1		COG4166	Periplasmic oligopeptide-binding protein
+OMBLIMKG_01136	CDS	921	oppB		COG0601	Oligopeptide transport system permease protein OppB
+OMBLIMKG_01137	CDS	936	oppC		COG1173	Oligopeptide transport system permease protein OppC
+OMBLIMKG_01138	CDS	972	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+OMBLIMKG_01139	CDS	999	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+OMBLIMKG_01140	CDS	867			COG2990	putative protein
+OMBLIMKG_01141	CDS	618	engB		COG0218	putative GTP-binding protein EngB
+OMBLIMKG_01142	CDS	1530	comM		COG0606	Competence protein ComM
+OMBLIMKG_01143	CDS	672	deoC1	4.1.2.4		Deoxyribose-phosphate aldolase 1
+OMBLIMKG_01144	CDS	504				Soluble secreted antigen MPT53
+OMBLIMKG_01145	CDS	927	hldD	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+OMBLIMKG_01146	CDS	1041	rfaF	2.-.-.-	COG0859	ADP-heptose--LPS heptosyltransferase 2
+OMBLIMKG_01147	CDS	1224	yjhB			Putative metabolite transport protein YjhB
+OMBLIMKG_01148	CDS	951	cysK	2.5.1.47	COG0031	Cysteine synthase
+OMBLIMKG_01149	CDS	819	cysZ		COG2981	Sulfate transporter CysZ
+OMBLIMKG_01150	CDS	987	zipA			Cell division protein ZipA
+OMBLIMKG_01151	CDS	2013	ligA_2	6.5.1.2	COG0272	DNA ligase
+OMBLIMKG_01152	CDS	300				hypothetical protein
+OMBLIMKG_01153	CDS	501				hypothetical protein
+OMBLIMKG_01154	CDS	918				cytochro_ccmI: cytochrome c-type biogenesis protein CcmI
+OMBLIMKG_01155	CDS	462	ccmH		COG3088	Cytochrome c-type biogenesis protein CcmH
+OMBLIMKG_01156	CDS	546	dsbE_1		COG0526	Thiol:disulfide interchange protein DsbE
+OMBLIMKG_01157	CDS	1947	ccmF_1		COG1138	Cytochrome c-type biogenesis protein CcmF
+OMBLIMKG_01158	CDS	522	ccmE		COG2332	Cytochrome c-type biogenesis protein CcmE
+OMBLIMKG_01159	CDS	201				cytochro_ccmD: heme exporter protein CcmD
+OMBLIMKG_01160	CDS	732	ccmC		COG0755	Heme exporter protein C
+OMBLIMKG_01161	CDS	666	ccmB		COG2386	Heme exporter protein B
+OMBLIMKG_01162	CDS	639	ccmA	7.6.2.5	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+OMBLIMKG_01163	CDS	648	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+OMBLIMKG_01164	CDS	795	mlaF	3.6.3.-	COG1127	Intermembrane phospholipid transport system ATP-binding protein MlaF
+OMBLIMKG_01165	CDS	786	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+OMBLIMKG_01166	CDS	501	mlaD		COG1463	Intermembrane phospholipid transport system binding protein MlaD
+OMBLIMKG_01167	CDS	645	mlaC		COG2854	Intermembrane phospholipid transport system binding protein MlaC
+OMBLIMKG_01168	CDS	318				hypothetical protein
+OMBLIMKG_01169	CDS	258			COG5007	putative protein
+OMBLIMKG_01170	CDS	1275	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OMBLIMKG_01171	CDS	774			COG0834	putative amino-acid ABC transporter-binding protein
+OMBLIMKG_01172	CDS	678	tcyB		COG0765	L-cystine transport system permease protein TcyB
+OMBLIMKG_01173	CDS	768	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+OMBLIMKG_01174	CDS	681	pnuC			Nicotinamide riboside transporter PnuC
+OMBLIMKG_01175	CDS	1638	pyrG	6.3.4.2	COG0504	CTP synthase
+OMBLIMKG_01176	CDS	1566	cydA	7.1.1.7	COG1271	Cytochrome bd-I ubiquinol oxidase subunit 1
+OMBLIMKG_01177	CDS	1137	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+OMBLIMKG_01178	CDS	99				hypothetical protein
+OMBLIMKG_01179	CDS	453				hypothetical protein
+OMBLIMKG_01180	CDS	375				hypothetical protein
+OMBLIMKG_01181	CDS	3912				DEAH_box_HrpA: RNA helicase HrpA
+OMBLIMKG_01182	CDS	1527	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+OMBLIMKG_01183	CDS	651	nrfB			Cytochrome c-type protein NrfB
+OMBLIMKG_01184	CDS	678	ydhX		COG0437	putative ferredoxin-like protein YdhX
+OMBLIMKG_01185	CDS	966				cyt_nit_nrfD: cytochrome c nitrite reductase, NrfD subunit
+OMBLIMKG_01186	CDS	714	pyrH	2.7.4.22	COG0528	Uridylate kinase
+OMBLIMKG_01187	CDS	1563	opgE_1	2.7.-.-	COG2194	Phosphoethanolamine transferase OpgE
+OMBLIMKG_01188	CDS	447	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+OMBLIMKG_01189	CDS	789	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+OMBLIMKG_01190	CDS	1173	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+OMBLIMKG_01191	CDS	594	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+OMBLIMKG_01192	CDS	2172				hypothetical protein
+OMBLIMKG_01193	CDS	2775				hypothetical protein
+OMBLIMKG_01194	CDS	342				ahpD_dom: alkylhydroperoxidase AhpD family core domain protein
+OMBLIMKG_01195	CDS	897	mtrA			HTH-type transcriptional regulator MtrA
+OMBLIMKG_01196	CDS	1845	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OMBLIMKG_01197	CDS	279				MerP: mercuric transport protein periplasmic component
+OMBLIMKG_01198	CDS	1110			COG1305	putative protein
+OMBLIMKG_01199	CDS	2421	dmsA	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+OMBLIMKG_01200	CDS	618	dmsB		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+OMBLIMKG_01201	CDS	840	dmsC		COG3302	Anaerobic dimethyl sulfoxide reductase chain C
+OMBLIMKG_01202	CDS	612	dmsD		COG3381	Tat proofreading chaperone DmsD
+OMBLIMKG_01203	CDS	501	napF_3		COG1145	Ferredoxin-type protein NapF
+OMBLIMKG_01204	CDS	249	metH_1	2.1.1.13	COG0646	Methionine synthase
+OMBLIMKG_01205	CDS	192	metH_2	2.1.1.13	COG0646	Methionine synthase
+OMBLIMKG_01206	CDS	294	metH_3	2.1.1.13	COG0646	Methionine synthase
+OMBLIMKG_01207	CDS	420	metH_4	2.1.1.13	COG0646	Methionine synthase
+OMBLIMKG_01208	CDS	429	metH_5	2.1.1.13	COG0646	Methionine synthase
+OMBLIMKG_01209	CDS	441				hypothetical protein
+OMBLIMKG_01210	CDS	1557				hypothetical protein
+OMBLIMKG_01211	CDS	1191				hypothetical protein
+OMBLIMKG_01212	CDS	885	yafJ	2.4.2.-	COG0121	Putative glutamine amidotransferase YafJ
+OMBLIMKG_01213	CDS	549				hypothetical protein
+OMBLIMKG_01214	CDS	948	corA		COG0598	Magnesium transport protein CorA
+OMBLIMKG_01215	CDS	492				hypothetical protein
+OMBLIMKG_01216	CDS	945	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+OMBLIMKG_01217	CDS	1998	tktA	2.2.1.1	COG0021	Transketolase 1
+OMBLIMKG_01218	CDS	1002	bioB	2.8.1.6	COG0502	Biotin synthase
+OMBLIMKG_01219	CDS	648	thiQ	3.6.3.-	COG3840	Thiamine import ATP-binding protein ThiQ
+OMBLIMKG_01220	CDS	1617				thiP: thiamine/thiamine pyrophosphate ABC transporter, permease protein
+OMBLIMKG_01221	CDS	999	thiB		COG4143	Thiamine-binding periplasmic protein
+OMBLIMKG_01222	CDS	348			COG1555	putative protein
+OMBLIMKG_01223	CDS	945	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+OMBLIMKG_01224	CDS	516	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+OMBLIMKG_01225	CDS	1560	opgE_2	2.7.-.-	COG2194	Phosphoethanolamine transferase OpgE
+OMBLIMKG_01226	CDS	1869	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+OMBLIMKG_01227	CDS	1359	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+OMBLIMKG_01228	CDS	1626	yidC		COG0706	Membrane protein insertase YidC
+OMBLIMKG_01229	CDS	261	yidD_2		COG0759	Putative membrane protein insertion efficiency factor
+OMBLIMKG_01230	CDS	360	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+OMBLIMKG_01231	CDS	135	rpmH			50S ribosomal protein L34
+OMBLIMKG_01232	CDS	1461				TPR repeat-containing protein
+OMBLIMKG_01233	CDS	1995	tbpB			Transferrin-binding protein 2
+OMBLIMKG_01234	CDS	2730	tbp1			Transferrin-binding protein 1
+OMBLIMKG_01235	CDS	1365	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+OMBLIMKG_01236	CDS	1101	dnaN		COG0592	Beta sliding clamp
+OMBLIMKG_01237	CDS	1080	recF		COG1195	DNA replication and repair protein RecF
+OMBLIMKG_01238	CDS	5295	iga	3.4.21.72	COG3468	Immunoglobulin A1 protease autotransporter
+OMBLIMKG_01239	CDS	603	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+OMBLIMKG_01240	CDS	1410	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+OMBLIMKG_01241	CDS	1077	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+OMBLIMKG_01242	CDS	1548	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+OMBLIMKG_01243	CDS	1122				dprA: DNA protecting protein DprA
+OMBLIMKG_01244	CDS	777	yaaA		COG3022	Peroxide stress resistance protein YaaA
+OMBLIMKG_01245	CDS	582				hypothetical protein
+OMBLIMKG_01246	CDS	966	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase isozyme 1
+OMBLIMKG_01247	CDS	486	smpB		COG0691	SsrA-binding protein
+OMBLIMKG_01248	CDS	300	fis		COG2901	DNA-binding protein Fis
+OMBLIMKG_01249	CDS	981	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+OMBLIMKG_01250	CDS	1089				hypothetical protein
+OMBLIMKG_01251	CDS	885	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+OMBLIMKG_01252	CDS	873				2A78: carboxylate/amino acid/amine transporter
+OMBLIMKG_01253	CDS	1455	panF		COG4145	Sodium/pantothenate symporter
+OMBLIMKG_01254	CDS	258	yhdT		COG3924	putative membrane protein YhdT
+OMBLIMKG_01255	CDS	1347	accC	6.3.4.14	COG0439	Biotin carboxylase
+OMBLIMKG_01256	CDS	468	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+OMBLIMKG_01257	CDS	450	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+OMBLIMKG_01258	CDS	990	menC	4.2.1.113	COG1441	o-succinylbenzoate synthase
+OMBLIMKG_01259	CDS	858	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+OMBLIMKG_01260	CDS	567				hypothetical protein
+OMBLIMKG_01261	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+OMBLIMKG_01262	CDS	1533	murJ		COG0728	putative lipid II flippase MurJ
+OMBLIMKG_01263	CDS	927	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+OMBLIMKG_01264	CDS	2826	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+OMBLIMKG_01265	CDS	351		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+OMBLIMKG_01266	CDS	351				hypothetical protein
+OMBLIMKG_01267	CDS	1056	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+OMBLIMKG_01268	CDS	708	rlmC_1	2.1.1.189	COG2265	23S rRNA (uracil(747)-C(5))-methyltransferase RlmC
+OMBLIMKG_01269	CDS	264				hypothetical protein
+OMBLIMKG_01270	CDS	1848		2.4.1.-		UDP-glucose:protein N-beta-glucosyltransferase
+OMBLIMKG_01271	CDS	1638				hypothetical protein
+OMBLIMKG_01272	CDS	3423				hypothetical protein
+OMBLIMKG_01273	CDS	222				hypothetical protein
+OMBLIMKG_01274	CDS	432				hypothetical protein
+OMBLIMKG_01275	CDS	336				hypothetical protein
+OMBLIMKG_01276	CDS	921				hypothetical protein
+OMBLIMKG_01277	CDS	936				hypothetical protein
+OMBLIMKG_01278	CDS	354				tail_comp_S: phage virion morphogenesis protein
+OMBLIMKG_01279	CDS	1317				phageSPP1_gp7: phage head morphogenesis protein, SPP1 gp7 family
+OMBLIMKG_01280	CDS	651				hypothetical protein
+OMBLIMKG_01281	CDS	966				hypothetical protein
+OMBLIMKG_01282	CDS	1650				hypothetical protein
+OMBLIMKG_01283	CDS	501				hypothetical protein
+OMBLIMKG_01284	CDS	267				hypothetical protein
+OMBLIMKG_01285	CDS	258				hypothetical protein
+OMBLIMKG_01286	CDS	258				hypothetical protein
+OMBLIMKG_01287	CDS	291				hypothetical protein
+OMBLIMKG_01288	CDS	504				hypothetical protein
+OMBLIMKG_01289	CDS	429				hypothetical protein
+OMBLIMKG_01290	CDS	417	hicB		COG1598	Antitoxin HicB
+OMBLIMKG_01291	CDS	177	hicA	3.1.-.-		putative mRNA interferase toxin HicA
+OMBLIMKG_01292	CDS	219				hypothetical protein
+OMBLIMKG_01293	CDS	642				hypothetical protein
+OMBLIMKG_01294	CDS	204				hypothetical protein
+OMBLIMKG_01295	CDS	399				hypothetical protein
+OMBLIMKG_01296	CDS	249				hypothetical protein
+OMBLIMKG_01297	CDS	174				hypothetical protein
+OMBLIMKG_01298	CDS	165				hypothetical protein
+OMBLIMKG_01299	CDS	198				hypothetical protein
+OMBLIMKG_01300	CDS	618				hypothetical protein
+OMBLIMKG_01301	CDS	192				hypothetical protein
+OMBLIMKG_01302	CDS	297				hypothetical protein
+OMBLIMKG_01303	CDS	750				hypothetical protein
+OMBLIMKG_01304	CDS	186				hypothetical protein
+OMBLIMKG_01305	CDS	399				hypothetical protein
+OMBLIMKG_01306	CDS	1986				hypothetical protein
+OMBLIMKG_01307	CDS	279				hypothetical protein
+OMBLIMKG_01308	CDS	717			COG2932	putative HTH-type transcriptional regulator
+OMBLIMKG_01309	CDS	411	rlmC_2	2.1.1.189	COG2265	23S rRNA (uracil(747)-C(5))-methyltransferase RlmC
+OMBLIMKG_01310	CDS	675	crp_1		COG0664	cAMP-activated global transcriptional regulator CRP
+OMBLIMKG_01311	CDS	252				hypothetical protein
+OMBLIMKG_01312	CDS	657	slmA		COG1309	Nucleoid occlusion factor SlmA
+OMBLIMKG_01313	CDS	456	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OMBLIMKG_01314	CDS	1203	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+OMBLIMKG_01315	CDS	666				hypothetical protein
+OMBLIMKG_01316	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+OMBLIMKG_01317	CDS	171	rpmG		COG0267	50S ribosomal protein L33
+OMBLIMKG_01318	CDS	1365	dat	2.6.1.76	COG0160	Diaminobutyrate--2-oxoglutarate aminotransferase
+OMBLIMKG_01319	CDS	1536	ddc	4.1.1.86	COG0076	L-2,4-diaminobutyrate decarboxylase
+OMBLIMKG_01320	CDS	816	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+OMBLIMKG_01321	CDS	1023	degS	3.4.21.107	COG0265	Serine endoprotease DegS
+OMBLIMKG_01322	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+OMBLIMKG_01323	CDS	450	nrdR		COG1327	Transcriptional repressor NrdR
+OMBLIMKG_01324	CDS	3381	recC	3.1.11.5	COG1330	RecBCD enzyme subunit RecC
+OMBLIMKG_01325	CDS	297				hypothetical protein
+OMBLIMKG_01326	CDS	684				hypothetical protein
+OMBLIMKG_01327	CDS	717				hypothetical protein
+OMBLIMKG_01328	CDS	513				hypothetical protein
+OMBLIMKG_01329	CDS	804	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+OMBLIMKG_01330	CDS	1908	ccmF_2		COG1138	Cytochrome c-type biogenesis protein CcmF
+OMBLIMKG_01331	CDS	531	dsbE_2		COG0526	Thiol:disulfide interchange protein DsbE
+OMBLIMKG_01332	CDS	1158				cyt_nit_nrfF: cytochrome c nitrite reductase, accessory protein NrfF
+OMBLIMKG_01333	CDS	1026			COG2081	putative protein
+OMBLIMKG_01334	CDS	210			COG2081	putative protein
+OMBLIMKG_01335	CDS	1311	eno	4.2.1.11	COG0148	Enolase
+OMBLIMKG_01336	CDS	420				hypothetical protein
+OMBLIMKG_01337	CDS	582				hypothetical protein
+OMBLIMKG_01338	CDS	1182	ygiC	6.3.1.-	COG0754	Putative acid--amine ligase YgiC
+OMBLIMKG_01339	CDS	1527	katA	1.11.1.6	COG0753	Catalase
+OMBLIMKG_01340	CDS	909	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+OMBLIMKG_01341	CDS	261				hypothetical protein
+OMBLIMKG_01342	CDS	366			COG2852	putative protein
+OMBLIMKG_01343	CDS	2067	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+OMBLIMKG_01344	tRNA	77				tRNA-Met(cat)
+OMBLIMKG_01345	CDS	300				major_capsid_P2: phage major capsid protein, P2 family
+OMBLIMKG_01346	CDS	225				hypothetical protein
+OMBLIMKG_01347	CDS	207				hypothetical protein
+OMBLIMKG_01348	CDS	255				hypothetical protein
+OMBLIMKG_01349	CDS	192	relE	3.1.-.-	COG2026	mRNA interferase toxin RelE
+OMBLIMKG_01350	CDS	228				hypothetical protein
+OMBLIMKG_01351	CDS	1035	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+OMBLIMKG_01352	CDS	504	lptE		COG2980	LPS-assembly lipoprotein LptE
+OMBLIMKG_01353	CDS	2586	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+OMBLIMKG_01354	CDS	720	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+OMBLIMKG_01355	CDS	867	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+OMBLIMKG_01356	CDS	1332	rseP	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+OMBLIMKG_01357	CDS	2379	bamA		COG4775	Outer membrane protein assembly factor BamA
+OMBLIMKG_01358	CDS	594			COG2825	Outer membrane protein 26
+OMBLIMKG_01359	CDS	1026	lpxD	2.3.1.191	COG1044	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+OMBLIMKG_01360	CDS	852	tsf		COG0264	Elongation factor Ts
+OMBLIMKG_01361	CDS	723	rpsB		COG0052	30S ribosomal protein S2
+OMBLIMKG_01362	CDS	765	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OMBLIMKG_01363	CDS	1857	kefC		COG0475	Glutathione-regulated potassium-efflux system protein KefC
+OMBLIMKG_01364	CDS	411	mutT	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+OMBLIMKG_01365	CDS	2706	secA		COG0653	Protein translocase subunit SecA
+OMBLIMKG_01366	CDS	303				hypothetical protein
+OMBLIMKG_01367	CDS	315				hypothetical protein
+OMBLIMKG_01368	CDS	522	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+OMBLIMKG_01369	CDS	852	thyA	2.1.1.45	COG0207	Thymidylate synthase
+OMBLIMKG_01370	CDS	807	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+OMBLIMKG_01371	CDS	795				hypothetical protein
+OMBLIMKG_01372	CDS	591	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+OMBLIMKG_01373	CDS	1107	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+OMBLIMKG_01374	CDS	483	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+OMBLIMKG_01375	CDS	1173	emrA		COG1566	Multidrug export protein EmrA
+OMBLIMKG_01376	CDS	1533	emrB			Multidrug export protein EmrB
+OMBLIMKG_01377	CDS	771	ftsN		COG3087	Cell division protein FtsN
+OMBLIMKG_01378	CDS	3081	bepE			Efflux pump membrane transporter BepE
+OMBLIMKG_01379	CDS	1197	mdtA			Multidrug resistance protein MdtA
+OMBLIMKG_01380	CDS	564			COG1309	putative HTH-type transcriptional regulator
+OMBLIMKG_01381	CDS	1248	rhlB	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlB
+OMBLIMKG_01382	CDS	207	yacG		COG3024	DNA gyrase inhibitor YacG
+OMBLIMKG_01383	CDS	669	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+OMBLIMKG_01384	CDS	1266	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+OMBLIMKG_01385	CDS	1290	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+OMBLIMKG_01386	CDS	1599	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+OMBLIMKG_01387	CDS	405				hypothetical protein
+OMBLIMKG_01388	CDS	1740	dsbD	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+OMBLIMKG_01389	CDS	711	arcA		COG0745	Aerobic respiration control protein ArcA
+OMBLIMKG_01390	CDS	1371	alsT_1		COG1115	Amino-acid carrier protein AlsT
+OMBLIMKG_01391	CDS	738	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+OMBLIMKG_01392	CDS	990	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+OMBLIMKG_01393	CDS	312	rplU		COG0261	50S ribosomal protein L21
+OMBLIMKG_01394	CDS	258	rpmA		COG0211	50S ribosomal protein L27
+OMBLIMKG_01395	CDS	921	yhbE		COG0697	putative inner membrane transporter YhbE
+OMBLIMKG_01396	CDS	1251	obgE	3.6.5.-	COG0536	GTPase ObgE/CgtA
+OMBLIMKG_01397	CDS	423	ndk	2.7.4.6		Nucleoside diphosphate kinase
+OMBLIMKG_01398	CDS	1305	pepB	3.4.11.23	COG0260	Peptidase B
+OMBLIMKG_01399	CDS	1044	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+OMBLIMKG_01400	CDS	1419	glnA	6.3.1.2	COG0174	Glutamine synthetase
+OMBLIMKG_01401	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA 
+OMBLIMKG_01402	CDS	633	pdxH	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+OMBLIMKG_01403	CDS	708	yhhQ		COG1738	Queuosine precursor transporter
+OMBLIMKG_01404	CDS	1308				hypothetical protein
+OMBLIMKG_01405	CDS	282	vapD	3.1.-.-	COG3309	Endoribonuclease VapD
+OMBLIMKG_01406	CDS	2349	rnr	3.1.13.1	COG0557	Ribonuclease R
+OMBLIMKG_01407	CDS	741	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+OMBLIMKG_01408	CDS	2571	clpB		COG0542	Chaperone protein ClpB
+OMBLIMKG_01409	CDS	564		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+OMBLIMKG_01410	CDS	303	zapA		COG3027	Cell division protein ZapA
+OMBLIMKG_01411	CDS	2808	polA	2.7.7.7	COG0258	DNA polymerase I
+OMBLIMKG_01412	CDS	348				hypothetical protein
+OMBLIMKG_01413	CDS	762		1.14.99.-	COG0748	putative heme oxygenase
+OMBLIMKG_01414	CDS	1644	hbpA		COG0747	Heme-binding protein A
+OMBLIMKG_01415	CDS	1392	hsrA			putative transport protein HsrA
+OMBLIMKG_01416	CDS	516	mobB		COG1763	Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+OMBLIMKG_01417	CDS	435	rseC		COG3086	Protein RseC
+OMBLIMKG_01418	CDS	774	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+OMBLIMKG_01419	CDS	1092	trmA	2.1.1.-	COG2265	tRNA/tmRNA (uracil-C(5))-methyltransferase
+OMBLIMKG_01420	CDS	336				hypothetical protein
+OMBLIMKG_01421	CDS	618	dsbA		COG0526	Thiol:disulfide interchange protein DsbA
+OMBLIMKG_01422	CDS	267	yihD		COG3084	Protein YihD
+OMBLIMKG_01423	CDS	579	mobA	2.7.7.77	COG0746	Molybdenum cofactor guanylyltransferase
+OMBLIMKG_01424	CDS	993	atzC	3.5.4.42		N-isopropylammelide isopropyl amidohydrolase
+OMBLIMKG_01425	CDS	1758	yejM		COG3083	Inner membrane protein YejM
+OMBLIMKG_01426	CDS	219				hypothetical protein
+OMBLIMKG_01427	CDS	1017	yejK		COG3081	Nucleoid-associated protein YejK
+OMBLIMKG_01428	CDS	414	bamE			Outer membrane protein assembly factor BamE
+OMBLIMKG_01429	CDS	684	cpxR		COG0745	Transcriptional regulatory protein CpxR
+OMBLIMKG_01430	CDS	972	epmA	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+OMBLIMKG_01431	CDS	1800	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+OMBLIMKG_01432	CDS	771	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+OMBLIMKG_01433	CDS	411	frdC		COG3029	Fumarate reductase subunit C
+OMBLIMKG_01434	CDS	345	frdD		COG3080	Fumarate reductase subunit D
+OMBLIMKG_01435	CDS	585	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+OMBLIMKG_01436	CDS	306	trpR		COG2973	Trp operon repressor
+OMBLIMKG_01437	CDS	1782	mltC_1	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+OMBLIMKG_01438	CDS	297			COG2350	putative protein
+OMBLIMKG_01439	CDS	477		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+OMBLIMKG_01440	CDS	558	yciB		COG2917	putative intracellular septation protein A
+OMBLIMKG_01441	CDS	735				hypothetical protein
+OMBLIMKG_01442	CDS	1011	mglC		COG4211	Galactoside transport system permease protein MglC
+OMBLIMKG_01443	CDS	1521	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+OMBLIMKG_01444	CDS	996	mglB		COG1879	D-galactose-binding periplasmic protein
+OMBLIMKG_01445	CDS	999	galS		COG1609	HTH-type transcriptional regulator GalS
+OMBLIMKG_01446	CDS	1050	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+OMBLIMKG_01447	CDS	1155	galK	2.7.1.6	COG0153	Galactokinase
+OMBLIMKG_01448	CDS	1023	galM	5.1.3.3	COG2017	Aldose 1-epimerase
+OMBLIMKG_01449	CDS	549				hypothetical protein
+OMBLIMKG_01450	CDS	1293	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+OMBLIMKG_01451	CDS	426	uspA		COG0589	Universal stress protein A 
+OMBLIMKG_01452	CDS	2625	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+OMBLIMKG_01453	CDS	192	csrA		COG1551	Translational regulator CsrA
+OMBLIMKG_01454	CDS	888	galU	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+OMBLIMKG_01455	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+OMBLIMKG_01456	CDS	882	hslO		COG1281	33 kDa chaperonin
+OMBLIMKG_01457	CDS	1617	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+OMBLIMKG_01458	CDS	558	frr		COG0233	Ribosome-recycling factor
+OMBLIMKG_01459	CDS	1194	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+OMBLIMKG_01460	CDS	810				hypothetical protein
+OMBLIMKG_01461	CDS	240	chuR_1	1.1.99.-	COG0641	Anaerobic sulfatase-maturating enzyme
+OMBLIMKG_01462	CDS	390	chuR_2	1.1.99.-	COG0641	Anaerobic sulfatase-maturating enzyme
+OMBLIMKG_01463	CDS	597	crp_2		COG0664	cAMP-activated global transcriptional regulator CRP
+OMBLIMKG_01464	CDS	387	rplQ		COG0203	50S ribosomal protein L17
+OMBLIMKG_01465	CDS	987	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+OMBLIMKG_01466	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+OMBLIMKG_01467	CDS	390	rpsK		COG0100	30S ribosomal protein S11
+OMBLIMKG_01468	CDS	357	rpsM		COG0099	30S ribosomal protein S13
+OMBLIMKG_01469	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+OMBLIMKG_01470	CDS	1326	secY		COG0201	Protein translocase subunit SecY
+OMBLIMKG_01471	CDS	435	rplO		COG0200	50S ribosomal protein L15
+OMBLIMKG_01472	CDS	180	rpmD		COG1841	50S ribosomal protein L30
+OMBLIMKG_01473	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+OMBLIMKG_01474	CDS	354	rplR		COG0256	50S ribosomal protein L18
+OMBLIMKG_01475	CDS	534	rplF		COG0097	50S ribosomal protein L6
+OMBLIMKG_01476	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+OMBLIMKG_01477	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+OMBLIMKG_01478	CDS	540	rplE		COG0094	50S ribosomal protein L5
+OMBLIMKG_01479	CDS	312	rplX		COG0198	50S ribosomal protein L24
+OMBLIMKG_01480	CDS	372	rplN		COG0093	50S ribosomal protein L14
+OMBLIMKG_01481	CDS	786				hypothetical protein
+OMBLIMKG_01482	CDS	258	rpsQ		COG0186	30S ribosomal protein S17
+OMBLIMKG_01483	CDS	192	rpmC		COG0255	50S ribosomal protein L29
+OMBLIMKG_01484	CDS	411	rplP		COG0197	50S ribosomal protein L16
+OMBLIMKG_01485	CDS	708	rpsC		COG0092	30S ribosomal protein S3
+OMBLIMKG_01486	CDS	333	rplV		COG0091	50S ribosomal protein L22
+OMBLIMKG_01487	CDS	276	rpsS		COG0185	30S ribosomal protein S19
+OMBLIMKG_01488	CDS	822	rplB		COG0090	50S ribosomal protein L2
+OMBLIMKG_01489	CDS	300	rplW		COG0089	50S ribosomal protein L23
+OMBLIMKG_01490	CDS	603	rplD		COG0088	50S ribosomal protein L4
+OMBLIMKG_01491	CDS	627	rplC		COG0087	50S ribosomal protein L3
+OMBLIMKG_01492	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+OMBLIMKG_01493	CDS	933	ftsX		COG2177	Cell division protein FtsX
+OMBLIMKG_01494	CDS	657	ftsE		COG2884	Cell division ATP-binding protein FtsE
+OMBLIMKG_01495	CDS	1203	ftsY		COG0552	Signal recognition particle receptor FtsY
+OMBLIMKG_01496	CDS	582	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+OMBLIMKG_01497	CDS	483	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+OMBLIMKG_01498	CDS	837	lex1_1	2.-.-.-	COG3306	Lipooligosaccharide biosynthesis protein lex-1
+OMBLIMKG_01499	CDS	648	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+OMBLIMKG_01500	CDS	1224	nadR		COG1056	Bifunctional NAD biosynthesis protein NadR
+OMBLIMKG_01501	CDS	681				hypothetical protein
+OMBLIMKG_01502	tRNA	76				tRNA-Asn(gtt)
+OMBLIMKG_01503	tRNA	76				tRNA-Phe(gaa)
+OMBLIMKG_01504	CDS	1074	mltC_2	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase C
+OMBLIMKG_01505	CDS	273			COG2924	putative Fe(2+)-trafficking protein
+OMBLIMKG_01506	CDS	1137	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+OMBLIMKG_01507	CDS	213	rpmE		COG0254	50S ribosomal protein L31
+OMBLIMKG_01508	CDS	684	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+OMBLIMKG_01509	CDS	1212	envC		COG4942	Murein hydrolase activator EnvC
+OMBLIMKG_01510	CDS	843			COG2861	putative protein
+OMBLIMKG_01511	CDS	744				hypothetical protein
+OMBLIMKG_01512	CDS	3894	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+OMBLIMKG_01513	CDS	135				hypothetical protein
+OMBLIMKG_01514	CDS	498	tpx	1.11.1.15	COG2077	Thiol peroxidase
+OMBLIMKG_01515	CDS	825	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+OMBLIMKG_01516	CDS	624	lexA	3.4.21.88	COG1974	LexA repressor
+OMBLIMKG_01517	CDS	2433	plsB	2.3.1.15	COG2937	Glycerol-3-phosphate acyltransferase
+OMBLIMKG_01518	CDS	1335	ndh	1.6.99.3	COG1252	NADH dehydrogenase
+OMBLIMKG_01519	CDS	1323	dcuA		COG2704	Anaerobic C4-dicarboxylate transporter DcuA
+OMBLIMKG_01520	CDS	447	yibN		COG0607	putative protein YibN
+OMBLIMKG_01521	CDS	510	secB		COG1952	Protein-export protein SecB
+OMBLIMKG_01522	CDS	1653		5.4.2.8	COG1109	putative phosphomannomutase
+OMBLIMKG_01523	CDS	3480	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+OMBLIMKG_01524	CDS	1542	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+OMBLIMKG_01525	CDS	1839	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+OMBLIMKG_01526	CDS	669	iolD	3.7.1.22		3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+OMBLIMKG_01527	CDS	1527				hypothetical protein
+OMBLIMKG_01528	CDS	96				hypothetical protein
+OMBLIMKG_01529	CDS	714	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+OMBLIMKG_01530	CDS	723	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+OMBLIMKG_01531	CDS	1410	ftsP		COG2132	Cell division protein FtsP
+OMBLIMKG_01532	CDS	2349	lptD		COG1452	LPS-assembly protein LptD
+OMBLIMKG_01533	CDS	1719	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+OMBLIMKG_01534	CDS	1860	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+OMBLIMKG_01535	CDS	306	cyaY		COG1965	Iron-sulfur cluster assembly protein CyaY
+OMBLIMKG_01536	CDS	117				hypothetical protein
+OMBLIMKG_01537	CDS	1248	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+OMBLIMKG_01538	CDS	627	narL		COG2197	Nitrate/nitrite response regulator protein NarL
+OMBLIMKG_01539	CDS	441				hypothetical protein
+OMBLIMKG_01540	CDS	561	yihI			Der GTPase-activating protein YihI
+OMBLIMKG_01541	CDS	279				hypothetical protein
+OMBLIMKG_01542	CDS	174				hypothetical protein
+OMBLIMKG_01543	rRNA	110				5S ribosomal RNA
+OMBLIMKG_01544	rRNA	3006				23S ribosomal RNA
+OMBLIMKG_01545	tRNA	76				tRNA-Glu(ttc)
+OMBLIMKG_01546	rRNA	1536				16S ribosomal RNA
+OMBLIMKG_01547	CDS	555	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+OMBLIMKG_01548	CDS	1038	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+OMBLIMKG_01549	CDS	690				PhnE: phosphonate ABC transporter, permease protein PhnE
+OMBLIMKG_01550	CDS	822	metQ		COG1464	putative D-methionine-binding lipoprotein MetQ
+OMBLIMKG_01551	CDS	768	glpR		COG1349	Glycerol-3-phosphate regulon repressor
+OMBLIMKG_01552	CDS	579	glpG	3.4.21.105	COG0705	Rhomboid protease GlpG
+OMBLIMKG_01553	CDS	660	rluA_2	5.4.99.28	COG0564	Dual-specificity RNA pseudouridine synthase RluA
+OMBLIMKG_01554	CDS	2772	rapA	3.6.4.-	COG0553	RNA polymerase-associated protein RapA
+OMBLIMKG_01555	CDS	750	ydjF		COG1349	putative HTH-type transcriptional regulator YdjF
+OMBLIMKG_01556	CDS	1770	fucI	5.3.1.25	COG2407	L-fucose isomerase
+OMBLIMKG_01557	CDS	1413	fucK	2.7.1.51	COG1070	L-fuculokinase
+OMBLIMKG_01558	CDS	435	fucU	5.1.3.29	COG4154	L-fucose mutarotase
+OMBLIMKG_01559	CDS	651	fucA	4.1.2.17	COG0235	L-fuculose phosphate aldolase
+OMBLIMKG_01560	CDS	1287	fucP		COG0738	L-fucose-proton symporter
+OMBLIMKG_01561	tRNA	77				tRNA-Arg(tct)
+OMBLIMKG_01562	tRNA	77				tRNA-Pro(tgg)
+OMBLIMKG_01563	CDS	849	folD			Bifunctional protein FolD protein
+OMBLIMKG_01564	CDS	1386	sdcS			Sodium-dependent dicarboxylate transporter SdcS
+OMBLIMKG_01565	CDS	816	sdhL	1.1.1.25	COG0169	Shikimate dehydrogenase-like protein
+OMBLIMKG_01566	CDS	804	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+OMBLIMKG_01567	CDS	1008	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+OMBLIMKG_01568	CDS	2532	cyaA	4.6.1.1	COG3072	Adenylate cyclase
+OMBLIMKG_01569	CDS	1212				hypothetical protein
+OMBLIMKG_01570	CDS	1287	hemY		COG3071	Protein HemY
+OMBLIMKG_01571	CDS	420	psiE			Protein PsiE
+OMBLIMKG_01572	tRNA	76				tRNA-Trp(cca)
+OMBLIMKG_01573	tRNA	77				tRNA-Asp(gtc)
+OMBLIMKG_01574	rRNA	108				5S ribosomal RNA
+OMBLIMKG_01575	rRNA	110				5S ribosomal RNA
+OMBLIMKG_01576	rRNA	3006				23S ribosomal RNA
+OMBLIMKG_01577	tRNA	76				tRNA-Glu(ttc)
+OMBLIMKG_01578	rRNA	1536				16S ribosomal RNA
+OMBLIMKG_01579	CDS	654	tfoX		COG3070	DNA transformation protein TfoX
+OMBLIMKG_01580	CDS	1065	recA		COG0468	Protein RecA
+OMBLIMKG_01581	CDS	381	recX		COG2137	Regulatory protein RecX
+OMBLIMKG_01582	CDS	387	crcB		COG0239	Putative fluoride ion transporter CrcB
+OMBLIMKG_01583	CDS	819	yigL	3.1.3.74	COG0561	Pyridoxal phosphate phosphatase YigL
+OMBLIMKG_01584	CDS	1005	arcB_1	2.1.3.3	COG0078	Ornithine carbamoyltransferase, catabolic
+OMBLIMKG_01585	CDS	933	arcC1	2.7.2.2		Carbamate kinase 1
+OMBLIMKG_01586	CDS	1530				hypothetical protein
+OMBLIMKG_01587	CDS	180	hgpA			Hemoglobin and hemoglobin-haptoglobin-binding protein A
+OMBLIMKG_01588	CDS	2319			COG1629	putative hemoglobin and hemoglobin-haptoglobin-binding protein 2
+OMBLIMKG_01589	CDS	1917			COG0488	putative ABC transporter ATP-binding protein
+OMBLIMKG_01590	CDS	537	topA_2	5.6.2.1	COG0550	DNA topoisomerase 1
+OMBLIMKG_01591	CDS	552	tsaC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+OMBLIMKG_01592	CDS	819	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+OMBLIMKG_01593	CDS	558	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+OMBLIMKG_01594	CDS	765				S_glycosyl_SunS: peptide S-glycosyltransferase, SunS family
+OMBLIMKG_01595	CDS	1284	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+OMBLIMKG_01596	CDS	471	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+OMBLIMKG_01597	CDS	213				hypothetical protein
+OMBLIMKG_01598	CDS	2016	rep	3.6.4.12	COG0210	ATP-dependent DNA helicase Rep
+OMBLIMKG_01599	CDS	888	dmlR			HTH-type transcriptional regulator DmlR
+OMBLIMKG_01600	CDS	579	mdaB	1.6.5.10	COG2249	NADPH:quinone oxidoreductase MdaB
+OMBLIMKG_01601	CDS	636	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+OMBLIMKG_01602	CDS	717	sapB_2		COG1285	Protein SapB
+OMBLIMKG_01603	CDS	1116	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+OMBLIMKG_01604	CDS	936	pldB	3.1.1.5	COG2267	Lysophospholipase L2
+OMBLIMKG_01605	tRNA	94				tRNA-Ser(gct)
+OMBLIMKG_01606	tRNA	77				tRNA-Arg(acg)
+OMBLIMKG_01607	tRNA	77				tRNA-Arg(acg)
+OMBLIMKG_01608	CDS	312				hypothetical protein
+OMBLIMKG_01609	CDS	1371	glmU		COG1207	Bifunctional protein GlmU
+OMBLIMKG_01610	CDS	375	rplL		COG0222	50S ribosomal protein L7/L12
+OMBLIMKG_01611	CDS	492	rplJ		COG0244	50S ribosomal protein L10
+OMBLIMKG_01612	CDS	1371	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+OMBLIMKG_01613	CDS	618	hflD		COG2915	High frequency lysogenization protein HflD
+OMBLIMKG_01614	CDS	1005	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+OMBLIMKG_01615	CDS	291				hypothetical protein
+OMBLIMKG_01616	CDS	984	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+OMBLIMKG_01617	CDS	177				hypothetical protein
+OMBLIMKG_01618	CDS	288				hypothetical protein
+OMBLIMKG_01619	CDS	1185	tufB_1		COG0050	Elongation factor Tu 2
+OMBLIMKG_01620	tRNA	76				tRNA-Thr(ggt)
+OMBLIMKG_01621	tRNA	75				tRNA-Gly(tcc)
+OMBLIMKG_01622	tRNA	85				tRNA-Tyr(gta)
+OMBLIMKG_01623	tRNA	76				tRNA-Thr(tgt)
+OMBLIMKG_01624	CDS	924	coaA	2.7.1.33	COG1072	Pantothenate kinase
+OMBLIMKG_01625	CDS	951	rseB		COG3026	Sigma-E factor regulatory protein RseB
+OMBLIMKG_01626	CDS	588	rseA			Anti-sigma-E factor RseA
+OMBLIMKG_01627	CDS	570	rpoE			ECF RNA polymerase sigma-E factor
+OMBLIMKG_01628	CDS	258	sdhE		COG2938	FAD assembly factor SdhE
+OMBLIMKG_01629	CDS	387	mscL		COG1970	Large-conductance mechanosensitive channel
+OMBLIMKG_01630	CDS	1377	trkA		COG0569	Trk system potassium uptake protein TrkA
+OMBLIMKG_01631	CDS	1356	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+OMBLIMKG_01632	CDS	957	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+OMBLIMKG_01633	CDS	510	def	3.5.1.88		Peptide deformylase
+OMBLIMKG_01634	rRNA	110				5S ribosomal RNA
+OMBLIMKG_01635	rRNA	3006				23S ribosomal RNA
+OMBLIMKG_01636	tRNA	76				tRNA-Ala(tgc)
+OMBLIMKG_01637	tRNA	77				tRNA-Ile(gat)
+OMBLIMKG_01638	rRNA	1536				16S ribosomal RNA
+OMBLIMKG_01639	CDS	1464	trkH		COG0168	Trk system potassium uptake protein TrkH
+OMBLIMKG_01640	CDS	621	yigZ		COG1739	IMPACT family member YigZ
+OMBLIMKG_01641	CDS	240	tusA		COG0425	Sulfur carrier protein TusA
+OMBLIMKG_01642	CDS	852	htpX	3.4.24.-	COG0501	Protease HtpX
+OMBLIMKG_01643	CDS	939				hypothetical protein
+OMBLIMKG_01644	CDS	228				hypothetical protein
+OMBLIMKG_01645	CDS	1167				hypothetical protein
+OMBLIMKG_01646	CDS	390			COG0251	RutC family protein
+OMBLIMKG_01647	CDS	753	mlaA		COG2853	Intermembrane phospholipid transport system lipoprotein MlaA
+OMBLIMKG_01648	CDS	558	nusG		COG0250	Transcription termination/antitermination protein NusG
+OMBLIMKG_01649	CDS	417	secE		COG0690	Protein translocase subunit SecE
+OMBLIMKG_01650	CDS	1236	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+OMBLIMKG_01651	CDS	582	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+OMBLIMKG_01652	CDS	1299	tig	5.2.1.8	COG0544	Trigger factor
+OMBLIMKG_01653	CDS	3189			COG1629	putative hemoglobin and hemoglobin-haptoglobin-binding protein 3
+OMBLIMKG_01654	CDS	1089				hypothetical protein
+OMBLIMKG_01655	CDS	2586	mutS		COG0249	DNA mismatch repair protein MutS
+OMBLIMKG_01656	CDS	1203				hypothetical protein
+OMBLIMKG_01657	CDS	186				hypothetical protein
+OMBLIMKG_01658	CDS	579				hypothetical protein
+OMBLIMKG_01659	CDS	750	surE	3.1.3.5	COG0496	5'/3'-nucleotidase SurE
+OMBLIMKG_01660	CDS	1020	truD	5.4.99.27	COG0585	tRNA pseudouridine synthase D
+OMBLIMKG_01661	CDS	423	rraB		COG3076	Regulator of ribonuclease activity B
+OMBLIMKG_01662	CDS	2901				hypothetical protein
+OMBLIMKG_01663	CDS	1881				hypothetical protein
+OMBLIMKG_01664	CDS	561	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+OMBLIMKG_01665	CDS	1737	tama		COG0729	Translocation and assembly module subunit TamA
+OMBLIMKG_01666	CDS	3897	tamB		COG2911	Translocation and assembly module subunit TamB
+OMBLIMKG_01667	CDS	978	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+OMBLIMKG_01668	CDS	666				TIGR00093: pseudouridine synthase
+OMBLIMKG_01669	CDS	825	hel		COG2503	Lipoprotein E
+OMBLIMKG_01670	CDS	1095	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+OMBLIMKG_01671	CDS	1443	glpT		COG2271	Glycerol-3-phosphate transporter
+OMBLIMKG_01672	CDS	1692	glpA	1.1.5.3	COG0578	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+OMBLIMKG_01673	CDS	1299	glpB	1.1.5.3	COG3075	Anaerobic glycerol-3-phosphate dehydrogenase subunit B
+OMBLIMKG_01674	CDS	1281	glpC		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+OMBLIMKG_01675	CDS	1479	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+OMBLIMKG_01676	CDS	879	gltC			HTH-type transcriptional regulator GltC
+OMBLIMKG_01677	CDS	879	rarD_2		COG2962	Protein RarD
+OMBLIMKG_01678	CDS	318	glpE	2.8.1.1	COG0607	Thiosulfate sulfurtransferase GlpE
+OMBLIMKG_01679	CDS	792	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+OMBLIMKG_01680	CDS	441				hypothetical protein
+OMBLIMKG_01681	CDS	900	xerC_3		COG4973	Tyrosine recombinase XerC
+OMBLIMKG_01682	CDS	1455	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+OMBLIMKG_01683	CDS	468	gpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+OMBLIMKG_01684	CDS	279	ftsB		COG2919	Cell division protein FtsB
+OMBLIMKG_01685	CDS	678	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+OMBLIMKG_01686	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+OMBLIMKG_01687	CDS	168				hypothetical protein
+OMBLIMKG_01688	CDS	435	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+OMBLIMKG_01689	CDS	441	mioC		COG0716	Protein MioC
+OMBLIMKG_01690	CDS	219	zapB		COG3074	Cell division protein ZapB
+OMBLIMKG_01691	CDS	1002	glpX	3.1.3.11	COG1494	Fructose-1,6-bisphosphatase 1 class 2
+OMBLIMKG_01692	CDS	309				hypothetical protein
+OMBLIMKG_01693	CDS	321				hypothetical protein
+OMBLIMKG_01694	CDS	1032				hypothetical protein
+OMBLIMKG_01695	CDS	1659			COG1132	putative ABC transporter ATP-binding/permease protein
+OMBLIMKG_01696	CDS	1746	cydD_2		COG4988	ATP-binding/permease protein CydD
+OMBLIMKG_01697	CDS	2946			COG1629	putative hemoglobin and hemoglobin-haptoglobin-binding protein 2
+OMBLIMKG_01698	CDS	705	pepE	3.4.13.21	COG3340	Peptidase E
+OMBLIMKG_01699	CDS	1296	dcuD		COG3069	Putative cryptic C4-dicarboxylate transporter DcuD
+OMBLIMKG_01700	CDS	1257	hisS_2	6.1.1.21		Histidine--tRNA ligase
+OMBLIMKG_01701	CDS	402				GABAperm: GABA permease
+OMBLIMKG_01702	CDS	180	cycA		COG1113	D-serine/D-alanine/glycine transporter
+OMBLIMKG_01703	CDS	1152	hdc	4.1.1.22		Histidine decarboxylase
+OMBLIMKG_01704	CDS	1362	adiC		COG0531	Arginine/agmatine antiporter
+OMBLIMKG_01705	CDS	1971	cpdB	3.1.3.6	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+OMBLIMKG_01706	CDS	1890	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+OMBLIMKG_01707	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+OMBLIMKG_01708	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+OMBLIMKG_01709	CDS	2103	fusA		COG0480	Elongation factor G
+OMBLIMKG_01710	CDS	1185	tufB_2		COG0050	Elongation factor Tu 2
+OMBLIMKG_01711	CDS	288	tusB			Protein TusB
+OMBLIMKG_01712	CDS	360	tusC			Protein TusC
+OMBLIMKG_01713	CDS	381	tusD	2.8.1.-	COG1553	Sulfurtransferase TusD
+OMBLIMKG_01714	CDS	666	dauR		COG2964	Transcriptional regulator DauR
+OMBLIMKG_01715	CDS	726		5.2.1.8	COG0545	putative FKBP-type peptidyl-prolyl cis-trans isomerase
+OMBLIMKG_01716	CDS	222	slyX		COG2900	Protein SlyX 
+OMBLIMKG_01717	CDS	726	PGdx	1.11.1.15	COG0678	Hybrid peroxiredoxin hyPrx5
+OMBLIMKG_01718	CDS	906	oxyR			Hydrogen peroxide-inducible genes activator
+OMBLIMKG_01719	CDS	618	fabR		COG1309	HTH-type transcriptional repressor FabR
+OMBLIMKG_01720	CDS	477	greB		COG0782	Transcription elongation factor GreB
+OMBLIMKG_01721	CDS	2313	yhgF		COG2183	Protein YhgF
+OMBLIMKG_01722	CDS	2421	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+OMBLIMKG_01723	CDS	675	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+OMBLIMKG_01724	CDS	675	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+OMBLIMKG_01725	CDS	993	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+OMBLIMKG_01726	CDS	453	asnC		COG1522	Regulatory protein AsnC
+OMBLIMKG_01727	CDS	396	hslR		COG1188	Heat shock protein 15
+OMBLIMKG_01728	CDS	1989				TIGR00733: oligopeptide transporter, OPT family
+OMBLIMKG_01729	CDS	438				hypothetical protein
+OMBLIMKG_01730	CDS	810	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+OMBLIMKG_01731	CDS	1485	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+OMBLIMKG_01732	CDS	702	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+OMBLIMKG_01733	CDS	567				comF: comF family protein
+OMBLIMKG_01734	CDS	546				hypothetical protein
+OMBLIMKG_01735	CDS	1455	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+OMBLIMKG_01736	CDS	624				hypothetical protein
+OMBLIMKG_01737	CDS	828	apaH	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+OMBLIMKG_01738	CDS	867	lex1_2	2.-.-.-	COG3306	Lipooligosaccharide biosynthesis protein lex-1
+OMBLIMKG_01739	CDS	864	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+OMBLIMKG_01740	CDS	996	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OMBLIMKG_01741	CDS	627	lex1_3	2.-.-.-	COG3306	Lipooligosaccharide biosynthesis protein lex-1
+OMBLIMKG_01742	CDS	219	infA		COG0361	Translation initiation factor IF-1
+OMBLIMKG_01743	CDS	378	rpsF		COG0360	30S ribosomal protein S6
+OMBLIMKG_01744	CDS	285	priB		COG2965	Primosomal replication protein N
+OMBLIMKG_01745	CDS	228	rpsR		COG0238	30S ribosomal protein S18
+OMBLIMKG_01746	CDS	450	rplI		COG0359	50S ribosomal protein L9
+OMBLIMKG_01747	CDS	1647	groL		COG0459	60 kDa chaperonin
+OMBLIMKG_01748	CDS	291	groS		COG0234	10 kDa chaperonin
+OMBLIMKG_01749	CDS	303	ureA	3.5.1.5		Urease subunit gamma
+OMBLIMKG_01750	CDS	306	ureB	3.5.1.5		Urease subunit beta
+OMBLIMKG_01751	CDS	1719	ureC	3.5.1.5		Urease subunit alpha
+OMBLIMKG_01752	CDS	558	ureE			Urease accessory protein UreE
+OMBLIMKG_01753	CDS	708	ureF		COG0830	Urease accessory protein UreF
+OMBLIMKG_01754	CDS	636	ureG		COG0378	Urease accessory protein UreG
+OMBLIMKG_01755	CDS	816	ureH		COG0829	Urease accessory protein UreH
+OMBLIMKG_01756	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+OMBLIMKG_01757	CDS	1890	rpoD		COG0568	RNA polymerase sigma factor RpoD
+OMBLIMKG_01758	CDS	1782	dnaG	2.7.7.-	COG0358	DNA primase
+OMBLIMKG_01759	CDS	216	rpsU		COG0828	30S ribosomal protein S21
+OMBLIMKG_01760	CDS	1029	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+OMBLIMKG_01761	CDS	1011				hypothetical protein
+OMBLIMKG_01762	CDS	912				IS1595 family transposase ISCco4
+OMBLIMKG_01763	CDS	1782				hypothetical protein
+OMBLIMKG_01764	CDS	582	tdk	2.7.1.21		Thymidine kinase
+OMBLIMKG_01765	CDS	1221	tyrP_1		COG0814	Tyrosine-specific transport protein
+OMBLIMKG_01766	CDS	261			COG1145	putative ferredoxin-like protein
+OMBLIMKG_01767	CDS	795				hypothetical protein
+OMBLIMKG_01768	CDS	1161	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+OMBLIMKG_01769	CDS	1080	fbaA	4.1.2.13	COG0191	Fructose-bisphosphate aldolase class 2
+OMBLIMKG_01770	CDS	1041				heptsyl_trn_I: lipopolysaccharide heptosyltransferase I
+OMBLIMKG_01771	CDS	657				hypothetical protein
+OMBLIMKG_01772	CDS	1545				putative protein
+OMBLIMKG_01773	CDS	789	yjjW	1.97.1.-	COG1180	Putative glycyl-radical enzyme activating enzyme YjjW
+OMBLIMKG_01774	CDS	1254	nupX		COG1972	Putative nucleoside permease NupX
+OMBLIMKG_01775	CDS	717	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+OMBLIMKG_01776	CDS	429	rplK		COG0080	50S ribosomal protein L11
+OMBLIMKG_01777	CDS	690	rplA		COG0081	50S ribosomal protein L1
+OMBLIMKG_01778	CDS	4032	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+OMBLIMKG_01779	CDS	4251	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+OMBLIMKG_01780	CDS	945	tehA		COG1275	Tellurite resistance protein TehA 
+OMBLIMKG_01781	CDS	720	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+OMBLIMKG_01782	CDS	912	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+OMBLIMKG_01783	CDS	489	rraA		COG0684	Regulator of ribonuclease activity A
+OMBLIMKG_01784	CDS	552				HI0507: family protein
+OMBLIMKG_01785	CDS	999	rbsR		COG1609	Ribose operon repressor
+OMBLIMKG_01786	CDS	921	rbsK	2.7.1.15	COG0524	Ribokinase
+OMBLIMKG_01787	CDS	879	rbsB		COG1879	Ribose import binding protein RbsB
+OMBLIMKG_01788	CDS	972	rbsC		COG1172	Ribose import permease protein RbsC
+OMBLIMKG_01789	CDS	1482	rbsA	7.5.2.7	COG1129	Ribose import ATP-binding protein RbsA
+OMBLIMKG_01790	CDS	420	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+OMBLIMKG_01791	CDS	1443				hypothetical protein
+OMBLIMKG_01792	CDS	1296	puuB	1.4.3.-		Gamma-glutamylputrescine oxidoreductase
+OMBLIMKG_01793	CDS	1053	potD_2		COG0687	Spermidine/putrescine-binding periplasmic protein
+OMBLIMKG_01794	CDS	1335	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+OMBLIMKG_01795	CDS	528	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+OMBLIMKG_01796	CDS	708	aphA	3.1.3.2	COG3700	Class B acid phosphatase
+OMBLIMKG_01797	CDS	261				hypothetical protein
+OMBLIMKG_01798	CDS	504	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+OMBLIMKG_01799	CDS	474	yqaA		COG1238	Inner membrane protein YqaA
+OMBLIMKG_01800	CDS	603	yqaB	3.1.3.-	COG0637	Fructose-1-phosphate phosphatase YqaB
+OMBLIMKG_01801	CDS	378				hypothetical protein
+OMBLIMKG_01802	CDS	612	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+OMBLIMKG_01803	CDS	375				hypothetical protein
+OMBLIMKG_01804	CDS	789	atpB		COG0356	ATP synthase subunit a
+OMBLIMKG_01805	CDS	255	atpH_1			ATP synthase subunit c
+OMBLIMKG_01806	CDS	471	atpF		COG0711	ATP synthase subunit b
+OMBLIMKG_01807	CDS	534	atpH_2		COG0712	ATP synthase subunit delta
+OMBLIMKG_01808	CDS	1542	atpA	7.1.2.2		ATP synthase subunit alpha
+OMBLIMKG_01809	CDS	870	atpG		COG0224	ATP synthase gamma chain
+OMBLIMKG_01810	CDS	1374	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+OMBLIMKG_01811	CDS	429	atpC		COG0355	ATP synthase epsilon chain
+OMBLIMKG_01812	CDS	1203	tyrP_2		COG0814	Tyrosine-specific transport protein
+OMBLIMKG_01813	CDS	666	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+OMBLIMKG_01814	CDS	777	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+OMBLIMKG_01815	CDS	750	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+OMBLIMKG_01816	CDS	600	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+OMBLIMKG_01817	CDS	1089	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+OMBLIMKG_01818	CDS	1059	hisC_2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+OMBLIMKG_01819	CDS	1284	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+OMBLIMKG_01820	CDS	912	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+OMBLIMKG_01821	CDS	267				hypothetical protein
+OMBLIMKG_01822	CDS	864				hypothetical protein
+OMBLIMKG_01823	CDS	843	ygfZ		COG0354	tRNA-modifying protein YgfZ
+OMBLIMKG_01824	CDS	1233	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+OMBLIMKG_01825	CDS	660	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+OMBLIMKG_01826	CDS	1152	hemW		COG0635	Heme chaperone HemW
+OMBLIMKG_01827	CDS	2412	lon	3.4.21.53	COG0466	Lon protease
+OMBLIMKG_01828	CDS	876			COG2990	putative protein
+OMBLIMKG_01829	CDS	792	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+OMBLIMKG_01830	CDS	540	pyrR			Bifunctional protein PyrR
+OMBLIMKG_01831	CDS	936	surA	5.2.1.8		Chaperone SurA
+OMBLIMKG_01832	CDS	1044	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+OMBLIMKG_01833	CDS	633	tmk	2.7.4.9	COG0125	Thymidylate kinase
+OMBLIMKG_01834	CDS	1830				autotrans_barl: outer membrane autotransporter barrel domain protein
+OMBLIMKG_01835	CDS	984	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+OMBLIMKG_01836	CDS	783	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+OMBLIMKG_01837	CDS	525				hypothetical protein
+OMBLIMKG_01838	CDS	1293				hypothetical protein
+OMBLIMKG_01839	CDS	531				hypothetical protein
+OMBLIMKG_01840	CDS	1500				PTS_HPr_family: phosphocarrier, HPr family
+OMBLIMKG_01841	CDS	942	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+OMBLIMKG_01842	CDS	1671	fruA		COG1299	PTS system fructose-specific EIIB'BC component
+OMBLIMKG_01843	tRNA	86				tRNA-Leu(gag)
+OMBLIMKG_01844	CDS	342	secG		COG1314	Protein-export membrane protein SecG
+OMBLIMKG_01845	CDS	1956	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+OMBLIMKG_01846	CDS	603	recR		COG0353	Recombination protein RecR
+OMBLIMKG_01847	CDS	330			COG0718	Nucleoid-associated protein
+OMBLIMKG_01848	CDS	846	rlmJ	2.1.1.266	COG2961	Ribosomal RNA large subunit methyltransferase J
+OMBLIMKG_01849	CDS	2601	mrcA		COG5009	Penicillin-binding protein 1A
+OMBLIMKG_01850	CDS	798				hypothetical protein
+OMBLIMKG_01851	CDS	507				hypothetical protein
+OMBLIMKG_01852	CDS	522				hypothetical protein
+OMBLIMKG_01853	CDS	414				hypothetical protein
+OMBLIMKG_01854	CDS	1338	pilQ			Type IV pilus biogenesis and competence protein PilQ
+OMBLIMKG_01855	CDS	687				comF: comF family protein
+OMBLIMKG_01856	CDS	597	nfuA		COG0316	Fe/S biogenesis protein NfuA
+OMBLIMKG_01857	CDS	795	nudC	3.6.1.22	COG2816	NADH pyrophosphatase
+OMBLIMKG_01858	CDS	591			COG3068	putative protein
+OMBLIMKG_01859	CDS	273	hupA			DNA-binding protein HU-alpha
+OMBLIMKG_01860	CDS	1833	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+OMBLIMKG_01861	CDS	534	dsbB		COG1495	Disulfide bond formation protein B
+OMBLIMKG_01862	CDS	1545	nhaB		COG3067	Na(+)/H(+) antiporter NhaB
+OMBLIMKG_01863	CDS	726	fadR		COG2186	Fatty acid metabolism regulator protein
+OMBLIMKG_01864	CDS	1368	pssA	2.7.8.8	COG1502	CDP-diacylglycerol--serine O-phosphatidyltransferase
+OMBLIMKG_01865	CDS	1056	yfiF	2.1.1.-	COG0566	putative tRNA/rRNA methyltransferase YfiF
+OMBLIMKG_01866	CDS	723	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+OMBLIMKG_01867	CDS	1320	srmB	3.6.4.13	COG0513	ATP-dependent RNA helicase SrmB
+OMBLIMKG_01868	CDS	771	smc			Chromosome partition protein Smc
+OMBLIMKG_01869	CDS	519				rimI: ribosomal-protein-alanine acetyltransferase
+OMBLIMKG_01870	CDS	300				hypothetical protein
+OMBLIMKG_01871	CDS	1383	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+OMBLIMKG_01872	CDS	1305	yhjE_2			Inner membrane metabolite transport protein YhjE
+OMBLIMKG_01873	CDS	681	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+OMBLIMKG_01874	CDS	810	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+OMBLIMKG_01875	CDS	792	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+OMBLIMKG_01876	CDS	762	piiC			Outer membrane protein P.IIC
+OMBLIMKG_01877	CDS	2808	rne	3.1.26.12		Ribonuclease E
+OMBLIMKG_01878	CDS	969	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+OMBLIMKG_01879	CDS	276	hfq		COG1923	RNA-binding protein Hfq
+OMBLIMKG_01880	CDS	957	tyrR		COG3283	Transcriptional regulatory protein TyrR
+OMBLIMKG_01881	CDS	1428				hypothetical protein
+OMBLIMKG_01882	CDS	807	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+OMBLIMKG_01883	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+OMBLIMKG_01884	CDS	948	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+OMBLIMKG_01885	CDS	105				hypothetical protein
+OMBLIMKG_01886	CDS	1293	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+OMBLIMKG_01887	CDS	672	mutH		COG3066	DNA mismatch repair protein MutH
+OMBLIMKG_01888	CDS	540	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+OMBLIMKG_01889	CDS	1350	ompP1		COG2067	Outer membrane protein P1
+OMBLIMKG_01890	CDS	288				hypothetical protein
+OMBLIMKG_01891	CDS	822	cpdA	3.1.4.53	COG1409	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+OMBLIMKG_01892	CDS	633	nudF	3.6.1.13		ADP-ribose pyrophosphatase
+OMBLIMKG_01893	CDS	1320	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+OMBLIMKG_01894	CDS	1215		1.14.11.-	COG2850	putative ribosomal oxygenase
+OMBLIMKG_01895	CDS	309				hypothetical protein
+OMBLIMKG_01896	CDS	585	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+OMBLIMKG_01897	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+OMBLIMKG_01898	CDS	1881				hypothetical protein
+OMBLIMKG_01899	CDS	1200	rnd	3.1.13.5	COG0349	Ribonuclease D
+OMBLIMKG_01900	CDS	1689	fadD	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+OMBLIMKG_01901	CDS	552	slp		COG3065	Outer membrane protein Slp
+OMBLIMKG_01902	CDS	711	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+OMBLIMKG_01903	CDS	1923	yoaA	3.6.4.12	COG1199	putative ATP-dependent DNA helicase YoaA
+OMBLIMKG_01904	CDS	411	ybgC	3.1.2.-	COG0824	Acyl-CoA thioesterase YbgC
+OMBLIMKG_01905	CDS	687	tolQ_2		COG0811	Tol-Pal system protein TolQ
+OMBLIMKG_01906	CDS	420	tolR_2		COG0848	Tol-Pal system protein TolR
+OMBLIMKG_01907	CDS	1119				tolA_full: protein TolA
+OMBLIMKG_01908	CDS	1284	tolB		COG0823	Tol-Pal system protein TolB
+OMBLIMKG_01909	CDS	462	pal		COG2885	Peptidoglycan-associated lipoprotein
+OMBLIMKG_01910	tRNA	76				tRNA-Lys(ttt)
+OMBLIMKG_01911	CDS	531	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+OMBLIMKG_01912	CDS	1317	ghxP		COG2252	Guanine/hypoxanthine permease GhxP
+OMBLIMKG_01913	CDS	642	udk	2.7.1.48		Uridine kinase
+OMBLIMKG_01914	CDS	588	dcd	3.5.4.13	COG0717	dCTP deaminase
+OMBLIMKG_01915	CDS	1176				hypothetical protein
+OMBLIMKG_01916	CDS	1209	sotB		COG2814	Sugar efflux transporter
+OMBLIMKG_01917	CDS	1515	der		COG1160	GTPase Der
+OMBLIMKG_01918	tRNA	77				tRNA-Asp(gtc)
+OMBLIMKG_01919	tRNA	77				tRNA-Asp(gtc)
+OMBLIMKG_01920	CDS	771	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+OMBLIMKG_01921	CDS	465	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+OMBLIMKG_01922	CDS	1098	yedS		COG3203	Outer membrane protein YedS
+OMBLIMKG_01923	CDS	1146	nagA	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+OMBLIMKG_01924	CDS	813	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+OMBLIMKG_01925	CDS	882	nanA	4.1.3.3	COG0329	N-acetylneuraminate lyase
+OMBLIMKG_01926	CDS	867	ybbH		COG1737	putative HTH-type transcriptional regulator YbbH
+OMBLIMKG_01927	CDS	903	nanK	2.7.1.60	COG1940	N-acetylmannosamine kinase
+OMBLIMKG_01928	CDS	687	nanE	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+OMBLIMKG_01929	CDS	990	siaP		COG1638	Sialic acid-binding periplasmic protein SiaP
+OMBLIMKG_01930	CDS	1851	siaT		COG1593	Sialic acid TRAP transporter permease protein SiaT
+OMBLIMKG_01931	CDS	1128	nanM	5.1.3.24	COG3055	N-acetylneuraminate epimerase
+OMBLIMKG_01932	CDS	165				hypothetical protein
+OMBLIMKG_01933	CDS	888	hflC		COG0330	Modulator of FtsH protease HflC
+OMBLIMKG_01934	CDS	1221	hflK		COG0330	Modulator of FtsH protease HflK
+OMBLIMKG_01935	CDS	708				hypothetical protein
+OMBLIMKG_01936	CDS	1332	dcuB		COG2704	Anaerobic C4-dicarboxylate transporter DcuB
+OMBLIMKG_01937	CDS	231	acpP		COG0236	Acyl carrier protein
+OMBLIMKG_01938	CDS	729	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OMBLIMKG_01939	CDS	939	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+OMBLIMKG_01940	CDS	951	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+OMBLIMKG_01941	CDS	171	rpmF		COG0333	50S ribosomal protein L32
+OMBLIMKG_01942	CDS	525	yceD		COG1399	Large ribosomal RNA subunit accumulation protein YceD
+OMBLIMKG_01943	CDS	888	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+OMBLIMKG_01944	CDS	1371	gor	1.8.1.7	COG1249	Glutathione reductase
+OMBLIMKG_01945	CDS	600				hypothetical protein
+OMBLIMKG_01946	CDS	312	bolA		COG0271	DNA-binding transcriptional regulator BolA
+OMBLIMKG_01947	CDS	1344	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+OMBLIMKG_01948	CDS	1236	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+OMBLIMKG_01949	CDS	735	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+OMBLIMKG_01950	CDS	627	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+OMBLIMKG_01951	CDS	597	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+OMBLIMKG_01952	CDS	1236	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+OMBLIMKG_01953	CDS	1041	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+OMBLIMKG_01954	CDS	261				hypothetical protein
+OMBLIMKG_01955	CDS	1152	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+OMBLIMKG_01956	CDS	735	yfiH	1.10.3.-	COG1496	Polyphenol oxidase
+OMBLIMKG_01957	CDS	975	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OMBLIMKG_01958	CDS	789	bamD		COG4105	Outer membrane protein assembly factor BamD
+OMBLIMKG_01959	CDS	483	pe			Surface-adhesin protein E
+OMBLIMKG_01960	CDS	741	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+OMBLIMKG_01961	CDS	291				hypothetical protein
+OMBLIMKG_01962	CDS	2313	pflB	2.3.1.54	COG1882	Formate acetyltransferase 1
+OMBLIMKG_01963	CDS	855	focA		COG2116	putative formate transporter 1
+OMBLIMKG_01964	CDS	915	nagK	2.7.1.59	COG1940	N-acetyl-D-glucosamine kinase
+OMBLIMKG_01965	CDS	1440	alsT_2		COG1115	Amino-acid carrier protein AlsT
+OMBLIMKG_01966	CDS	609		3.1.2.12	COG0627	S-formylglutathione hydrolase
+OMBLIMKG_01967	CDS	138				hypothetical protein
+OMBLIMKG_01968	CDS	408			COG0789	putative HTH-type transcriptional regulator
+OMBLIMKG_01969	CDS	228	tatA		COG1826	Sec-independent protein translocase protein TatA
+OMBLIMKG_01970	CDS	561	tatB			Sec-independent protein translocase protein TatB
+OMBLIMKG_01971	CDS	771	tatC		COG0805	Sec-independent protein translocase protein TatC
+OMBLIMKG_01972	CDS	1350	gdhA	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+OMBLIMKG_01973	CDS	441	fur		COG0735	Ferric uptake regulation protein
+OMBLIMKG_01974	CDS	525	fldA		COG0716	Flavodoxin 1
+OMBLIMKG_01975	CDS	783	ybfF	3.1.-.-	COG0596	Esterase YbfF
+OMBLIMKG_01976	CDS	594	seqA		COG3057	Negative modulator of initiation of replication
+OMBLIMKG_01977	CDS	1359	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+OMBLIMKG_01978	CDS	3321			COG3264	putative MscS family protein.1
+OMBLIMKG_01979	CDS	1074	aroC	4.2.3.5	COG0082	Chorismate synthase
+OMBLIMKG_01980	CDS	861	mepA	3.4.24.-	COG3770	Penicillin-insensitive murein endopeptidase
+OMBLIMKG_01981	CDS	768	yfcA_2		COG0730	putative membrane transporter protein YfcA
+OMBLIMKG_01982	CDS	957	lpxM	2.3.1.243	COG1560	Lipid A biosynthesis myristoyltransferase
+OMBLIMKG_01983	CDS	294	selD_1	2.7.9.3	COG0709	Selenide, water dikinase
+OMBLIMKG_01984	CDS	270	selD_2	2.7.9.3	COG0709	Selenide, water dikinase
+OMBLIMKG_01985	CDS	420	selD_3	2.7.9.3	COG0709	Selenide, water dikinase
+OMBLIMKG_01986	CDS	351	rplS		COG0335	50S ribosomal protein L19
+OMBLIMKG_01987	CDS	741	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+OMBLIMKG_01988	CDS	528	rimM		COG0806	Ribosome maturation factor RimM
+OMBLIMKG_01989	CDS	249	rpsP		COG0228	30S ribosomal protein S16
+OMBLIMKG_01990	CDS	774				putative protein
+OMBLIMKG_01991	CDS	1812		3.1.3.5	COG0737	NAD 5'-nucleotidase
+OMBLIMKG_01992	CDS	543	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+OMBLIMKG_01993	CDS	1089	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+OMBLIMKG_01994	CDS	861	dam	2.1.1.72	COG0338	DNA adenine methylase
+OMBLIMKG_01995	CDS	726	pgpB	3.1.3.27	COG0671	Phosphatidylglycerophosphatase B
+OMBLIMKG_01996	CDS	651	ribA	3.5.4.25	COG0807	GTP cyclohydrolase-2
+OMBLIMKG_01997	CDS	1545	oppA_2		COG4166	Periplasmic oligopeptide-binding protein
+OMBLIMKG_01998	CDS	363				hypothetical protein
+OMBLIMKG_01999	CDS	2046	prlC	3.4.24.70	COG0339	Oligopeptidase A
+OMBLIMKG_02000	CDS	1545				hsdM: type I restriction-modification system, M subunit
+OMBLIMKG_02001	CDS	999				hypothetical protein
+OMBLIMKG_02002	CDS	675				hypothetical protein
+OMBLIMKG_02003	CDS	570				hypothetical protein
+OMBLIMKG_02004	CDS	921				hypothetical protein
+OMBLIMKG_02005	CDS	3084	hsdR	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+OMBLIMKG_02006	CDS	630	rclC		COG3059	Inner membrane protein RclC
+OMBLIMKG_02007	CDS	93				hypothetical protein
+OMBLIMKG_02008	CDS	1797	arcB_2	2.7.13.3	COG0642	Aerobic respiration control sensor protein ArcB
+OMBLIMKG_02009	CDS	576				hypothetical protein
+OMBLIMKG_02010	rRNA	110				5S ribosomal RNA
+OMBLIMKG_02011	rRNA	3006				23S ribosomal RNA
+OMBLIMKG_02012	tRNA	76				tRNA-Ala(tgc)
+OMBLIMKG_02013	tRNA	77				tRNA-Ile(gat)
+OMBLIMKG_02014	rRNA	1536				16S ribosomal RNA
+OMBLIMKG_02015	CDS	1146	lldD	1.1.-.-	COG1304	L-lactate dehydrogenase
+OMBLIMKG_02016	CDS	810	murI	5.1.1.3	COG0796	Glutamate racemase
+OMBLIMKG_02017	CDS	2082	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+OMBLIMKG_02018	CDS	2115	spoT		COG0317	Bifunctional (p)ppGpp synthase/hydrolase SpoT
+OMBLIMKG_02019	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+OMBLIMKG_02020	CDS	627	gmk	2.7.4.8	COG0194	Guanylate kinase

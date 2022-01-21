@@ -1,0 +1,21 @@
+samplesheet:
+  - id: GCF_000012185.1
+    assembly: GCF_000012185.1_ASM1218v1_genomic.fna
+  - id: GCF_000165525.1
+    assembly: GCF_000165525.1_ASM16552v1_genomic.fna
+  - id: GCF_000165575.1
+    assembly: GCF_000165575.1_ASM16557v1_genomic.fna
+  - id: GCF_000197875.1
+    assembly: GCF_000197875.1_ASM19787v1_genomic.fna
+  - id: GCF_000200475.1
+    assembly: GCF_000200475.1_ASM20047v1_genomic.fna
+  - id: GCF_000210875.1
+    assembly: GCF_000210875.1_ASM21087v1_genomic.fna
+  - id: GCF_000465255.1
+    assembly: GCF_000465255.1_ASM46525v1_genomic.fna
+  - id: GCF_000698365.1
+    assembly: GCF_000698365.1_ASM69836v1_genomic.fna
+  - id: GCF_000767075.1
+    assembly: GCF_000767075.1_ASM76707v1_genomic.fna
+  - id: GCF_000931575.1
+    assembly: GCF_000931575.1_ASM93157v1_genomic.fna

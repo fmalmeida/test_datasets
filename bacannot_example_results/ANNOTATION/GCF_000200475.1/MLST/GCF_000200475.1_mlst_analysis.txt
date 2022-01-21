@@ -1,0 +1,1 @@
+GCF_000200475.1.fna	hinfluenzae	70	adk(25)	atpG(20)	frdB(24)	fucK(24)	mdh(38)	pgi(34)	recA(25)

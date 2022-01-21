@@ -1,0 +1,1 @@
+GCF_000465255.1.fna	hinfluenzae	124	adk(22)	atpG(19)	frdB(11)	fucK(11)	mdh(22)	pgi(19)	recA(15)

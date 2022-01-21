@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NC_022356.1_5        -          618725 IS1595               -            147   1.3e-85  273.8   3.3   1   2   5.3e-40   3.2e-39  123.3   0.3     1   135 277682 277803 277682 277805 0.97 -
+NC_022356.1_5        -          618725 IS1595               -            147   1.3e-85  273.8   3.3   2   2   1.5e-48   8.9e-48  151.0   0.2     1   147 281181 281314 281181 281314 0.98 -
+NC_022356.1_5        -          618725 IS200_IS605          -            113   3.2e-38  119.2   0.0   1   1   2.9e-38   5.8e-38  118.4   0.0     1   113 387257 387369 387257 387369 0.97 -
+NC_022356.1_3        -          618724 IS200_IS605          -            113   2.2e-10   29.5   0.1   1   1   2.9e-10   5.8e-10   28.2   0.1     1    99 15180 15273 15180 15275 0.88 -
+NC_022356.1_1        -          618725 IS200_IS605          -            113   5.6e-07   18.6   0.1   1   1   6.1e-07   1.2e-06   17.5   0.1    13    91 540446 540527 540435 540532 0.81 -
+NC_022356.1_3        -          618724 IS3_IS150            -            106   7.4e-12   34.2   0.0   1   1   2.7e-12   1.6e-11   33.1   0.0    67   106 84410 84449 84395 84449 0.96 -
+NC_022356.1_3        -          618724 IS3_IS3              -            107   7.8e-10   27.8   0.0   1   1   2.7e-10   1.6e-09   26.8   0.0    57   107 84399 84449 84391 84449 0.89 -
+NC_022356.1_3        -          618724 IS3_IS51             -            107   3.9e-08   22.2   0.0   1   1   1.4e-08   8.1e-08   21.2   0.0    57   107 84399 84449 84390 84449 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /work/digIS/data/models/hmm/hmm_all_subfams.hmm
+# Target file:     digIS/pep/NC_022356.1.pep
+# Option settings: hmmsearch --domtblout digIS/hmmer/NC_022356.1_hmmsearch.hmmer3 --noali --domT 0.0 --cpu 4 /work/digIS/data/models/hmm/hmm_all_subfams.hmm digIS/pep/NC_022356.1.pep 
+# Current dir:     /work1/falmeida/bacannot_tests/dataset/h_influenzae/work/16/e69c711bd066fc3d2a61a6c3a0a454
+# Date:            Fri Jan 21 06:27:41 2022
+# [ok]
