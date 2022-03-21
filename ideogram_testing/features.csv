@@ -1,3 +1,4 @@
-label,color,bed
-NLR,#cd0000,https://github.com/fmalmeida/test_datasets/raw/main/ideogram_testing/features.bed
-TES,#741b47,https://github.com/fmalmeida/test_datasets/raw/main/ideogram_testing/density.bed
+label,color,bed,gff
+NLR,#cd0000,https://github.com/fmalmeida/test_datasets/raw/main/ideogram_testing/features.bed,
+TESTE,#741b47,https://github.com/fmalmeida/test_datasets/raw/main/ideogram_testing/density.bed,
+mRNA,#0e7d3c,,https://github.com/fmalmeida/test_datasets/raw/main/ideogram_testing/teste_mrna.gff3
