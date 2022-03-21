@@ -1,0 +1,3 @@
+label,color,bed
+NLR,#cd0000,https://github.com/fmalmeida/test_datasets/raw/main/ideogram_testing/features.bed
+TES,#741b47,https://github.com/fmalmeida/test_datasets/raw/main/ideogram_testing/density.bed
