@@ -16,3 +16,6 @@ samplesheet:
   - id: klebsiella_1
     assembly: https://github.com/fmalmeida/test_datasets/raw/main/klebsiella_ref.fna
     resfinder: Klebsiella
+  - id: h_influenzae
+    assembly: https://github.com/fmalmeida/test_datasets/raw/main/haemophilus.fasta
+    resfinder: Other
