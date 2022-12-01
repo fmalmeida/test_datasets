@@ -1,0 +1,1979 @@
+{
+    "klebsiella_1": {
+        "general_annotation": {
+            "cds": 5510,
+            "closest_reference": {
+                "accession": "NZ_AOCV",
+                "distance": 7.82718e-05,
+                "strain": "Klebsiella pneumoniae ATCC BAA-2146"
+            },
+            "mlst": "11",
+            "rrna": 25,
+            "tmrna": 1,
+            "trna": 85
+        },
+        "plasmid": {
+            "plasmidfinder": {
+                "NZ_CP006660.1": {
+                    "accession": "KU674895",
+                    "identity": 93.13,
+                    "inc_types": "Col(pHAD28)"
+                },
+                "NZ_CP006661.1": {
+                    "accession": "JN157804",
+                    "identity": 100.0,
+                    "inc_types": "IncC"
+                },
+                "NZ_CP006662.2": {
+                    "accession": "DQ449578",
+                    "identity": 100.0,
+                    "inc_types": "IncR"
+                },
+                "NZ_CP006663.1": {
+                    "accession": "CP000648",
+                    "identity": 97.32,
+                    "inc_types": "IncFII(K)"
+                },
+                "meta": {
+                    "database": "enterobacteriales"
+                },
+                "total": 4
+            },
+            "platon": {
+                "NZ_CP006660.1": {
+                    "AMRs": 0,
+                    "Circular": "no",
+                    "Conjugation": 0,
+                    "Mobilization": 0,
+                    "ORFs": 2,
+                    "Replication": 0
+                },
+                "NZ_CP006661.1": {
+                    "AMRs": 6,
+                    "Circular": "no",
+                    "Conjugation": 8,
+                    "Mobilization": 1,
+                    "ORFs": 163,
+                    "Replication": 1
+                },
+                "NZ_CP006662.2": {
+                    "AMRs": 17,
+                    "Circular": "no",
+                    "Conjugation": 0,
+                    "Mobilization": 1,
+                    "ORFs": 96,
+                    "Replication": 2
+                },
+                "NZ_CP006663.1": {
+                    "AMRs": 4,
+                    "Circular": "no",
+                    "Conjugation": 0,
+                    "Mobilization": 0,
+                    "ORFs": 113,
+                    "Replication": 3
+                },
+                "total": 4
+            }
+        },
+        "resistance": {
+            "amrfinderplus": {
+                "FKEDNGPL_00077": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006659.2",
+                    "end": 80789,
+                    "gene": "fieF",
+                    "identity": 100.0,
+                    "start": 79887,
+                    "subclass": null,
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_00626": {
+                    "card_aro": 3004111,
+                    "contig": "NZ_CP006659.2",
+                    "end": 668378,
+                    "gene": "fosA",
+                    "identity": 98.56,
+                    "start": 667959,
+                    "subclass": "FOSFOMYCIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_01688": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006659.2",
+                    "end": 1782794,
+                    "gene": "kdeA",
+                    "identity": 99.76,
+                    "start": 1781562,
+                    "subclass": "EFFLUX",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_02188": {
+                    "card_aro": 3002602,
+                    "contig": "NZ_CP006659.2",
+                    "end": 2298476,
+                    "gene": "aadA2",
+                    "identity": 99.61,
+                    "start": 2297697,
+                    "subclass": "STREPTOMYCIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_02189": {
+                    "card_aro": 3005010,
+                    "contig": "NZ_CP006659.2",
+                    "end": 2298987,
+                    "gene": "qacEdelta1",
+                    "identity": 100.0,
+                    "start": 2298640,
+                    "subclass": "QUATERNARY AMMONIUM",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_02190": {
+                    "card_aro": 3000410,
+                    "contig": "NZ_CP006659.2",
+                    "end": 2299820,
+                    "gene": "sul1",
+                    "identity": 100.0,
+                    "start": 2298981,
+                    "subclass": "SULFONAMIDE",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_02500": {
+                    "card_aro": 3001070,
+                    "contig": "NZ_CP006659.2",
+                    "end": 2613825,
+                    "gene": "blaSHV-11",
+                    "identity": 100.0,
+                    "start": 2612965,
+                    "subclass": "BETA-LACTAM",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_02929": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006659.2",
+                    "end": 3042690,
+                    "gene": "asr",
+                    "identity": 61.32,
+                    "start": 3042283,
+                    "subclass": null,
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_04009": {
+                    "card_aro": 3003922,
+                    "contig": "NZ_CP006659.2",
+                    "end": 4170874,
+                    "gene": "oqxA",
+                    "identity": 100.0,
+                    "start": 4169699,
+                    "subclass": "PHENICOL/QUINOLONE",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_04010": {
+                    "card_aro": 3003923,
+                    "contig": "NZ_CP006659.2",
+                    "end": 4174050,
+                    "gene": "oqxB",
+                    "identity": 100.0,
+                    "start": 4170898,
+                    "subclass": "PHENICOL/QUINOLONE",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_04336": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006659.2",
+                    "end": 4509593,
+                    "gene": "arsC",
+                    "identity": 78.42,
+                    "start": 4509171,
+                    "subclass": "ARSENATE",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05185": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006659.2",
+                    "end": 5368672,
+                    "gene": "emrD",
+                    "identity": 99.24,
+                    "start": 5367488,
+                    "subclass": "EFFLUX",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05222": {
+                    "card_aro": 3001878,
+                    "contig": "NZ_CP006659.2",
+                    "end": 5408782,
+                    "gene": "blaCTX-M-15",
+                    "identity": 100.0,
+                    "start": 5407907,
+                    "subclass": "CEPHALOSPORIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05269": {
+                    "card_aro": 3000316,
+                    "contig": "NZ_CP006663.1",
+                    "end": 17408,
+                    "gene": "mph(A)",
+                    "identity": 100.0,
+                    "start": 16503,
+                    "subclass": "MACROLIDE",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05272": {
+                    "card_aro": 3000165,
+                    "contig": "NZ_CP006663.1",
+                    "end": 20367,
+                    "gene": "tet(A)",
+                    "identity": 100.0,
+                    "start": 19168,
+                    "subclass": "TETRACYCLINE",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05306": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 57673,
+                    "gene": "arsR",
+                    "identity": 100.0,
+                    "start": 57323,
+                    "subclass": "ARSENIC",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05307": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 58085,
+                    "gene": "arsD",
+                    "identity": 91.67,
+                    "start": 57723,
+                    "subclass": "ARSENITE",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05308": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 59854,
+                    "gene": "arsA",
+                    "identity": 100.0,
+                    "start": 58103,
+                    "subclass": "ARSENITE",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05309": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 61191,
+                    "gene": "arsB",
+                    "identity": 100.0,
+                    "start": 59902,
+                    "subclass": "ARSENITE",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05310": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 61629,
+                    "gene": "arsC",
+                    "identity": 100.0,
+                    "start": 61204,
+                    "subclass": "ARSENATE",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05321": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 70099,
+                    "gene": "pcoE",
+                    "identity": 94.44,
+                    "start": 69665,
+                    "subclass": "COPPER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05322": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 71716,
+                    "gene": "pcoS",
+                    "identity": 99.14,
+                    "start": 70316,
+                    "subclass": "COPPER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05323": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 72393,
+                    "gene": "pcoR",
+                    "identity": 99.56,
+                    "start": 71713,
+                    "subclass": "COPPER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05324": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 73377,
+                    "gene": "pcoD",
+                    "identity": 99.68,
+                    "start": 72448,
+                    "subclass": "COPPER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05325": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 73762,
+                    "gene": "pcoC",
+                    "identity": 100.0,
+                    "start": 73382,
+                    "subclass": "COPPER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05326": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 74698,
+                    "gene": "pcoB",
+                    "identity": 100.0,
+                    "start": 73802,
+                    "subclass": "COPPER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05327": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 76515,
+                    "gene": "pcoA",
+                    "identity": 100.0,
+                    "start": 74698,
+                    "subclass": "COPPER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05331": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 80943,
+                    "gene": "silP",
+                    "identity": 94.49,
+                    "start": 78496,
+                    "subclass": "SILVER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05333": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 84743,
+                    "gene": "silA",
+                    "identity": 98.85,
+                    "start": 81597,
+                    "subclass": "COPPER/SILVER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05334": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 86046,
+                    "gene": "silB",
+                    "identity": 97.67,
+                    "start": 84754,
+                    "subclass": "COPPER/SILVER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05335": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 86513,
+                    "gene": "silF",
+                    "identity": 99.15,
+                    "start": 86160,
+                    "subclass": "COPPER/SILVER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05336": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 87927,
+                    "gene": "silC",
+                    "identity": 100.0,
+                    "start": 86542,
+                    "subclass": "COPPER/SILVER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05337": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 88797,
+                    "gene": "silR",
+                    "identity": 100.0,
+                    "start": 88117,
+                    "subclass": "COPPER/SILVER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05338": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 90265,
+                    "gene": "silS",
+                    "identity": 100.0,
+                    "start": 88790,
+                    "subclass": "COPPER/SILVER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05339": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006663.1",
+                    "end": 90947,
+                    "gene": "silE",
+                    "identity": 91.61,
+                    "start": 90516,
+                    "subclass": "SILVER",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05388": {
+                    "card_aro": 3002723,
+                    "contig": "NZ_CP006662.2",
+                    "end": 26742,
+                    "gene": "qnrB9",
+                    "identity": 100.0,
+                    "start": 26098,
+                    "subclass": "QUINOLONE",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05398": {
+                    "card_aro": 3001070,
+                    "contig": "NZ_CP006662.2",
+                    "end": 37171,
+                    "gene": "blaSHV",
+                    "identity": 99.65,
+                    "start": 36311,
+                    "subclass": "BETA-LACTAM",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05400": {
+                    "card_aro": 3005116,
+                    "contig": "NZ_CP006662.2",
+                    "end": 38710,
+                    "gene": "aac(6')-Ib-cr",
+                    "identity": 100.0,
+                    "start": 38111,
+                    "subclass": "AMIKACIN/KANAMYCIN/QUINOLONE/TOBRAMYCIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05401": {
+                    "card_aro": 3001396,
+                    "contig": "NZ_CP006662.2",
+                    "end": 39671,
+                    "gene": "blaOXA-1",
+                    "identity": 100.0,
+                    "start": 38841,
+                    "subclass": "CEPHALOSPORIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05404": {
+                    "card_aro": 3004621,
+                    "contig": "NZ_CP006662.2",
+                    "end": 41974,
+                    "gene": "aac(3)-IIe",
+                    "identity": 100.0,
+                    "start": 41114,
+                    "subclass": "GENTAMICIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05411": {
+                    "card_aro": 3001878,
+                    "contig": "NZ_CP006662.2",
+                    "end": 48003,
+                    "gene": "blaCTX-M-15",
+                    "identity": 100.0,
+                    "start": 47128,
+                    "subclass": "CEPHALOSPORIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05416": {
+                    "card_aro": 3000873,
+                    "contig": "NZ_CP006662.2",
+                    "end": 51685,
+                    "gene": "blaTEM-1",
+                    "identity": 100.0,
+                    "start": 50825,
+                    "subclass": "BETA-LACTAM",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05418": {
+                    "card_aro": 3002660,
+                    "contig": "NZ_CP006662.2",
+                    "end": 53242,
+                    "gene": "aph(6)-Id",
+                    "identity": 100.0,
+                    "start": 52406,
+                    "subclass": "STREPTOMYCIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05419": {
+                    "card_aro": 3002639,
+                    "contig": "NZ_CP006662.2",
+                    "end": 54045,
+                    "gene": "aph(3'')-Ib",
+                    "identity": 100.0,
+                    "start": 53242,
+                    "subclass": "STREPTOMYCIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05420": {
+                    "card_aro": 3000412,
+                    "contig": "NZ_CP006662.2",
+                    "end": 54921,
+                    "gene": "sul2",
+                    "identity": 100.0,
+                    "start": 54106,
+                    "subclass": "SULFONAMIDE",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05426": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006662.2",
+                    "end": 60866,
+                    "gene": "merE",
+                    "identity": 96.15,
+                    "start": 60630,
+                    "subclass": "MERCURY",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05427": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006662.2",
+                    "end": 61228,
+                    "gene": "merD",
+                    "identity": 90.08,
+                    "start": 60863,
+                    "subclass": "MERCURY",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05428": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006662.2",
+                    "end": 62931,
+                    "gene": "merA",
+                    "identity": 93.23,
+                    "start": 61246,
+                    "subclass": "MERCURY",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05429": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006662.2",
+                    "end": 63395,
+                    "gene": "merC",
+                    "identity": 80.14,
+                    "start": 62970,
+                    "subclass": "ORGANOMERCURY",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05430": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006662.2",
+                    "end": 63698,
+                    "gene": "merP",
+                    "identity": 85.71,
+                    "start": 63423,
+                    "subclass": "MERCURY",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05431": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006662.2",
+                    "end": 64079,
+                    "gene": "merT",
+                    "identity": 98.26,
+                    "start": 63714,
+                    "subclass": "MERCURY",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05432": {
+                    "card_aro": null,
+                    "contig": "NZ_CP006662.2",
+                    "end": 64606,
+                    "gene": "merR",
+                    "identity": 92.96,
+                    "start": 64151,
+                    "subclass": "MERCURY",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05454": {
+                    "card_aro": 3002581,
+                    "contig": "NZ_CP006662.2",
+                    "end": 83347,
+                    "gene": "aac(6')-Ib",
+                    "identity": 100.0,
+                    "start": 82742,
+                    "subclass": "AMIKACIN/KANAMYCIN/TOBRAMYCIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05553": {
+                    "card_aro": 3002017,
+                    "contig": "NZ_CP006661.1",
+                    "end": 73348,
+                    "gene": "blaCMY-6",
+                    "identity": 100.0,
+                    "start": 72203,
+                    "subclass": "CEPHALOSPORIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05593": {
+                    "card_aro": 3002581,
+                    "contig": "NZ_CP006661.1",
+                    "end": 115737,
+                    "gene": "aac(6')-Ib",
+                    "identity": 100.0,
+                    "start": 115159,
+                    "subclass": "AMIKACIN/KANAMYCIN/TOBRAMYCIN",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05594": {
+                    "card_aro": 3005010,
+                    "contig": "NZ_CP006661.1",
+                    "end": 116253,
+                    "gene": "qacEdelta1",
+                    "identity": 100.0,
+                    "start": 115906,
+                    "subclass": "QUATERNARY AMMONIUM",
+                    "type": "STRESS"
+                },
+                "FKEDNGPL_05595": {
+                    "card_aro": 3000410,
+                    "contig": "NZ_CP006661.1",
+                    "end": 117086,
+                    "gene": "sul1",
+                    "identity": 100.0,
+                    "start": 116247,
+                    "subclass": "SULFONAMIDE",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05603": {
+                    "card_aro": 3000589,
+                    "contig": "NZ_CP006661.1",
+                    "end": 123003,
+                    "gene": "blaNDM-1",
+                    "identity": 100.0,
+                    "start": 122191,
+                    "subclass": "CARBAPENEM",
+                    "type": "AMR"
+                },
+                "FKEDNGPL_05604": {
+                    "card_aro": 3001205,
+                    "contig": "NZ_CP006661.1",
+                    "end": 123372,
+                    "gene": "ble",
+                    "identity": 100.0,
+                    "start": 123007,
+                    "subclass": "BLEOMYCIN",
+                    "type": "AMR"
+                },
+                "total": 59
+            },
+            "resfinder": {
+                "FKEDNGPL_00626": {
+                    "accession": "ACWO01000079",
+                    "card_aro": 3004111,
+                    "end": 668378,
+                    "name": "fosA",
+                    "phenotype": "Fosfomycin_resistance",
+                    "start": 667959
+                },
+                "FKEDNGPL_02188": {
+                    "accession": "D43625",
+                    "card_aro": 3002602,
+                    "end": 2298476,
+                    "name": "aadA2b",
+                    "phenotype": "Aminoglycoside_resistance",
+                    "start": 2297697
+                },
+                "FKEDNGPL_02190": {
+                    "accession": "U12338",
+                    "card_aro": 3000410,
+                    "end": 2299820,
+                    "name": "sul1",
+                    "phenotype": "Sulphonamide_resistance",
+                    "start": 2298981
+                },
+                "FKEDNGPL_02500": {
+                    "accession": "KP050489",
+                    "card_aro": 3001070,
+                    "end": 2613825,
+                    "name": "blaSHV-182",
+                    "phenotype": "Beta-lactam_resistance",
+                    "start": 2612965
+                },
+                "FKEDNGPL_04009": {
+                    "accession": "EU370913",
+                    "card_aro": 3003922,
+                    "end": 4170874,
+                    "name": "OqxA",
+                    "phenotype": "Disinfectant_resistance",
+                    "start": 4169699
+                },
+                "FKEDNGPL_04010": {
+                    "accession": "EU370913",
+                    "card_aro": 3003923,
+                    "end": 4174050,
+                    "name": "OqxB",
+                    "phenotype": "Disinfectant_resistance",
+                    "start": 4170898
+                },
+                "FKEDNGPL_05222": {
+                    "accession": "AY044436",
+                    "card_aro": 3001878,
+                    "end": 5408782,
+                    "name": "blaCTX-M-15",
+                    "phenotype": "Beta-lactam_resistance_Alternate_name_UOE-1",
+                    "start": 5407907
+                },
+                "FKEDNGPL_05269": {
+                    "accession": "D16251",
+                    "card_aro": 3000316,
+                    "end": 17408,
+                    "name": "mph(A)",
+                    "phenotype": "Macrolide_resistance",
+                    "start": 16503
+                },
+                "FKEDNGPL_05272": {
+                    "accession": "AJ517790",
+                    "card_aro": 3000165,
+                    "end": 20367,
+                    "name": "tet(A)",
+                    "phenotype": "Tetracycline_resistance",
+                    "start": 19168
+                },
+                "FKEDNGPL_05388": {
+                    "accession": "EF526508",
+                    "card_aro": 3002723,
+                    "end": 26742,
+                    "name": "qnrB9",
+                    "phenotype": "Quinolone_resistance",
+                    "start": 26098
+                },
+                "FKEDNGPL_05398": {
+                    "accession": "AF164577",
+                    "card_aro": 3001070,
+                    "end": 37171,
+                    "name": "blaSHV-13",
+                    "phenotype": "Beta-lactam_resistance",
+                    "start": 36311
+                },
+                "FKEDNGPL_05400": {
+                    "accession": "DQ303918",
+                    "card_aro": 3005116,
+                    "end": 38710,
+                    "name": "aac(6')-Ib-cr",
+                    "phenotype": "Fluoroquinolone_and_aminoglycoside_resistance",
+                    "start": 38111
+                },
+                "FKEDNGPL_05401": {
+                    "accession": "HQ170510",
+                    "card_aro": 3001396,
+                    "end": 39671,
+                    "name": "blaOXA-1",
+                    "phenotype": "Beta-lactam_resistance",
+                    "start": 38841
+                },
+                "FKEDNGPL_05404": {
+                    "accession": "CP023555",
+                    "card_aro": 3004621,
+                    "end": 41974,
+                    "name": "aac(3)-IIa",
+                    "phenotype": "Aminoglycoside_resistance",
+                    "start": 41114
+                },
+                "FKEDNGPL_05411": {
+                    "accession": "AY044436",
+                    "card_aro": 3001878,
+                    "end": 48003,
+                    "name": "blaCTX-M-15",
+                    "phenotype": "Beta-lactam_resistance_Alternate_name_UOE-1",
+                    "start": 47128
+                },
+                "FKEDNGPL_05416": {
+                    "accession": "AY458016",
+                    "card_aro": 3000873,
+                    "end": 51685,
+                    "name": "blaTEM-1B",
+                    "phenotype": "Beta-lactam_resistance_Alternate_name_RblaTEM-1",
+                    "start": 50825
+                },
+                "FKEDNGPL_05419": {
+                    "accession": "AF321551",
+                    "card_aro": 3002639,
+                    "end": 54045,
+                    "name": "aph(3'')-Ib",
+                    "phenotype": "Aminoglycoside_resistance_Alternate_name_aph(3'')-Ib",
+                    "start": 53242
+                },
+                "FKEDNGPL_05420": {
+                    "accession": "AY034138",
+                    "card_aro": 3000412,
+                    "end": 54921,
+                    "name": "sul2",
+                    "phenotype": "Sulphonamide_resistance",
+                    "start": 54106
+                },
+                "FKEDNGPL_05454": {
+                    "accession": "M21682",
+                    "card_aro": 3002581,
+                    "end": 83347,
+                    "name": "aac(6')-Ib",
+                    "phenotype": "Aminoglycoside_resistance",
+                    "start": 82742
+                },
+                "FKEDNGPL_05553": {
+                    "accession": "AJ011293",
+                    "card_aro": 3002017,
+                    "end": 73348,
+                    "name": "blaCMY-6",
+                    "phenotype": "Beta-lactam_resistance",
+                    "start": 72203
+                },
+                "FKEDNGPL_05593": {
+                    "accession": "X60321",
+                    "card_aro": 3002581,
+                    "end": 115737,
+                    "name": "aac(6')-Ib3",
+                    "phenotype": "Warning:_gene_is_missing_from_Notes_file._Please_inform_curator.",
+                    "start": 115159
+                },
+                "FKEDNGPL_05595": {
+                    "accession": "U12338",
+                    "card_aro": 3000410,
+                    "end": 117086,
+                    "name": "sul1",
+                    "phenotype": "Sulphonamide_resistance",
+                    "start": 116247
+                },
+                "FKEDNGPL_05600": {
+                    "accession": "AB194779",
+                    "card_aro": null,
+                    "end": 120492,
+                    "name": "rmtC",
+                    "phenotype": "Aminoglycoside_resistance",
+                    "start": 120100
+                },
+                "FKEDNGPL_05603": {
+                    "accession": "FN396876",
+                    "card_aro": 3000589,
+                    "end": 123003,
+                    "name": "blaNDM-1",
+                    "phenotype": "Beta-lactam_resistance",
+                    "start": 122191
+                },
+                "total": 24
+            },
+            "rgi": {
+                "FKEDNGPL_00212": {
+                    "accession": 2158,
+                    "card_aro": 3003369,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 223131,
+                    "gene": "Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin",
+                    "gene_family": "elfamycin resistant EF-Tu",
+                    "identity": 97.97,
+                    "name": "Elongation factor Tu 1",
+                    "resistance_mechanism": "antibiotic target alteration",
+                    "start": 221947,
+                    "subclass": "elfamycin antibiotic"
+                },
+                "FKEDNGPL_00626": {
+                    "accession": 2779,
+                    "card_aro": 3004111,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 668378,
+                    "gene": "FosA6",
+                    "gene_family": "fosfomycin thiol transferase",
+                    "identity": 97.84,
+                    "name": "Glutathione transferase FosA",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 667959,
+                    "subclass": "fosfomycin"
+                },
+                "FKEDNGPL_00782": {
+                    "accession": 3799,
+                    "card_aro": 3005059,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 828170,
+                    "gene": "LptD",
+                    "gene_family": "ATP-binding cassette (ABC) antibiotic efflux pump",
+                    "identity": 100.0,
+                    "name": "LPS-assembly protein LptD",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 825822,
+                    "subclass": "carbapenem; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic"
+                },
+                "FKEDNGPL_01174": {
+                    "accession": 1104,
+                    "card_aro": 3000216,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 1252826,
+                    "gene": "acrB",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump",
+                    "identity": 91.52,
+                    "name": "Multidrug efflux pump subunit AcrB",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 1249680,
+                    "subclass": "fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics"
+                },
+                "FKEDNGPL_01802": {
+                    "accession": 2423,
+                    "card_aro": 3003950,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 1901352,
+                    "gene": "msbA",
+                    "gene_family": "ATP-binding cassette (ABC) antibiotic efflux pump",
+                    "identity": 92.78,
+                    "name": "Lipid A export ATP-binding/permease protein MsbA",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 1899604,
+                    "subclass": "nitroimidazole antibiotic"
+                },
+                "FKEDNGPL_01844": {
+                    "accession": 3787,
+                    "card_aro": 3005044,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 1951794,
+                    "gene": "OmpA",
+                    "gene_family": "General Bacterial Porin with reduced permeability to beta-lactams",
+                    "identity": 99.72,
+                    "name": "Outer membrane protein A",
+                    "resistance_mechanism": "reduced permeability to antibiotic",
+                    "start": 1950724,
+                    "subclass": "monobactam; carbapenem; cephalosporin; cephamycin; penam; penem"
+                },
+                "FKEDNGPL_02188": {
+                    "accession": 1227,
+                    "card_aro": 3002602,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 2298476,
+                    "gene": "aadA2",
+                    "gene_family": "ANT(3'')",
+                    "identity": 100.0,
+                    "name": "Streptomycin 3''-adenylyltransferase",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 2297697,
+                    "subclass": "aminoglycoside antibiotic"
+                },
+                "FKEDNGPL_02189": {
+                    "accession": 3755,
+                    "card_aro": 3005010,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 2298987,
+                    "gene": "qacEdelta1",
+                    "gene_family": "major facilitator superfamily (MFS) antibiotic efflux pump",
+                    "identity": 100.0,
+                    "name": "Multidrug transporter EmrE",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 2298640,
+                    "subclass": "disinfecting agents and antiseptics"
+                },
+                "FKEDNGPL_02190": {
+                    "accession": 1070,
+                    "card_aro": 3000410,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 2299820,
+                    "gene": "sul1",
+                    "gene_family": "sulfonamide resistant sul",
+                    "identity": 100.0,
+                    "name": "Dihydropteroate synthase",
+                    "resistance_mechanism": "antibiotic target replacement",
+                    "start": 2298981,
+                    "subclass": "sulfonamide antibiotic"
+                },
+                "FKEDNGPL_02457": {
+                    "accession": 3283,
+                    "card_aro": 3004580,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 2572631,
+                    "gene": "Klebsiella pneumoniae KpnE",
+                    "gene_family": "major facilitator superfamily (MFS) antibiotic efflux pump",
+                    "identity": 99.17,
+                    "name": "Spermidine export protein MdtJ",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 2572269,
+                    "subclass": "macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic; disinfecting agents and antiseptics"
+                },
+                "FKEDNGPL_02458": {
+                    "accession": 3286,
+                    "card_aro": 3004583,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 2572947,
+                    "gene": "Klebsiella pneumoniae KpnF",
+                    "gene_family": "major facilitator superfamily (MFS) antibiotic efflux pump",
+                    "identity": 100.0,
+                    "name": "Spermidine export protein MdtI",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 2572618,
+                    "subclass": "macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic; disinfecting agents and antiseptics"
+                },
+                "FKEDNGPL_02500": {
+                    "accession": 578,
+                    "card_aro": 3001070,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 2613825,
+                    "gene": "SHV-11",
+                    "gene_family": "SHV beta-lactamase",
+                    "identity": 100.0,
+                    "name": "Beta-lactamase SHV-1",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 2612965,
+                    "subclass": "carbapenem; cephalosporin; penam"
+                },
+                "FKEDNGPL_02520": {
+                    "accession": 1922,
+                    "card_aro": 3000263,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 2634302,
+                    "gene": "marA",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams",
+                    "identity": 92.74,
+                    "name": "Multiple antibiotic resistance protein MarA",
+                    "resistance_mechanism": "antibiotic efflux; reduced permeability to antibiotic",
+                    "start": 2633928,
+                    "subclass": "fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; cephamycin; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; penem; disinfecting agents and antiseptics"
+                },
+                "FKEDNGPL_03488": {
+                    "accession": 820,
+                    "card_aro": 3000793,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 3623962,
+                    "gene": "mdtB",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump",
+                    "identity": 90.48,
+                    "name": "Multidrug resistance protein MdtB",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 3620840,
+                    "subclass": "aminocoumarin antibiotic"
+                },
+                "FKEDNGPL_03489": {
+                    "accession": 1315,
+                    "card_aro": 3000794,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 3627040,
+                    "gene": "mdtC",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump",
+                    "identity": 91.32,
+                    "name": "Multidrug resistance protein MdtC",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 3623963,
+                    "subclass": "aminocoumarin antibiotic"
+                },
+                "FKEDNGPL_03492": {
+                    "accession": 1337,
+                    "card_aro": 3000828,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 3630711,
+                    "gene": "baeR",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump",
+                    "identity": 92.5,
+                    "name": "Transcriptional regulatory protein BaeR",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 3629989,
+                    "subclass": "aminoglycoside antibiotic; aminocoumarin antibiotic"
+                },
+                "FKEDNGPL_03608": {
+                    "accession": 1545,
+                    "card_aro": 3003294,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 3766306,
+                    "gene": "Escherichia coli gyrA conferring resistance to fluoroquinolones",
+                    "gene_family": "fluoroquinolone resistant gyrA",
+                    "identity": 92.23,
+                    "name": "DNA gyrase subunit A",
+                    "resistance_mechanism": "antibiotic target alteration",
+                    "start": 3763673,
+                    "subclass": "fluoroquinolone antibiotic"
+                },
+                "FKEDNGPL_03769": {
+                    "accession": 1427,
+                    "card_aro": 3000491,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 3935888,
+                    "gene": "acrD",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump",
+                    "identity": 91.03,
+                    "name": "Multidrug efflux pump subunit AcrB",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 3932775,
+                    "subclass": "aminoglycoside antibiotic"
+                },
+                "FKEDNGPL_04009": {
+                    "accession": 2399,
+                    "card_aro": 3003922,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 4170874,
+                    "gene": "oqxA",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump",
+                    "identity": 100.0,
+                    "name": "Efflux pump periplasmic linker BepF",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 4169699,
+                    "subclass": "fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic"
+                },
+                "FKEDNGPL_04010": {
+                    "accession": 2400,
+                    "card_aro": 3003923,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 4174050,
+                    "gene": "oqxB",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump",
+                    "identity": 100.0,
+                    "name": "multidrug efflux RND transporter permease subunit OqxB3",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 4170898,
+                    "subclass": "fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic"
+                },
+                "FKEDNGPL_04055": {
+                    "accession": 1330,
+                    "card_aro": 3000516,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 4218850,
+                    "gene": "emrR",
+                    "gene_family": "major facilitator superfamily (MFS) antibiotic efflux pump",
+                    "identity": 92.57,
+                    "name": "Transcriptional repressor MprA",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 4218320,
+                    "subclass": "fluoroquinolone antibiotic"
+                },
+                "FKEDNGPL_04056": {
+                    "accession": 3298,
+                    "card_aro": 3004588,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 4220148,
+                    "gene": "Klebsiella pneumoniae KpnG",
+                    "gene_family": "major facilitator superfamily (MFS) antibiotic efflux pump",
+                    "identity": 99.74,
+                    "name": "Multidrug export protein EmrA",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 4218976,
+                    "subclass": "macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penam; peptide antibiotic; penem"
+                },
+                "FKEDNGPL_04057": {
+                    "accession": 3299,
+                    "card_aro": 3004597,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 4221702,
+                    "gene": "Klebsiella pneumoniae KpnH",
+                    "gene_family": "major facilitator superfamily (MFS) antibiotic efflux pump",
+                    "identity": 94.02,
+                    "name": "Multidrug export protein EmrB",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 4220164,
+                    "subclass": "macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penam; peptide antibiotic; penem"
+                },
+                "FKEDNGPL_04522": {
+                    "accession": 1450,
+                    "card_aro": 3003308,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 4691805,
+                    "gene": "Escherichia coli parC conferring resistance to fluoroquinolones",
+                    "gene_family": "fluoroquinolone resistant parC",
+                    "identity": 94.41,
+                    "name": "DNA topoisomerase 4 subunit A",
+                    "resistance_mechanism": "antibiotic target alteration",
+                    "start": 4689547,
+                    "subclass": "fluoroquinolone antibiotic"
+                },
+                "FKEDNGPL_04827": {
+                    "accession": 2158,
+                    "card_aro": 3003369,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 4974037,
+                    "gene": "Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin",
+                    "gene_family": "elfamycin resistant EF-Tu",
+                    "identity": 97.97,
+                    "name": "Elongation factor Tu 1",
+                    "resistance_mechanism": "antibiotic target alteration",
+                    "start": 4972853,
+                    "subclass": "elfamycin antibiotic"
+                },
+                "FKEDNGPL_04846": {
+                    "accession": 869,
+                    "card_aro": 3000518,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 4989716,
+                    "gene": "CRP",
+                    "gene_family": "resistance-nodulation-cell division (RND) antibiotic efflux pump",
+                    "identity": 99.05,
+                    "name": "cAMP-activated global transcriptional regulator CRP",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 4989084,
+                    "subclass": "macrolide antibiotic; fluoroquinolone antibiotic; penam"
+                },
+                "FKEDNGPL_04946": {
+                    "accession": 3795,
+                    "card_aro": 3005053,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 5101117,
+                    "gene": "ArnT",
+                    "gene_family": "pmr phosphoethanolamine transferase",
+                    "identity": 99.64,
+                    "name": "Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase",
+                    "resistance_mechanism": "antibiotic target alteration",
+                    "start": 5099462,
+                    "subclass": "peptide antibiotic"
+                },
+                "FKEDNGPL_05008": {
+                    "accession": 3791,
+                    "card_aro": 3005047,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 5182773,
+                    "gene": "eptB",
+                    "gene_family": "pmr phosphoethanolamine transferase",
+                    "identity": 99.46,
+                    "name": "Kdo(2)-lipid A phosphoethanolamine 7''-transferase",
+                    "resistance_mechanism": "antibiotic target alteration",
+                    "start": 5181100,
+                    "subclass": "peptide antibiotic"
+                },
+                "FKEDNGPL_05175": {
+                    "accession": 2373,
+                    "card_aro": 3003890,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Strict",
+                    "end": 5359214,
+                    "gene": "Escherichia coli UhpT with mutation conferring resistance to fosfomycin",
+                    "gene_family": "antibiotic-resistant UhpT",
+                    "identity": 95.03,
+                    "name": "Hexose-6-phosphate:phosphate antiporter",
+                    "resistance_mechanism": "antibiotic target alteration",
+                    "start": 5357823,
+                    "subclass": "fosfomycin"
+                },
+                "FKEDNGPL_05222": {
+                    "accession": 2035,
+                    "card_aro": 3001878,
+                    "contig": "NZ_CP006659.2",
+                    "cut_off": "Perfect",
+                    "end": 5408782,
+                    "gene": "CTX-M-15",
+                    "gene_family": "CTX-M beta-lactamase",
+                    "identity": 100.0,
+                    "name": "Beta-lactamase CTX-M-1",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 5407907,
+                    "subclass": "cephalosporin; penam"
+                },
+                "FKEDNGPL_05269": {
+                    "accession": 1243,
+                    "card_aro": 3000316,
+                    "contig": "NZ_CP006663.1",
+                    "cut_off": "Perfect",
+                    "end": 17408,
+                    "gene": "mphA",
+                    "gene_family": "macrolide phosphotransferase (MPH)",
+                    "identity": 100.0,
+                    "name": "hypothetical protein",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 16503,
+                    "subclass": "macrolide antibiotic"
+                },
+                "FKEDNGPL_05272": {
+                    "accession": 1808,
+                    "card_aro": 3000165,
+                    "contig": "NZ_CP006663.1",
+                    "cut_off": "Strict",
+                    "end": 20367,
+                    "gene": "tet(A)",
+                    "gene_family": "major facilitator superfamily (MFS) antibiotic efflux pump",
+                    "identity": 98.48,
+                    "name": "Tetracycline resistance protein, class C",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 19168,
+                    "subclass": "tetracycline antibiotic"
+                },
+                "FKEDNGPL_05388": {
+                    "accession": 1579,
+                    "card_aro": 3002723,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Perfect",
+                    "end": 26742,
+                    "gene": "QnrB9",
+                    "gene_family": "quinolone resistance protein (qnr)",
+                    "identity": 100.0,
+                    "name": "Pentapeptide repeat protein",
+                    "resistance_mechanism": "antibiotic target protection",
+                    "start": 26098,
+                    "subclass": "fluoroquinolone antibiotic"
+                },
+                "FKEDNGPL_05398": {
+                    "accession": 578,
+                    "card_aro": 3001070,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Strict",
+                    "end": 37171,
+                    "gene": "SHV-11",
+                    "gene_family": "SHV beta-lactamase",
+                    "identity": 99.65,
+                    "name": "Beta-lactamase SHV-1",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 36311,
+                    "subclass": "carbapenem; cephalosporin; penam"
+                },
+                "FKEDNGPL_05400": {
+                    "accession": 3843,
+                    "card_aro": 3005116,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Strict",
+                    "end": 38710,
+                    "gene": "AAC(6')-Ib-cr6",
+                    "gene_family": "AAC(6')-Ib-cr",
+                    "identity": 98.99,
+                    "name": "Aminoglycoside N(6')-acetyltransferase type 1",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 38111,
+                    "subclass": "fluoroquinolone antibiotic; aminoglycoside antibiotic"
+                },
+                "FKEDNGPL_05401": {
+                    "accession": 1952,
+                    "card_aro": 3001396,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Perfect",
+                    "end": 39671,
+                    "gene": "OXA-1",
+                    "gene_family": "OXA beta-lactamase",
+                    "identity": 100.0,
+                    "name": "Beta-lactamase OXA-1",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 38841,
+                    "subclass": "carbapenem; cephalosporin; penam"
+                },
+                "FKEDNGPL_05404": {
+                    "accession": 3321,
+                    "card_aro": 3004621,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Strict",
+                    "end": 41974,
+                    "gene": "AAC(3)-IIe",
+                    "gene_family": "AAC(3)",
+                    "identity": 98.95,
+                    "name": "SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 41114,
+                    "subclass": "aminoglycoside antibiotic"
+                },
+                "FKEDNGPL_05411": {
+                    "accession": 2035,
+                    "card_aro": 3001878,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Perfect",
+                    "end": 48003,
+                    "gene": "CTX-M-15",
+                    "gene_family": "CTX-M beta-lactamase",
+                    "identity": 100.0,
+                    "name": "Beta-lactamase CTX-M-1",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 47128,
+                    "subclass": "cephalosporin; penam"
+                },
+                "FKEDNGPL_05416": {
+                    "accession": 355,
+                    "card_aro": 3000873,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Perfect",
+                    "end": 51685,
+                    "gene": "TEM-1",
+                    "gene_family": "TEM beta-lactamase",
+                    "identity": 100.0,
+                    "name": "Beta-lactamase TEM",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 50825,
+                    "subclass": "monobactam; cephalosporin; penam; penem"
+                },
+                "FKEDNGPL_05418": {
+                    "accession": 1031,
+                    "card_aro": 3002660,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Strict",
+                    "end": 53242,
+                    "gene": "APH(6)-Id",
+                    "gene_family": "APH(6)",
+                    "identity": 99.64,
+                    "name": "hypothetical protein",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 52406,
+                    "subclass": "aminoglycoside antibiotic"
+                },
+                "FKEDNGPL_05419": {
+                    "accession": 1830,
+                    "card_aro": 3002639,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Strict",
+                    "end": 54045,
+                    "gene": "APH(3'')-Ib",
+                    "gene_family": "APH(3'')",
+                    "identity": 99.63,
+                    "name": "Aminoglycoside 3'-phosphotransferase",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 53242,
+                    "subclass": "aminoglycoside antibiotic"
+                },
+                "FKEDNGPL_05420": {
+                    "accession": 952,
+                    "card_aro": 3000412,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Perfect",
+                    "end": 54921,
+                    "gene": "sul2",
+                    "gene_family": "sulfonamide resistant sul",
+                    "identity": 100.0,
+                    "name": "Dihydropteroate synthase",
+                    "resistance_mechanism": "antibiotic target replacement",
+                    "start": 54106,
+                    "subclass": "sulfonamide antibiotic"
+                },
+                "FKEDNGPL_05454": {
+                    "accession": 1370,
+                    "card_aro": 3002581,
+                    "contig": "NZ_CP006662.2",
+                    "cut_off": "Strict",
+                    "end": 83347,
+                    "gene": "AAC(6')-Ib10",
+                    "gene_family": "AAC(6')",
+                    "identity": 98.97,
+                    "name": "Aminoglycoside N(6')-acetyltransferase type 1",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 82742,
+                    "subclass": "aminoglycoside antibiotic"
+                },
+                "FKEDNGPL_05553": {
+                    "accession": 1409,
+                    "card_aro": 3002017,
+                    "contig": "NZ_CP006661.1",
+                    "cut_off": "Perfect",
+                    "end": 73348,
+                    "gene": "CMY-6",
+                    "gene_family": "CMY beta-lactamase",
+                    "identity": 100.0,
+                    "name": "Beta-lactamase",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 72203,
+                    "subclass": "cephamycin"
+                },
+                "FKEDNGPL_05593": {
+                    "accession": 1370,
+                    "card_aro": 3002581,
+                    "contig": "NZ_CP006661.1",
+                    "cut_off": "Strict",
+                    "end": 115737,
+                    "gene": "AAC(6')-Ib10",
+                    "gene_family": "AAC(6')",
+                    "identity": 98.94,
+                    "name": "Aminoglycoside N(6')-acetyltransferase type 1",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 115159,
+                    "subclass": "aminoglycoside antibiotic"
+                },
+                "FKEDNGPL_05594": {
+                    "accession": 3755,
+                    "card_aro": 3005010,
+                    "contig": "NZ_CP006661.1",
+                    "cut_off": "Perfect",
+                    "end": 116253,
+                    "gene": "qacEdelta1",
+                    "gene_family": "major facilitator superfamily (MFS) antibiotic efflux pump",
+                    "identity": 100.0,
+                    "name": "Multidrug transporter EmrE",
+                    "resistance_mechanism": "antibiotic efflux",
+                    "start": 115906,
+                    "subclass": "disinfecting agents and antiseptics"
+                },
+                "FKEDNGPL_05595": {
+                    "accession": 1070,
+                    "card_aro": 3000410,
+                    "contig": "NZ_CP006661.1",
+                    "cut_off": "Perfect",
+                    "end": 117086,
+                    "gene": "sul1",
+                    "gene_family": "sulfonamide resistant sul",
+                    "identity": 100.0,
+                    "name": "Dihydropteroate synthase",
+                    "resistance_mechanism": "antibiotic target replacement",
+                    "start": 116247,
+                    "subclass": "sulfonamide antibiotic"
+                },
+                "FKEDNGPL_05603": {
+                    "accession": 783,
+                    "card_aro": 3000589,
+                    "contig": "NZ_CP006661.1",
+                    "cut_off": "Perfect",
+                    "end": 123003,
+                    "gene": "NDM-1",
+                    "gene_family": "NDM beta-lactamase",
+                    "identity": 100.0,
+                    "name": "Metallo-beta-lactamase type 2",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 122191,
+                    "subclass": "carbapenem; cephalosporin; cephamycin; penam"
+                },
+                "FKEDNGPL_05604": {
+                    "accession": 255,
+                    "card_aro": 3001205,
+                    "contig": "NZ_CP006661.1",
+                    "cut_off": "Perfect",
+                    "end": 123372,
+                    "gene": "BRP(MBL)",
+                    "gene_family": "Bleomycin resistant protein",
+                    "identity": 100.0,
+                    "name": "Bleomycin resistance protein",
+                    "resistance_mechanism": "antibiotic inactivation",
+                    "start": 123007,
+                    "subclass": "glycopeptide antibiotic"
+                },
+                "total": 49
+            }
+        },
+        "results_dir": "/work1/falmeida/git_repos/bacannot/testing/work/f4/1a9dbe607e929abe81772a9008383a/results/klebsiella_1",
+        "sample": "klebsiella_1",
+        "virulence": {
+            "VFDB": {
+                "FKEDNGPL_01174": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1252826,
+                    "gene": "acrB",
+                    "id": "VF0568",
+                    "product": "AcrAB_(VF0568)_Antimicrobial_activity/Competitive_advantage_(VFC0325)",
+                    "start": 1249680,
+                    "virulence_factor": "AcrAB"
+                },
+                "FKEDNGPL_01175": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1254042,
+                    "gene": "acrA",
+                    "id": "VF0568",
+                    "product": "AcrAB_(VF0568)_Antimicrobial_activity/Competitive_advantage_(VFC0325)",
+                    "start": 1252849,
+                    "virulence_factor": "AcrAB"
+                },
+                "FKEDNGPL_01418": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1500092,
+                    "gene": "fepA",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1497864,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01419": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1501560,
+                    "gene": "fes",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1500352,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01421": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1505683,
+                    "gene": "entF",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1501802,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01422": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1506542,
+                    "gene": "fepC",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1505748,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01423": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1507531,
+                    "gene": "fepG",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1506539,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01424": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1508535,
+                    "gene": "fepD",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1507528,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01425": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1509889,
+                    "gene": "entS",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1508648,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01426": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1511109,
+                    "gene": "fepB",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1510150,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01427": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1512473,
+                    "gene": "entC",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1511298,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01428": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1514090,
+                    "gene": "entE",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1512483,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01429": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1514955,
+                    "gene": "entB",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1514104,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01430": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 1515710,
+                    "gene": "entA",
+                    "id": "VF0562",
+                    "product": "Ent_(VF0562)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 1514955,
+                    "virulence_factor": "Ent"
+                },
+                "FKEDNGPL_01987": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2095799,
+                    "gene": "iutA",
+                    "id": "VF0565",
+                    "product": "Aerobactin_(VF0565)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 2093610,
+                    "virulence_factor": "Aerobactin"
+                },
+                "FKEDNGPL_02293": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2389254,
+                    "gene": "vipA/tssB",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2388763,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02294": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2390841,
+                    "gene": "vipB/tssC",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2389297,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02295": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2392194,
+                    "gene": "vasE/tssK",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2390851,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02296": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2392880,
+                    "gene": "dotU/tssL",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2392191,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02297": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2394583,
+                    "gene": "ompA",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2392877,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02298": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2395079,
+                    "gene": "hcp/tssD",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2394588,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02299": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2397998,
+                    "gene": "clpV/tssH",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2395344,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02313": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2414815,
+                    "gene": "tssF",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2413061,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02314": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2415864,
+                    "gene": "tssG",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2414779,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02315": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2416384,
+                    "gene": "sciN/tssJ",
+                    "id": "VF0569",
+                    "product": "T6SS_(VF0569)_Effector_delivery_system_(VFC0086)",
+                    "start": 2415842,
+                    "virulence_factor": "T6SS"
+                },
+                "FKEDNGPL_02586": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 2693868,
+                    "gene": "iroE",
+                    "id": "VF0563",
+                    "product": "Sal_(VF0563)_Nutritional/Metabolic_factor_(VFC0272)",
+                    "start": 2692939,
+                    "virulence_factor": "Sal"
+                },
+                "FKEDNGPL_03351": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 3479723,
+                    "gene": "rcsA",
+                    "id": "VF0571",
+                    "product": "RcsAB_(VF0571)_Regulation_(VFC0301)",
+                    "start": 3479100,
+                    "virulence_factor": "RcsAB"
+                },
+                "FKEDNGPL_03606": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 3760655,
+                    "gene": "rcsB",
+                    "id": "VF0571",
+                    "product": "RcsAB_(VF0571)_Regulation_(VFC0301)",
+                    "start": 3760005,
+                    "virulence_factor": "RcsAB"
+                },
+                "FKEDNGPL_04306": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4479302,
+                    "gene": "mrkH",
+                    "id": "VF0567",
+                    "product": "Type_3_fimbriae_(VF0567)_Biofilm_(VFC0271)",
+                    "start": 4478598,
+                    "virulence_factor": "Type_3_fimbriae"
+                },
+                "FKEDNGPL_04307": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4479892,
+                    "gene": "mrkI",
+                    "id": "VF0567",
+                    "product": "Type_3_fimbriae_(VF0567)_Biofilm_(VFC0271)",
+                    "start": 4479320,
+                    "virulence_factor": "Type_3_fimbriae"
+                },
+                "FKEDNGPL_04308": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4480752,
+                    "gene": "mrkJ",
+                    "id": "VF0567",
+                    "product": "Type_3_fimbriae_(VF0567)_Biofilm_(VFC0271)",
+                    "start": 4480036,
+                    "virulence_factor": "Type_3_fimbriae"
+                },
+                "FKEDNGPL_04309": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4481422,
+                    "gene": "mrkF",
+                    "id": "VF0567",
+                    "product": "Type_3_fimbriae_(VF0567)_Biofilm_(VFC0271)",
+                    "start": 4480787,
+                    "virulence_factor": "Type_3_fimbriae"
+                },
+                "FKEDNGPL_04310": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4482431,
+                    "gene": "mrkD",
+                    "id": "VF0567",
+                    "product": "Type_3_fimbriae_(VF0567)_Biofilm_(VFC0271)",
+                    "start": 4481436,
+                    "virulence_factor": "Type_3_fimbriae"
+                },
+                "FKEDNGPL_04311": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4484908,
+                    "gene": "mrkC",
+                    "id": "VF0567",
+                    "product": "Type_3_fimbriae_(VF0567)_Biofilm_(VFC0271)",
+                    "start": 4482422,
+                    "virulence_factor": "Type_3_fimbriae"
+                },
+                "FKEDNGPL_04312": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4485621,
+                    "gene": "mrkB",
+                    "id": "VF0567",
+                    "product": "Type_3_fimbriae_(VF0567)_Biofilm_(VFC0271)",
+                    "start": 4484920,
+                    "virulence_factor": "Type_3_fimbriae"
+                },
+                "FKEDNGPL_04313": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4486325,
+                    "gene": "mrkA",
+                    "id": "VF0567",
+                    "product": "Type_3_fimbriae_(VF0567)_Biofilm_(VFC0271)",
+                    "start": 4485717,
+                    "virulence_factor": "Type_3_fimbriae"
+                },
+                "FKEDNGPL_04318": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4491596,
+                    "gene": "fimB",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4490991,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04319": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4492670,
+                    "gene": "fimE",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4492062,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04320": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4493698,
+                    "gene": "fimA",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4493150,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04321": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4494305,
+                    "gene": "fimI",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4493769,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04322": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4495059,
+                    "gene": "fimC",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4494355,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04323": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4497753,
+                    "gene": "fimD",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4495141,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04324": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4498291,
+                    "gene": "fimF",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4497764,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04325": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4498804,
+                    "gene": "fimG",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4498304,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04326": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4499727,
+                    "gene": "fimH",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4498819,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "FKEDNGPL_04327": {
+                    "chr": "NZ_CP006659.2",
+                    "end": 4501046,
+                    "gene": "fimK",
+                    "id": "VF0566",
+                    "product": "Type_I_fimbriae_(VF0566)_Adherence_(VFC0001)",
+                    "start": 4499724,
+                    "virulence_factor": "Type_I_fimbriae"
+                },
+                "total": 46
+            }
+        }
+    }
+}
