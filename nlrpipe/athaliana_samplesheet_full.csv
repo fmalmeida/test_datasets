@@ -1,0 +1,2 @@
+sample,assembly,fastq_1,fastq_2
+athaliana,https://github.com/fmalmeida/test_datasets/raw/main/nlrpipe/athaliana_chr1.fna,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR842/009/SRR8428909/SRR8428909_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR842/009/SRR8428909/SRR8428909_2.fastq.gz
